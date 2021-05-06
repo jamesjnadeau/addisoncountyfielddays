@@ -7,7 +7,7 @@ Description: Exibit information and entry rules
 
 [[TOC]]
 
-**DIRECTOR:** Neil Allen
+**DIRECTOR:** Lucinda McKinley Kayhart
 **SUPERINTENDENT:** Robin Severy
 
 - Tuesday — 9:00 a.m. — Conformation 
