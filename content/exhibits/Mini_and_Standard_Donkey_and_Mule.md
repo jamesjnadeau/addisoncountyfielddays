@@ -3,7 +3,7 @@ Title: MINIATURE & STANDARD DONKEY & MULE SHOW
 Description: Exibit information and entry rules
 */
 
-# MINIATURE & STANDARD DONKEY & MULE SHOW
+# MINIATURE & STANDARD DONKEY & MULE SHOW---DELETE THIS SHOW
 
 First day of the fair, Tuesday — 10:00 am. — Butterfield Arena
 
