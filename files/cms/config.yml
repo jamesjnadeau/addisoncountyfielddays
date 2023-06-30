@@ -20,6 +20,7 @@ collections:
     folder: "content/exhibits"
     create: true
     slug: "{{slug}}"
+    preview_path: "/exhibits/{{slug}}"
     format: frontmatter
     extension: md
     identifier_field: "Title"
@@ -34,6 +35,7 @@ collections:
       - label: "Dedication"
         name: dedication
         file: "content/dedication.md"
+        preview_path: "/dedication"
         fields:
           - {label: "Title", name: "Title", widget: "string"}
           - {label: "Description", name: "Description", widget: "string"}
@@ -41,6 +43,7 @@ collections:
       - label: "Weddings"
         name: weddings
         file: "content/weddings.md"
+        preview_path: "/weddings"
         fields:
           - {label: "Title", name: "Title", widget: "string"}
           - {label: "Description", name: "Description", widget: "string"}
@@ -48,6 +51,7 @@ collections:
       - label: "Board"
         name: board
         file: "content/information/board.md"
+        preview_path: "/information/board"
         fields:
           - {label: "Title", name: "Title", widget: "string"}
           - {label: "Description", name: "Description", widget: "string"}
@@ -55,6 +59,7 @@ collections:
       - label: "Rules"
         name: rules
         file: "content/information/rules.md"
+        preview_path: "/information/rules"
         fields:
           - {label: "Title", name: "Title", widget: "string"}
           - {label: "Description", name: "Description", widget: "string"}
@@ -68,6 +73,7 @@ collections:
     format: frontmatter
     extension: pug
     identifier_field: "Title"
+    preview_path: "{{dirname}}/{{filename}}"
     summary: "{{dirname}}/{{filename}}.{{extension}} - {{Title}}"
     # adding a nested object will show the collection folder structure
     nested:
