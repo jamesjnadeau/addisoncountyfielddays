@@ -10,6 +10,8 @@ What would the midway be without kids, old and young, to ride the rides and play
 
 You visit Field Days in sunny weather and rain. Not much can keep you away and we love it! The more people visit, the better fair we can put on. We, the board of directors, our business manager, and grounds keeper, and many, many volunteers and financial supporters put on Addison County Fair and Field Days for you to enjoy! We appreciate you and dedicate this 75th fair to you! Come out and enjoy!
 
+
+
 # Memorial
 
 This year, we hope all remember fondly:
