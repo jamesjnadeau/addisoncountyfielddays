@@ -51,6 +51,12 @@ Start pulling 10:00 a.m.
 
 10,500#  $40-$30-$20-$20-$10
 
+## Enhanced Antique (7mph)
+6000#  $40-$30-$20-$20-$10
+
+7000#  $40-$30-$20-$20-$10
+
+
 
 ### Friday (day show) 
 Start pulling 10:00 a.m.
@@ -87,11 +93,6 @@ Start pulling 10:00 a.m.
 1200#  $55-$50-$40-$30-$25
 #### 4 Cylinder Mod  (2 hooks)
 (Purse TBD)
-
-#### Enhanced Antique (7mph)
-6000#  $40-$30-$20-$20-$10
-
-7000#  $40-$30-$20-$20-$10
 
 
 ### Friday (evening show) 
@@ -200,9 +201,6 @@ Class A (1 hook) $300-$240-$156-$108-$96-$84-$72-$60-$48-$36
 
 #### Street Legal Semi Tractor Trailers
 (1 hook)  $130-$105-$80-$55-$30
-
-#### Pro Stock  
-$200-$130-$90
 
 #### Single Engine Mod Tractors  (1 hook) (Purse TBD)
 
