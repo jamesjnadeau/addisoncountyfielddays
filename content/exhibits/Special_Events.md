@@ -32,15 +32,6 @@ DIRECT0R: Diane Norris, (802) 989-4295
 Sign up in the Butterfield Arena starts at 2:30 p.m. on the 10th Youth and Adult Classes -Ribbons and Prizes will be awarded.
 
 
-## FOREST FESTIVAL
-
-SUPERINTENDENT: Chris Olson, Addison county Forester, 388-4969
-
-Daily (morning and afternoon) demonstrations of sawmilling, woodworking, lumber
-landowners, foresters, logging contractors and sawmill owners who manage Vermont's
-handling, forest management, woodlot management, plus ongoing exhibits. Meet forest
-forest resources. Visit this attraction on Cedar Island, behind the Emergency Services building.
-
 ## PEDAL TRACTOR PULL
 Thursday, 11:00 a.m. — Location: Show Tent.
 DIRECTOR: Benj Deppman, (802)734-1381
@@ -54,7 +45,7 @@ The youngster's version of the real thing. Come on down and watch the fun and ch
 
 ## VERMONT PRODUCTS DINNER
 > "A Taste of Vermont"
-Tuesday, August 9, 2022 — Three Seatings: 5:15, 6:00 & 6:45 p.m.
+Tuesday, August 8, 2023 — Three Seatings: 5:15, 6:00 & 6:45 p.m.
 
 LOCATION: the Dining Hall 
 
@@ -63,7 +54,7 @@ COORDINATOR: Linda Barrett, (802)545-2263
 Take a break from the sun or rain! Come into the Field Days Dining Hall and enjoy a sit-down meal with family and friends! Restaurants and food producers from Addison County and beyond will
 present a delicious buffet for your dining pleasure. 
 Multiple entrees, dessert, and beverage will be available and served by local student athletes and participating food producers.
-Tickets for adults are just $10; children under 10 years are $5. 
+Tickets for adults are just $15; children under 10 years are $8. 
 
 Tickets will be on sale starting July 1st, by calling the Field Days office at (802)545-2557 or by emailing fielddays@gmavt.net. or at Pratt's Store in Bridport and Middlebury Inn.
 
