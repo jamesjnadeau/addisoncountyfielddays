@@ -3,14 +3,17 @@ Title: OPEN HORSE SHOW
 Description: Exibit information and entry rules
 ---
 
+# Horse Shows
+[[TOC]]
+
+
 
 # OPEN HORSE SHOW
 
-[[TOC]]
 
-Thursday August 11, 2022, 8:00 am. — Rain or Shine 
+Thursday, 8:00 am. — Rain or Shine 
 
-JUDGE: Andrea Lamanque; 
+JUDGE: Elizabeth Pope; 
 
 TRAIL JUDGE: Karen Malzac
 
@@ -18,12 +21,11 @@ CO-MANAGERS:
 - Jessica Stuart, Essex Junction, VT, 802-233-3013; 
 - Bailee Layn, Bristol, VT, 802-922-1653,
 
-Entries close by postmark of July 31, 2022. Day stabling only: 
-
-First come, frst served basis @$15.00(box). 
+Entries close by postmark of July 31, 2023.
+Day stabling only: First come, frst served basis @$15.00(box). 
 $5.00 refunded if left clean and checked by show management.
 
-Available from 7:30 p.m. on Wednesday 8/10/22. Vacate by 6:00 p.m. Thursday 8/11/22.
+Available from 7:30 p.m. on Wednesday. Vacate by 6:00 p.m. Thursday.
 
 We now have email and a Facebook page, please like us! Our email is
 fdhorseshow at gmail.com
@@ -31,7 +33,7 @@ fdhorseshow at gmail.com
 
 ## RULES AND REGULATIONS
 **PLEASE NOTE: ALL CAMPERS AND HORSE TRAILERS MUST CHECK IN BEFORE
-PARKING THEM & NO DOGS ALLOWED.**
+PARKING THEM & NO DOGSALLOWED.**
 
 1. Eight ribbons in each class. Entry fee $5.00 per class. Prize awarded to each champion.
 2. Exhibitors are subject to Addison County Fair and Field Days rules.
@@ -55,11 +57,11 @@ them, thereby releasing Addison County Fair & Field Days from any damage whatsoe
 10. The management will act as stewards at this show and their decision is fnal.
 11. Hard hats required in all hunt seat classes.
 12. RABIES CERTIFICATES REQUIRED. IT MUST BE ISSUED AND SIGNED BY A LICENSED
-VETERINARIAN AT LEAST 30 DAYS(JULY 2, 2021) PRIOR TO THIS SHOW. ATTACH A COPY
+VETERINARIAN AT LEAST 30 DAYS(JULY 1, 2019) PRIOR TO THIS SHOW. ATTACH A COPY
 TO YOUR ENTRY –IT WILL NOT BE RETURNED. HORSES CANNOT BE UNLOADED WITHOUT
 PROOF OF SHOTS. THIS IS A VERMONT STATE FAIRS MANDATE. NAME OF HORSE SHOULD
 BE THE SAME ON ENTRY BLANK AND RABIES CERTIFICATE.
-13. All ages are 1/1/2022.
+13. All ages are 1/1/2023.
 14. Lunch break to be announced.
 15. Health certifcate & negative Coggins required for all out-of-state horses.
 16. NO ONE SHALL APPROACH A JUDGE WITH REGARD TO A DECISION UNLESS
@@ -82,9 +84,9 @@ award program for Juniors, Seniors, Very Small Equines (Miniature Horses), and A
 4. Very Small Equines (44 inches) In-Hand *
 5. Hunter Model
 6. Open in Hand *
-7. Weanling Class (2022 foals) (Mares not allowed in ring
-8. Yearling Class (2021 foals)
-9. Two Year Olds (2020 foals) 
+7. Weanling Class (2023 foals) (Mares not allowed in ring
+8. Yearling Class (2022 foals)
+9. Two Year Olds (2021 years ago foals) 
 ### Open in Hand Championship
 1st & 2nd place winners of classes # 1-9 No entry fee.
 10. English Showmanship
@@ -141,3 +143,8 @@ a fun class ie: command class, Simon Says, etc. To be announced at the show. ***
 ***Novice Rider is an individual over 18 years old and in their frst year of showing and will only
 be competing against others at the walk/trot.
 
+
+DRAFT HORSE SHOW
+Friday, August 9, 2019 — 9:30 am. — Saturday, August 10, 2019 — 9:30 am.
+JUDGE: Rocky Lyons * SUPERINTENDENT: Kathy Nisun, 349-8971
+ANNOUNCER: John Hutton *Ringmaster: Fri. Gary Cherrier — Sat. Terry Malone; *SECRETARY: Kathy Kennett, Phone 802-759-2015, Cell 802-349-5671
