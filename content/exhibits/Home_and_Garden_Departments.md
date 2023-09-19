@@ -396,24 +396,26 @@ A.	AMATEUR ART - One entry per class allowed
 
 B.  AMATEUR FOLK ART
  
-	Folk Art in not judged on artistic skill. What is important is the piece’s ability to express a feeling or evoke an image of a person’s culture or heritage.  Folk Art exists in any medium and is often made of found or repurposed materials. Folk Artists often use or construct materials in new and nontraditional ways. Although some pieces are designed as art and evoke a feeling for the surroundings and/or culture, many pieces also serve a utilitarian function.
-	Entrants in the Folk-Art category may include a paragraph about their work. The paragraph may include what inspired the piece, their choice of materials and/or what they hope to convey.
+Folk Art in not judged on artistic skill. What is important is the piece’s ability to express a feeling or evoke an image of a person’s culture or heritage.  Folk Art exists in any medium and is often made of found or repurposed materials. Folk Artists often use or construct materials in new and nontraditional ways. Although some pieces are designed as art and evoke a feeling for the surroundings and/or culture, many pieces also serve a utilitarian function.
 
-	11. Painted surfaces
-	12. Other constructions
+Entrants in the Folk-Art category may include a paragraph about their work. The paragraph may include what inspired the piece, their choice of materials and/or what they hope to convey.
+
+11. Painted surfaces
+12. Other constructions
 
 C.  AMATEUR PHOTOGRAPHY 
 
-	All images should seek to capture a moment, convey a feeling or tell a story. Black and white and color are included in every class. One entry per class is allowed.
+All images should seek to capture a moment, convey a feeling or tell a story. Black and white and color are included in every class. One entry per class is allowed.
 
-	13. Pet Portraits
-	14. Vermont Landscapes
-	15. Your Best Image
+13. Pet Portraits
+14. Vermont Landscapes
+15. Your Best Image
 
 D. PHOTO CHALLENGE
 
 2023 Photo Challenge - “Supporting the Farm” 	  
-	Celebrating people, businesses, and machines as well as other things contributing to the success of the farm.
+
+Celebrating people, businesses, and machines as well as other things contributing to the success of the farm.
 
 
  
