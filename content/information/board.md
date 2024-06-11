@@ -21,7 +21,7 @@ Description: The folks who work behind the scenes to make the fair happen. Thank
 ## Board Members
 
 ### PRESIDENT: 
-Diane Norris, 897—7014
+Cindy Kayhart, 343-3862
 
 ### VICE PRESIDENT: 
 Benj Deppman, 734—1381
@@ -37,16 +37,16 @@ Brenda Deering, 545-2279
 - Tricia Foster, 233-2821
 - Kenneth Button, 989-7055 
 - Megan Sutton, 545—2475
--  Mike Reed, 759-2054
--  Bruce Putnam, 349-6107
--  Cindy Kayhart, 343-3862
-- Chris Acker, 349-2342
+- Mike Reed, 759-2054
+- Bruce Putnam, 349-6107
+- Paul Quesnel, 989-0187
+
 
 ### BUSINESS MANAGER: 
-Cara Mullin, 545-2557
+Cara Mosier, 545-2557
 
 ### GROUNDS MANAGER: 
 Leonard Barrett, 349-4179
 
 ### ELECTRICIAN: 
-Herb Fisher, 247—6390 or 247-6596
+Herb Fisher, 353-1516
