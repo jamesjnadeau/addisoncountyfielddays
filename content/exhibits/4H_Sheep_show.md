@@ -4,9 +4,9 @@ Description: Exibit information and entry rules
 ---
 # 4-H AND OTHER YOUTH SHEEP SHOW
 
-### REGISTER ON LINE AT:[](https://sites.google.com/site/acffdsheepshow/)
+### REGISTER ON LINE AT:
 
-### <https://sites.google.com/site/acffdsheepshow/>
+### [https://sites.google.com/site/acffdsheepshow/](https://sites.google.com/site/acffdsheepshow/)
 
 ### RULES & AWARDS
 
