@@ -51,6 +51,7 @@ damage to oxen, drivers, or any equipment or articles sent to the show.
 Thursday and Friday
 
 SUPERINTENDENT: Benj Deppman (802)734-1381
+
 MANAGER/JUDGE: Terry Malone, 933-4435
 
 ### RULES
