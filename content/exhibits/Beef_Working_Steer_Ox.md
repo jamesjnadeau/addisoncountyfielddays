@@ -32,15 +32,15 @@ Overall Showmanship/Fitting (Grand & Reserve)
 
 
 ### RULES
-1.1)	Mail entries to: Hannah Shipman, 118 Johnston Road, Burke, NY 12917. Entries must be received by July 20, 2023. 
+1.1)	Mail entries to: Hannah Shipman, 118 Johnston Road, Burke, NY 12917. Entries must be received by July 20, 2024. 
 Superintendent and Beef Committee will be assembling a Draft Show Booklet prior to the fair. Once check ins and weigh ins for Working Steers/Ox and Market Animals, the Show Booklet will be updated.
 
 2. Enclose entry fee of $5.00 for each animal stabled and entered in OPEN SHOW. Make
 check payable to: ACFFD
 3. Field Days assumes no responsibility for loss or damage to animals from any cause.
 Entries accepted only on this condition.
-4. All animals shall be on the grounds prior to 8:00 p.m. on Monday, August 7, 2023.
-5. All entries must remain on the grounds until 9 p.m. on Saturday, August 12th, 2023. Failure
+4. All animals shall be on the grounds prior to 8:00 p.m. on Monday, August 7, 2024.
+5. All entries must remain on the grounds until 9 p.m. on Saturday, August 12th, 2024. Failure
 to abide by arrival and departure times will result in loss of premiums and/or awards.
 Cattle may remain on the grounds until Sunday. Security is provided.
 6. Spacing will be allocated based on the number and age of animals signed up. (Calves & Yearlings will be allowed a spacing between two holes. Cows will be allowed a spacing between three holes.) If the barn is full; the exhibitor will be asked to narrow up their exhibit. If exhibitor area is on an interior wall where there is not outside room to store feed and tack; reasonable accommodations will be allowed for feed and tack to be stored along your exhibit.
@@ -78,7 +78,7 @@ SHOWMANSHIP/FITTING CLASSES (Age is as of Jan 1st)
 -	Overall Showmanship/Fitting (1st & 2nd place from Classes A-C)
 MARKET CLASSES
 -	(No registration papers required for these classes) ~ For both Youth & Open Show: All animals in Market Classes will be weighed at Field Days and put into classes.
--	Animal is to be less than 30 months old as of October 1, 2023. 
+-	Animal is to be less than 30 months old as of October 1, 2024. 
 -	Animal can be a cross with dairy breed.
 -	Birthdates and breed of animal will be provided along with weighs to the judge.
 -	Grand & Reserve Champion Overall Market (1st and 2nd place from all classes)
@@ -92,8 +92,8 @@ CONFORMATION CLASSES YOUTH and OPEN SHOW
 -	Youth and Open will show at the same time. Superintendent and show ring help will take notes of placings for the separate premiums based on youth and open. 
 -	Conformation Classes will be separated if there is 10 or more of a specific registered breed. *Some breed associations allow up to 50% cross breeding.
 CALF Class:
-Class E - Spring Heifer Calf (March 1, 2023 to June 30, 2023) 
-Class F-  Winter Heifer Calf (December 1, 2022 to February 28, 2023) 
+Class E - Spring Heifer Calf (March 1, 2024 to June 30, 2024) 
+Class F-  Winter Heifer Calf (December 1, 2022 to February 28, 2024) 
 Class G – Fall Heifer Calf (September 1, 2022 to November 30, 2022) 
 		Open - Grand & Reserve Calf Champion (1st and 2nd place from Classes E-G)
 		Youth - Grand & Reserve Calf Champion (1st and 2nd place from Classes E-G)
@@ -119,7 +119,7 @@ Youth – Grand & Reserve Overall Female Champion (Grand & Reserve from Calf, Ye
 
 OPEN SHOW ONLY
 
-Class N - Junior Bull Calf (January 1, 2023 to June 30, 2022) 
+Class N - Junior Bull Calf (January 1, 2024 to June 30, 2022) 
 Class O - Pair of Calves (2 calves from classes E, F, G or N)  
 Class P - Best two (2) Females Bred and Owned by Exhibitor 
 Class Q - Exhibitor’s Herd, best three (3) females Owned by Exhibitor

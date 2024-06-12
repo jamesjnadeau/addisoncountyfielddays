@@ -32,9 +32,9 @@ Victor Bolduc, and Patrick Reen. Youth Members Katherine Whipple and David Bertr
 
 ## 4-H Pass Policy
 
-1. 4-H members and 4-H leaders will be awarded a colored Field Days Bracelet for 2023.
+1. 4-H members and 4-H leaders will be awarded a colored Field Days Bracelet for 2024.
 Each organizational leader is to submit a list of active members and leaders for their club
-at any time before July 31, 2023 to 4-H Fair Passes, UVM Extension, 23 Pond Lane, Suite
+at any time before July 31, 2024 to 4-H Fair Passes, UVM Extension, 23 Pond Lane, Suite
 300, Middlebury, VT 05753 or email Martha Seifert.
 4-H members are to receive their pass from their 4-H leader as soon as
 available.
@@ -60,7 +60,7 @@ All youth are encouraged to exhibit their talents in the Youth Hall. Any non-pro
 oriented group is invited to display exhibits. Exhibits may be created by groups, clubs or individuals.
 Articles may be exhibited even if they do not fit into a standard category. All exhibit space must be
 pre-registered with Martha Seifert, UVM Extension Office, 23 Pond Lane, Suite 300, Middlebury,
-VT 05753 (or 388-4969), by July 31, 2023.
+VT 05753 (or 388-4969), by July 31, 2024.
 
 All exhibits must have been produced, made or grown by the exhibitor(s) in the current
 year, and are exhibited at the exhibitor’s risk.
@@ -68,7 +68,7 @@ year, and are exhibited at the exhibitor’s risk.
 ### ENTRY TAGS 
 
 All exhibits will have an entry tag securely attached, filled out by the exhibitor
-or group/club leader, with age as of 1/1/2023 and number of years in the project. Please
+or group/club leader, with age as of 1/1/2024 and number of years in the project. Please
 complete both sides of the entry tag. Tags will be available at the Youth Hall at setup
 time. Cloverbuds will have separate club tags.
 

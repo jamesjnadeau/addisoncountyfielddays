@@ -9,7 +9,7 @@ Description: Exibit information and entry rules for Field Crops & Handmowing at 
 # FIELD CROPS
 ## NEW CROPS SUPERINTENDENT: Abigail Augraten-abigail.augraten@uvm.edu
 
-ENTRY DEADLINE: Monday, August 7, 2023-All Products in by 12:00 noon
+ENTRY DEADLINE: Monday, August 7, 2024-All Products in by 12:00 noon
 
 ## Rules
 1. Limit one (1) entry in each class. All entries must be produced on the exhibitor’s farm.

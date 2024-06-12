@@ -101,8 +101,8 @@ bedding or will be able to buy shavings at the fair.
 
 ### CLASSES
 Limit of one group per exhibitor in each group classes.
-1.	Spring Heifer March -May 10, 2023
-2.	Winter Heifer December 2022-February 28, 2023
+1.	Spring Heifer March -May 10, 2024
+2.	Winter Heifer December 2022-February 28, 2024
 3.	Fall Heifer September -November 2022
 4.	Summer Yearling June-August 2022
 5.	Spring Yearling March-May 2022

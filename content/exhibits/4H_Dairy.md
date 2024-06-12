@@ -92,8 +92,8 @@ All livestock must comply with the following health requirements. Livestock incl
 
 CONFORMATION CLASSES (Tuesday) $2.00/class
 
-1. Spring Calf — born between March 1 , 2023,  and April 30 , 2023 
-2. Winter Calf — born between December 1, 2022 and February 28, 2023.
+1. Spring Calf — born between March 1 , 2024,  and April 30 , 2024 
+2. Winter Calf — born between December 1, 2022 and February 28, 2024.
 3. Fall Calf — born between September 1, 2022 and November 30, 2022.
 4. Summer Yearling Heifer— born between June 1, 2022 and August 31, 2022.
 5. Spring Yearling Heifer — born between March 1, 2022 and May 31, 2022.
@@ -114,17 +114,17 @@ CONFORMATION CLASSES (Tuesday) $2.00/class
 
 $2.00/class
 
-* Novice Class Division A: Member 8 years of age (as of January 1, 2023) who has never
+* Novice Class Division A: Member 8 years of age (as of January 1, 2024) who has never
   shown before.
-* Novice Class Division B: Member 9-12 years of age (as of January 1, 2023) and under
+* Novice Class Division B: Member 9-12 years of age (as of January 1, 2024) and under
   who have not shown an animal before. NOTE: Superintendents reserve the right to
   divide classes according to size.
-* Junior Division : 11 years of age and under as of January 1, 2023
+* Junior Division : 11 years of age and under as of January 1, 2024
   Junior Champion Showman-All First Place showmen compete from Junior Division
   Showmanship classes.
-* Intermediate Division: 12 to 14 years of age as of Jan 1, 2023.
+* Intermediate Division: 12 to 14 years of age as of Jan 1, 2024.
 * Intermediate Champion Showman & All First Place Winners from Intermediate classes.
-* Senior Division: Age 15 to 18 years as of January 1, 2023.
+* Senior Division: Age 15 to 18 years as of January 1, 2024.
 * Senior Champion Showman--All First Place winners from Senior Showmanship division
   classes. (In the event that the First Place winner in this class is a previous winner, then
   the first eligible winner will compete}.

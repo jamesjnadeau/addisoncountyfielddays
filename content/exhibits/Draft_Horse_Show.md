@@ -514,11 +514,11 @@ Awarded to the high point youth in each age group.
 
 ### Dear Draft Horse Exhibitors,
 
-• We are pleased to share some changes for our 2023 draft show and hope our dates of
+• We are pleased to share some changes for our 2024 draft show and hope our dates of
 Friday, August 11 – Saturday, August 12 will allow us to fill all stalls. We have a total of
 156 stalls available.
 
-• We will welcome as our 2023 judge: Mike Lizotte, Saco, Maine
+• We will welcome as our 2024 judge: Mike Lizotte, Saco, Maine
 
 • We will again be a North American Classic Six qualifying show. We offer classes for the
 Six Horse Hitch, Classic Cart and Youth Cart.

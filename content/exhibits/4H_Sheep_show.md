@@ -48,12 +48,12 @@ POINTS:
 *1. Fitting and Showmanship: Exhibitors are required to participate and must show their own, or a leased, animal. Exhibitors MUST be neatly attired in white button shirt/blouse and white, black, dark green or tan pants. This class will be divided into 4 groups: Senior (age 18-21); Intermediate (age 13-17), Junior (age 9-12); Novice (1st year, 8yrs). A PeeWee showmanship class for youth 5-7 years with a prize for each. A sheep blanket will be awarded to each first-place showman.
 ### CHAMPION RAM
 *2. Yearling Ram Class- (limited to youth 12 yrs. of age and older-not to be shown in Fitting and Showmanship.) 1 yr. of age, but under 2 years.
-*3. Senior Ram Class — born on or after September 1, 2023 and before January 1, 2024
+*3. Senior Ram Class — born on or after September 1, 2024 and before January 1, 2024
 *4. Junior Ram Class — born on or after January 1, 2024
 ### CHAMPION EWE
 *5. Aged Ewe—2 years and older
 *6. Yearling Ewe — 1 year of age, but under 2 years
-*7. Senior Ewe — born on or after September 1, 2023 and before January 1, 2024 
+*7. Senior Ewe — born on or after September 1, 2024 and before January 1, 2024 
 *8. Junior Ewe — born on or after January 1, 2024
 *9. Daughter/Dam-Aged ewe with her yearling, Senior or Junior ewe lamb.
 *10.Exhibitor’s Flock — group to consist of one (1) Ram Lamb and two (2) Ewes owned by exhibitor and shown in classes.

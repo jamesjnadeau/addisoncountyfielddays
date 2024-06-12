@@ -45,7 +45,7 @@ The youngster's version of the real thing. Come on down and watch the fun and ch
 
 ## VERMONT PRODUCTS DINNER
 > "A Taste of Vermont"
-Tuesday, August 8, 2023 — Three Seatings: 5:15, 6:00 & 6:45 p.m.
+Tuesday, August 8, 2024 — Three Seatings: 5:15, 6:00 & 6:45 p.m.
 
 LOCATION: the Dining Hall 
 

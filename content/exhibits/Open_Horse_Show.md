@@ -21,7 +21,7 @@ CO-MANAGERS:
 - Jessica Stuart, Essex Junction, VT, 802-233-3013; 
 - Bailee Layn, Bristol, VT, 802-922-1653,
 
-Entries close by postmark of July 31, 2023.
+Entries close by postmark of July 31, 2024.
 Day stabling only: First come, frst served basis @$15.00(box). 
 $5.00 refunded if left clean and checked by show management.
 
@@ -61,7 +61,7 @@ VETERINARIAN AT LEAST 30 DAYS(JULY 1, 2019) PRIOR TO THIS SHOW. ATTACH A COPY
 TO YOUR ENTRY –IT WILL NOT BE RETURNED. HORSES CANNOT BE UNLOADED WITHOUT
 PROOF OF SHOTS. THIS IS A VERMONT STATE FAIRS MANDATE. NAME OF HORSE SHOULD
 BE THE SAME ON ENTRY BLANK AND RABIES CERTIFICATE.
-13. All ages are 1/1/2023.
+13. All ages are 1/1/2024.
 14. Lunch break to be announced.
 15. Health certifcate & negative Coggins required for all out-of-state horses.
 16. NO ONE SHALL APPROACH A JUDGE WITH REGARD TO A DECISION UNLESS
@@ -84,7 +84,7 @@ award program for Juniors, Seniors, Very Small Equines (Miniature Horses), and A
 4. Very Small Equines (44 inches) In-Hand *
 5. Hunter Model
 6. Open in Hand *
-7. Weanling Class (2023 foals) (Mares not allowed in ring
+7. Weanling Class (2024 foals) (Mares not allowed in ring
 8. Yearling Class (2022 foals)
 9. Two Year Olds (2021 years ago foals) 
 ### Open in Hand Championship

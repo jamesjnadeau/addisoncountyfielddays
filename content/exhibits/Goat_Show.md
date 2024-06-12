@@ -52,13 +52,13 @@ into 4 groups: Senior (age 18-21); Intermediate (age 13-17), Junior (age 9-12); 
 Champion Buck
 2. Yearling Buck Class — (limited to youth 12 yrs of age and older-not to be shown in
 Fitting and Showmanship.) 1 yr of age, but under 2 years
-3. Senior Buck Class — born on or after September 1, 2023 and before January 1, 2024
+3. Senior Buck Class — born on or after September 1, 2024 and before January 1, 2024
 
 4. Junior Buck Class — born on or after January 1, 2024
 Champion Doe
 5. Senior Doe—2 years and older
 6. Yearling Doe — 1 year of age, but under 2 years
-7. Senior Doe — born on or after September 1, 2023 and before January 1, 2024
+7. Senior Doe — born on or after September 1, 2024 and before January 1, 2024
 8. Junior Doe — born on or after January 1, 2024
 9. Exhibitor’s Flock — group to consist of one (1) Buck and two (2) Does owned by
 exhibitor and shown in classes
