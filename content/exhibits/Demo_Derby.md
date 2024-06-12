@@ -1,158 +1,123 @@
----
+/*
 Title: DEMOLITION DERBY
 Description: Exibit information and entry rules for the Addison County Fair And Field Days Demolition Derby
----
+*/
 #  DEMOLITION DERBY
 
 ### G.STONE MOTORS/ADDISON COUNTY FAIR & FIELD DAYS DEMOLITION DERBY
-ANY QUESTIONS CALL DICK THERRIEN 802-274-8823 OR BOB WRIGHT 603-631-1833 ABSOLUTELY NO CALLS BEFORE 8AM OR AFTER 8PM
+ANY QUESTIONS CALL Dustin Tierney (802)825-1813 or Ethan Gevry (802)349-0699
 
-Tuesday, August 8 starting at 7:00 pm. Wednesday, August 9 starting at 7:00 pm.
-
-Tuesday - 6- & 8-CYLINDER DEMOLITION DERBY & 4 CYLINDER & MlNl-VAN DEMOLITION DERBY 
-Wednesday - 6 & 8 CYLINDER, 4 CYLINDER & MlNl-VAN & TRUCK DEMOLITION DERBY 
+Tuesday, August 6 starting at 7:00 pm. Wednesday, August 7 starting at 7:00 pm. Thursday, August 8 starting at 7:00 pm.
 
 EACH DRIVER MUST FILL OUT AN ENTRY FORM AT – G.STONE MOTORS, MIDDLEBURY, VT
 
 
-2023 SEASON RULES ALL CLASSES
-************New for 2023************
--	Compact SUV has been added to the 6 cylinder class.  
--	Mid size SUV has been added to the 8 cylinder class.
--	Compact truck has been added to the minivan class.
--	If your car is deemed out of rules. It was your decision to do so. Every effort has been made to condense and simplify the rules to make the build process understandable and easy.
--	The Addison County Fair Demo Derby is a hometown fair event. Let’s keep it that way. Build your vehicle to the established tech & safety rules.
--	If you want to build a vehicle & participate in a demo with a vehicle that has loaded frames, skid steer tires, railroad track for bumpers, high dollar built engines and transmissions, there are demo venues & promoters that run that example of vehicle in their events.
--	The promoters of the demo, Dick Therrien and Bob Wright and Fair directors, Dianne Norris & Bruce Putnam have final decision regarding driver & vehicle eligibility to compete.
-  -	The promoters of the demo, Dick Therrien and Bob Wright have final decision regarding live status of vehicles out on the track in competition.
--Please be sure to carefully read & understand all rules before building your demo derby vehicle. Call Bob Wright with any questions for the build.
+2024 SEASON RULES:
 
-### ELIGIBLE VEHICLES
--	4 Cylinder class: 1980 or newer domestic or imported 4 cylinder sedan or station wagon. 
-- 5 Cylinder cars may be run in the 6 cylinder class.
--	Cylinder class: 1980 or newer domestic or imported 6 cylinder sedan, compact suv or station wagon.
--	8 Cylinder class: domestic or imported 8 cylinder sedan, mid size SUV or station wagon. No full frame imperials .
--	Minivan/compact truck class: 1980 or newer domestic or imported 4 or 6 cylinder.
--	Truck/van/SUV class: domestic or imported full to midsize light duty truck, full size SUV and full-size van .
-−-	Examples of compact SUV are but not limited to: Ford Escape, Toyota RAV 4, Chevy Trax. Examples of mid size SUV are but not limited to: ford Explorer, Toyota Highlander, Chevy Traverse. Examples of compact truck are but not limited to: Ford Ranger, Toyota Tacoma, Chevy S-10
-### RESTRICTIONS - PRICES
--	Driver entry and 1 crewmember combined $50.00.
--	Absolutely no building of vehicle at the track. Build your vehicle at home
--	Minimum age of driver allowed is 16.
--	Minimum age to enter the pits is 14 absolutely no exceptions.
--	Anyone under the age of 18 must have signed minors release.
--	Promoter has the right to approve or reject any entry.
--	Anyone entering the pits must have paid entry, no bracelet, no entry. There will be no exceptions. Anyone found in your pit without a pit bracelet may result in the vehicle & whole team ejected from pits.
--	Absolutely no alcohol or drugs allowed in pits.
--	Demo officials will park your demo entry. No saving of pit spots. If you want to park together you must enter together
--	The vehicle you run in the feature must be the vehicle you ran in the heat
--	A valid driver’s license is mandatory! Anyone that is 16 years of age or older and never had a license is eligible to compete.
--	The only vehicles that will be allowed in the pits will be, the demo entry
+**Compacts (4&6) & Vans & V8 
+**
+1. No imperials 1973 or older, no imperial subs no hearses or ambulances no trucks or truck frames 
 
-### DEMO PROCEDURES
--	Be mindful of drivers door hits!!!! This is your first warning.
- - Vehicles will be divided into heats. Heats will be determined by the volume.
--	Of vehicles per class. If not enough vehicles per class entered, only a feature may be run.
--	Trophies will be presented to the three top aggressive, hard-hitting drivers in each heat. To be determined by the promoters
--	Number of vehicles qualifying for main event from each heat will be decided at pit meeting.
--	Trophies and cash awards will be presented to top 3 in each feature.
--	You must run the feature with the vehicle you ran in the heat.
--	A time limit will be set by the judges for cars not moving, hitting a live car, or playing possum. If you are timed out & not in a qualified position you will be done for night.
--	If you are put on the clock, we will use the loudspeaker, hand signals & laser pointers to attract your attention to warn you. You need to pay attention to officials.
--	If you are timed out, we will use the loudspeaker, hand signals, laser pointers and if needed a spray of water from fire hose to attract your attention to warn you. You need to pay attention to officials. As a last resort water from the fire department may be used.
--	If you are timed out, you must keep your helmet on and stay buckled in.
+2. All cars must have a number or slogan displayed on each side of the vehicle large enough for the announcer to read, a roof sign is also highly recommended. No profanity or vulgar phrases.
 
- 
-### TECH & SAFETY CHECK
--	All vehicles will have the registered number on a roof sign & on both doors.
--	The roof sign background will be black with white lettering. The overall size will be no less than 18” long by 12” high.
--	Minimum size for roof sign and door numbers is 17” high by 3” wide.
--	Door numbers will be in high contrast of the background.
--	After you pass safety & tech check proceed directly to lineup and close up your car there. No going back to pits unless you fail tech.
--	If you fail tech, an official will give you a sheet listing the corrections needed. Make the correction, return to tech with the sheet & have the vehicle rechecked.
--	No working 4x4 allowed. You must either be front wheel drive or rear wheel drive. You must have a mechanical disconnection from being 4x4
--	Gas engines only, no diesel engines allowed, no fully electric vehicles allowed.
--	No vehicles with plastic door skins allowed, such as Corvette & Saturn.
--	Gas/electric hybrid vehicles must remove the hybrid drive battery.
--	No right-hand drive vehicles.
--	Expanding spray foam may be used to stabilize the vehicle computer only. No place else is spray expanding foam allowed.
+3. Stock means stock, all cars are considered stock except anything specified in these rules. All rust and rot repairs must be approved by the head official
 
-### TIRES & WHEELS
--	Department of transportation (d.O.T.) Approved tires only.
--	All tire decisions must be approved by tech officials.
--	No exotic, aggressive tread mud tires.
--	No home or custom-built wheels allowed. No racing wheels allowed.
--	No inner liners allowed, absolutely no loading of tires.
--	Only one tire per wheel.
--	No valve stem protectors, no side wall protectors.
--	All tire studs and wheel weights must be removed from the front & rear wheels. There will be no exceptions.
--	If you have a vehicle that has never been demo’d, you may not start the demo heats with any donut tires.
--	If vehicle was in a previous demo and the tire/wheel assembly won’t fit in that wheel position, with a reasonable amount of clearance than you may start with the donut tire in that wheel position only.
--	Donut tires allowed for feature if the stock tire/wheel assembly will not fit in the wheel position with a reasonable amount of clearance.
--	“A reasonable amount of clearance” will be at the official’s discretion.
--	No tires will exceed a 4 ply rating
+4. This class is open to any FWD, RWD NO AWD…. V8 and compacts are different classes but use the same rules unless noted
 
-### BODY PANELS
--	Trunk lids & tailgates are not mandatory. Engine hoods are mandatory.
--	All doors must be welded, chained (1/4 inch) or use #9 wire .
--	Welding on doors consists of only three (3) half dollar size washers welded from the door to post.
--	Trunks, tailgates & hoods must be chained (1/4 inch) or #9 wire shut. All tailgate hood & trunk latches must be removed.
--	All hood prop rods must be removed.
--	Trunks, tailgates & hood will be held shut at a maximum of six (6)
- 	spots. Two places at the front and two places from the hood to fenders on each side.
--	All sunroofs must have the glass removed and be tinned over with a minimum of 22 gauge steel.
--	Engine hoods must have a minimum 12” x 15” hole cut in the center.
--	The drivers door & only the drivers door must be painted in a fluorescent color that is in high contrast to the rest of the color of the car.
--	All debris & glass must be removed from the vehicle.
--	No rear view mirrors of any kind allowed.
--	On the drivers door only. You may attach by bolting or welding a reinforcement not to extend more than 4 inches beyond the front or rear of the drivers door & not exceed 4” in width & 3/16” in thickness.
--	No intentional reinforcing or intentional weakening of the body or frame allowed. No loading of the frame.
--	You may install two 1/4 inch chains or 2 sections of 2-inch-wide x 3/16-inch-thick strap steel in the windshield area, from the front edge of the roof to the wiper cowl.
--	All air bags must be removed.
--	All mirrors, plastic molding, headlight assemblies, tail light assemblies, plastic bumper covers, plastic grill, etc. must be removed.
+5. No welding, two wires or chains per door 2 wire hold downs for hood.. no additional material added
 
-### BUMPERS
-- No homemade or custom-made bumpers of any kind. No truck bumpers on cars.
--	Bumpers will not be wider than the tread width of the tires & mounted the correct side up.
--	No extra brackets, welding or bracing of any kind allowed.
--	All bumpers must have two 1/4 inch chains or cable. To help keep the bumper from falling off on to the track.
--	Officials reserve the right to have you shorten bumpers or remove them as deemed necessary.
+6. Move the battery to the passenger side floorboard or passenger side seat. No milk crates, no zip screws, and no zip ties can be used metal boxed bolted to the floor high recommended
 
- 	### SUSPENSION/FRAME/TRANSMISSION/DRIVE AXLES/ENGINES
--	Absolutely no welding of struts or shocks.
--	Absolutely no chaining or reinforcing of any suspension parts.
--	Suspension must have travel in front and back.
--	No trailer hitches anywhere on the vehicle.
--	No intentional weakening, strengthening or loading of the frame/ suspension allowed.
--	Steering and suspension parts must be stock and in placement for the vehicle.
--	There will be no adding on shielding or reinforcement to protect the radiator. If your vehicle came with a/c and the proper size condenser is still there you may leave it.
--	Exhaust may exit through the hood a minimum of 10” to a maximum of 20”.
--	No antifreeze or freon allowed.
- 
-	### BATTERIES, FUEL TANKS, PUMPS & MOUNTING
--	Absolutely no fuel leaks anywhere.
--	No fuel tanks behind the rear axle.
--	You may replace stock gas tank with a steel boat tank, racing type fuel cell or steel gas can.
--	Stock fuel tanks will be allowed in the cabin area.
--	All cabin mounted tanks must be under a metal firewall and fastened by a minimum of 4 steel straps. 2 Straps in each direction. Additional ratchet straps with the steel straps can be used.
--	Any rubber fuel lines in the cabin must be in conduit.
--	All electric fuel pumps must have a power shut off switch. Switch must be clearly visible to fire and safety personnel with the switch clearly marked on and off, and must be painted red. The switch must be within reach of the driver.
--	All fuel tanks will be inspected. Please leave the firewall off until after inspection.
--	A single battery must be properly secured and completely covered in the cabin. No batteries in the engine compartment or in the trunk.
-	### SAFETY EQUIPMENT
-- Helmets must be D.O.T. approved and available to tech officials for inspection. Only full helmets allowed. No half helmets allowed.
-- You must wear safety glasses or safety goggles if your helmet doesn’t have a full-face shield.
--	Drivers safety belts must be in working order. Belts cannot have tears or holes in the belt.
--	Must wear long pants & long sleeve shirt.
--	Gloves & leather work boots are highly recommended. No open toed shoes, crocs or sandals allowed.
--	You must have a restraint to hold the back of your seat up. You may use chain, suitable ratchet strap or hollow 2x2 square tubing 1/8 inch thick with no thicker than 1/8 inch thick 6x6 steel plate welded on each end that will be welded to the “b” pillars on each side.
+7. Move the gas tank… make sure it’s secure!! With no zip screws. You may leave it in a stock location if it is located in front of the rear axle. ( if we see gas leaking you will be disqualified) 
 
-### ADDITIONAL RULES THAT APPLY ONLY TO FULL TO MIDSIZE TRUCK, SUV OR VAN
--	Up to a 10 ply (load range e) tire rating.
--	No dual rear wheels allowed.
--	Front & rear bumper height is a maximum of 22 inches measured from the lowest point of the bumper.
--	Truck beds may have an additional 2 bolts or straps added to secure to the chassis.
--	If body mounts are removed, a up to 3 inch in diameter washer may be used.
--	The bed of the truck may be secured / connected to the cab with one of the following:two, 2-inch-long welds on each side or two bolts with a up to 2 inch diameter washer on each side.
--	No outside the frame mounted fuel tanks. No fuel tanks in the bed of the truck.
- 
+8. Stock street tires only!! No ags, no skids, no studs on any drive tires. Any ply DOT. Street tires only. DOT MARKINGS MUST BE VISIBLE, small weld in centers will be allowed, side wall flaps will be allowed 
+
+9. Aftermarket shifters allowed
+
+10. No after market parts allowed unless stated with the exception of shifter and tramsmission cooler (fan or ice) will be allowed and must be secured 
+
+11. Stock pedals floor mounted brake pedal will be allowed only 2 bolts no larger than 1/2 inch holding it to the floor only.
+
+12. Any OEM bumper can be used. Must be stock no added metal or seam welding. You can weld a 6x6x1/4 inch plate to the end of the frame rails. Bumper can be bolted or welded to the plate. Bolts no wider than 1/2 inch both bumpers (front and rear) must be 9 wired or chained in 2 spots with no bigger than 3/8s chain. 9 wire can not go through body mount
+
+13. No suspention modification besides replacing airbags/air shocks/struts for coil springs in from a car. No truck parts OEM tie rods ball joints and struts.
+
+14. Stock steering column no after market column 
+
+15. No added bumper shocks
+
+16. Headers will be allowed 
+
+17. You can weld your rear centers to make them posi
+
+18. Any engine make combination allowed must be mounted in with a stock oem rubber motor mount. Mount can be welded on to the engine cradle/saddle with only 8 inches of weld 
+
+19. A 4 point cage will be allowed for drivers protection only!! Anything in excess will be forced to cut or load at judges discretion. Cages must be 5 inches from the floor or any firewall at any point. You can have 2 down legs between rear seat bar and dash bar bolted to the floor. Simple tank protector allowed, off the back of the bar only must be 8 inches from any sheet metal keep it tight to the tank do not abuse this rule or we will take it away 
+
+20. No body creasing. Do not wedge the back, speaker deck must remain in stock location do not remove it. 
+
+ **RULES FOR V8 only!! **
+
+1. Will allow (4) 4x4x1/4 fix it plates to PRE RANS ONLY! Had a bunch of interest in guys bringing used cars so allowing this for car count 
+
+2. Allowing sliders!
+
+3. Allowing aftermarket columns 
+
+4. Aftermarket gas pedals
+
+**
+   TRUCK RULES**
+
+1. Any truck, van,suv up to a 3/4 ton chassis. No commercial or 1 ton frames will be allowed. No 4wd or awd. Max of 8 lug axles and spindles. 
+
+2. No welding, 4 wire hold downs for tailgate. Drivers door can be fully welded and can have 1/4 inch skin on the outside or inside for drivers saftey, can not go further than 3 inches past front or rear of seam no additional material can be added
+
+3. Move battery to passenger side floor board or in passenger seat area. If you use battery box it must be bolted to the floor and must be secure no zip screws zip ties will be accepted.
+
+4. Fuel tank may remain in stock location as long as it’s in front of rear axle, or move to a fuel cell. Make sure it’s secure must be bolted!
+
+5. Factory shifters or aftermarket shifters will be allowed
+
+6. Stock street tires only!! No ags no skids no studs on any drive tires. Any ply dot tire only dot markings must be visible and no solid wheel centers may run multi wheel centers
+
+7. No aftermarket parts, a transmission cooler (fan or ice) will be allowed make sure it’s secure!
+
+8. Stock pedals only
+
+9. Front bumper must be any OEM bumper no seam welding or added material
+
+10. No suspension modifications
+
+11.No tucking, wedging or folding of bedsides will be allowed
+
+12. No body creasing
+
+13. No added bumper shocks
+
+14. Headers will be allowed
+
+15. You can weld your rear centers to make it posi 
+
+16. Motor swaps allowed weld the factory mounts in that is it!!
+
+17. Slider shafts will be allowed
+
+18. No excessive mounts 8 inches of weld max per mount 
+
+19. No added steel 
+
+20. A simple lower engine cradle will be allowed with pulley protector 
+
+21. Factory transmission mount and crossmember 
+
+22. A 4 point cage will be allowed for drivers protection only any excess will be forced to cut or loaded at techs discretion 
+
+23. You may holy bed to cab in 3 spots with bolts or threaded rod no larger than 5/8s with washers no more than 3x3 inch
+
+24. Do not weld… if it did not come off factory floor do not do it
+
+25. All cars must have a number of slogan displayed on each side of the vehicle large enough for announcer to rear a roof sign is also highly recommended, no profanity or vulgar phrases 
+
+
+

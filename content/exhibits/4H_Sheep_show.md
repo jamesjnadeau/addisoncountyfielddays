@@ -1,7 +1,7 @@
----
+/*
 Title: 4-H AND OTHER YOUTH SHEEP SHOW
 Description: Exibit information and entry rules
----
+*/
 
 
 # 4-H AND OTHER YOUTH SHEEP SHOW
@@ -10,10 +10,10 @@ Description: Exibit information and entry rules
 
 ### RULES & AWARDS
 ENTRY FEE: $2.00 per class
-1.	Enter online at https://sites.google.com/site/acffdsheepshow/home. Deadline for entries is Saturday, July 29, 2023.
+1.	Enter online at https://sites.google.com/site/acffdsheepshow/home. Deadline for entries is Saturday, July 27, 2024.
 2.	Exhibitors must provide their own feed. Sawdust & straw provided.
 3.	ALL sheep must be owned or leased by showing youth as of July 30.
-4.	All animals must arrive on the grounds and be checked for health, registration, and class entries between noon and 9:00 p.m. on Monday before the fair. After check in, only scratches can be made. Animals must remain in the grounds until 9:00 p.m. on Saturday, August 12. All animals must be removed by 10:00 a.m. Sunday. Exhibitors are responsible for taking down and stacking their own pens and cleaning their area.
+4.	All animals must arrive on the grounds and be checked for health, registration, and class entries between noon and 9:00 p.m. on Monday before the fair. After check in, only scratches can be made. Animals must remain in the grounds until 9:00 p.m. on Saturday, August 10. All animals must be removed by 10:00 a.m. Sunday. Exhibitors are responsible for taking down and stacking their own pens and cleaning their area.
 5.	BARN MEETING for all exhibitors, Tuesday at 6:00 p.m. in the show tent.
 6.	HEALTH REGULATIONS — Same as Open Sheep Show.
 7.	This show is open to youth 5-21 years of age (as of January 1) (Exhibitors less than 9 years must have a parent at ringside.)
@@ -37,24 +37,24 @@ POINTS:
 •	15 pts. Barn inspections
 •	10 pts. Showmanship placing
 •	10 pts. Blocking & Fitting Contest
-18.	All premiums and awards will be presented at the Exhibitor’s Meeting at 7:00 p.m. on August 12th. The Superintendent reserves the right to withhold any premium or award to any exhibitor who has not adhered to these rules.
+18.	All premiums and awards will be presented at the Exhibitor’s Meeting at 7:00 p.m. on August 10th. The Superintendent reserves the right to withhold any premium or award to any exhibitor who has not adhered to these rules.
 19.	Sheep knowledge quiz for all youth exhibitors required. Novice, junior, intermediate, and senior division. General knowledge quiz will be given to youth exhibitors at Tuesdays barn meeting at 6:00 p.m.
 20.	Daily barn inspections, details at barn meeting Tuesday night.
 21.	Sheep Project Record Book (optional) turned in at first barn meeting and will be returned at Saturdays barn meeting.
-22.	EXHIBITOR AWARDS MEETING, Saturday, August 12th, 6:00 p.m.
+22.	EXHIBITOR AWARDS MEETING, Saturday, August 10th, 6:00 p.m.
 23.	Barn Exhibit: A sheep educational display exhibited at the pen. First, second and third place prizes sponsored by Green Peppers.
 
 ### CLASSES
 *1. Fitting and Showmanship: Exhibitors are required to participate and must show their own, or a leased, animal. Exhibitors MUST be neatly attired in white button shirt/blouse and white, black, dark green or tan pants. This class will be divided into 4 groups: Senior (age 18-21); Intermediate (age 13-17), Junior (age 9-12); Novice (1st year, 8yrs). A PeeWee showmanship class for youth 5-7 years with a prize for each. A sheep blanket will be awarded to each first-place showman.
 ### CHAMPION RAM
 *2. Yearling Ram Class- (limited to youth 12 yrs. of age and older-not to be shown in Fitting and Showmanship.) 1 yr. of age, but under 2 years.
-*3. Senior Ram Class — born on or after September 1, 2022 and before January 1, 2023
-*4. Junior Ram Class — born on or after January 1, 2023
+*3. Senior Ram Class — born on or after September 1, 2023 and before January 1, 2024
+*4. Junior Ram Class — born on or after January 1, 2024
 ### CHAMPION EWE
 *5. Aged Ewe—2 years and older
 *6. Yearling Ewe — 1 year of age, but under 2 years
-*7. Senior Ewe — born on or after September 1, 2022 and before January 1, 2023 
-*8. Junior Ewe — born on or after January 1, 2023
+*7. Senior Ewe — born on or after September 1, 2023 and before January 1, 2024 
+*8. Junior Ewe — born on or after January 1, 2024
 *9. Daughter/Dam-Aged ewe with her yearling, Senior or Junior ewe lamb.
 *10.Exhibitor’s Flock — group to consist of one (1) Ram Lamb and two (2) Ewes owned by exhibitor and shown in classes.
 *11.Market Lamb — lamb must be slick shorn and may be divided into light and heavy weight at the discretion of the judge. Lambs must be wethers
