@@ -1,5 +1,5 @@
 ---
-Title: "*GOAT SHOW*"
+Title: GOAT SHOW
 Description: |
   Exibit information and entry rules
 ---
