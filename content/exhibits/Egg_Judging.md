@@ -1,5 +1,5 @@
 ---
-Title: SPECIAL EVENTS
+Title: EGG JUDGING
 Description: Exibit information and entry rules
 ---
 
