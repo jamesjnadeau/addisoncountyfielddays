@@ -4,7 +4,7 @@ Description: Exibit information and entry rules
 ---
 
 
-## PEEWEE DAIRY SHOWMANSHIP
+# PEEWEE DAIRY SHOWMANSHIP
 
 SUPERINTENDENT: Robin Severy, (802)236-8584
 
