@@ -80,8 +80,8 @@ All livestock must comply with the following health requirements. Livestock incl
 1. Each 4-H club member should be present to show his/her animal and should not receive help from any person outside the show ring.  No one is allowed in the show ring except exhibitors,  judge  and  necessary  attendants  for  safety  reasons  unless  pre-approved  by superintendents.
 2. In group classes, all animals must be held by 4-H members.
 3. All 4-H dairy members are to be in the 4-H barn or at ringside during the 4-H show.
-4. The 4-H dairy project is a 4-H member activity. Members ONLY should care and prepare the animal for the show.
-5. Show Uniform dress code:  white or khaki pants, knee length walking shorts or skirt and white shirt with collar that covers the entire midriff (no gaps between shirts and pants).  Belts and ties are desirable.  Appropriate footwear required.  No clothing advertising afarm name or breed or any other clothing considered inappropriate by superintendents.  No short skirts or short shorts.
+4. The 4-H dairy project is a 4-H member activity. Members ONLY should care, prepare, and show the animal in both 4H and Open shows.
+5. Show Uniform dress code:  white or khaki pants, knee length walking shorts or skirt and white shirt with collar that covers the entire midriff (no gaps between shirts and pants).  Belts and ties are desirable.  Appropriate protective footwear required.  No clothing advertising afarm name or breed or any other clothing considered inappropriate by superintendents.  No short skirts or short shorts.
 6. Proper footwear must be worn at all times in the 4-H Dairy Barn, wash rack and working with animals.  No bare feet, flip-flops or open toe shoes.
 7. There will be mandatory exhibitors meeting on Monday evening, at 3:30 p.m. in the 4-H Dairy show arena.
 8. Club  awards  will  be  presented  on  Saturday  at  lunch  break,  at  the  Dairy  Ring.    All members and clubs should be represented.
