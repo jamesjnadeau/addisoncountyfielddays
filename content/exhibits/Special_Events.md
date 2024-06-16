@@ -2,10 +2,9 @@
 Title: SPECIAL EVENTS
 Description: Exibit information and entry rules
 ---
-
 # SPECIAL EVENTS
 
-[[TOC]]
+\[[TOC]]
 
 ## RACK ‘N REEL’S SLING SHOT COMPETITION
 
@@ -16,7 +15,7 @@ DIRECT0R: Diane Norris, 989-4295
 Sign up in the Butterfield Arena Noon to 1:00. Sling Shots will be provided by Rack ‘N Reel -Ribbons and Prizes will be awarded-CLASSES 5 and 6 year olds 7 to 9 year olds 10 to 13 year olds 14 to 17 year olds Adult-18 and older 
 
 ## TURKEY CALLING CONTEST
- 
+
 Saturday, Estimated Time 2:30 p.m. - L0CATI0N: Butterfield Arena
 
 DIRECT0R: Diane Norris, (802) 989-4295 
@@ -31,8 +30,8 @@ DIRECT0R: Diane Norris, (802) 989-4295
 
 Sign up in the Butterfield Arena starts at 2:30 p.m. on the 10th Youth and Adult Classes -Ribbons and Prizes will be awarded.
 
-
 ## PEDAL TRACTOR PULL
+
 Thursday, 11:00 a.m. — Location: Show Tent.
 DIRECTOR: Benj Deppman, (802)734-1381
 
@@ -42,10 +41,10 @@ Sign up between 10:00 and 11:00 a.m.
 
 The youngster's version of the real thing. Come on down and watch the fun and cheer for your favorite pullerl. Pulling tractor and sled is provided by Field Days.
 
-
 ## VERMONT PRODUCTS DINNER
+
 > "A Taste of Vermont"
-Tuesday, August 8, 2024 — Three Seatings: 5:15, 6:00 & 6:45 p.m.
+> Tuesday, August 6, 2024 — Three Seatings: 5:15, 6:00 & 6:45 p.m.
 
 LOCATION: the Dining Hall 
 
@@ -58,19 +57,18 @@ Tickets for adults are just $15; children under 10 years are $8.
 
 Tickets will be on sale starting July 1st, by calling the Field Days office at (802)545-2557 or by emailing fielddays@gmavt.net. or at Pratt's Store in Bridport and Middlebury Inn.
 
-
-
-
 ## ARMWRESTLING
 
 Friday, starting at 4pm LOCATION: Show Tent
 
 Director: Bill Sinks, 777-3049
 
-
 ### YOUTH TOURNAMENT
+
 Sign up begins at 4pm. Tournament Begins: 5.00 pm.
+
 ### ADULT TOURNAMENT
+
 Weigh Ins begin at 5:00 p.m. — Tournament Begins: 7:00 pm.
 
 Armwrestling has been a great success and a lot of fun
@@ -90,49 +88,53 @@ additional classes to accomodate the increased participation.
 
 Come join the fun!
 
-
 ### YOUTH TOURNAMENT CLASSES:
+
 1. Age 5 and under BOYS and GIRLS combined
-1. 6 & 7year old BOYS
-1. 6 & 7 year old GIRLS
-1. 8 year old BOYS
-1. 9 year old BOYS
-1. 10 year old BOYS
-1. 11 year old BOYS
-1. 8 & 9 year old GIRLS
-1. 10 & 11 year GIRLS
-1. 12 year old BOYS
-1. 13 year old BOYS
-1. 12 & 13 year old GIRLS
-1. 14 year old GIRLS
-1. 14 year BOYS
-1. 15 & 16 year old GIRLS
-1. 15 year old BOYS
-1. 16 year old BOYS
+2. 6 & 7year old BOYS
+3. 6 & 7 year old GIRLS
+4. 8 year old BOYS
+5. 9 year old BOYS
+6. 10 year old BOYS
+7. 11 year old BOYS
+8. 8 & 9 year old GIRLS
+9. 10 & 11 year GIRLS
+10. 12 year old BOYS
+11. 13 year old BOYS
+12. 12 & 13 year old GIRLS
+13. 14 year old GIRLS
+14. 14 year BOYS
+15. 15 & 16 year old GIRLS
+16. 15 year old BOYS
+17. 16 year old BOYS
 
 ### ADULT TOURNAMENT CLASSES:
 
 #### Men's Right Hand:
+
 1. 0-143 
-1. 144-154
-1. 155-165 
-1. 166-1/6
-1. 188-198 
-1. 199-200 
-1. 221 -over
+2. 144-154
+3. 155-165 
+4. 166-1/6
+5. 188-198 
+6. 199-200 
+7. 221 -over
 
 #### Men's Left Hand:
+
 1. 0-154 
-1. 155-176
-1. 177-198 
-1. 199-220 
-1. 221+
+2. 155-176
+3. 177-198 
+4. 199-220 
+5. 221+
 
 #### Women's Right Hand and Left Hand
+
 1. 0-143
-1. 144 and over
+2. 144 and over
 
 ## ANTIQUE EQUIPMENT EXHIBIT
+
 DIRECTOR: Bill Roleau, 453-3713 
 
 The Antique area at Addison County Fair and Field Days is one ofthe finest in New England.
@@ -148,14 +150,17 @@ A new additionin 2009 was a Blacksmith shop that has daily displays. This area h
 each year so make sure you include a stop here during your trip to the fair!!
 
 ## KARAOKE TALENT NIGHT
+
 Location: Show Tent
-- Sign-ups at 6:30 p.m. 
-- Wednesday,— 7:00 p.m. 
+
+* Sign-ups at 6:30 p.m. 
+* Wednesday,— 7:00 p.m. 
 
 Come, sing your heart out at the Karoake Talent Night. A true talent night, no screens with words, just the music, you and a microphone. Chance to win great prizes from our celebrity judges.
 Adult and kids divisions. Come sing, have fun and be a STAR.
 
 ## LADIES IR0N SKILLET toss
+
 Wednesday, 1 p.m. — LOCATION: Tractor Pad
 
 SUPERINTENDENT: Benj Deppman, 734-1381
@@ -165,13 +170,14 @@ Sign up at the Tractor Pad starting at 12:00 p.m.
 Test your strength. See how far you can throw. Cast Iron skillets will be provided by Field Days
 for the throw!
 
-### Classes: 
-- 11 and under
-- 12-17 years old; 
-- 18 years and older. 
+### Classes:
 
+* 11 and under
+* 12-17 years old; 
+* 18 years and older. 
 
 ## MEN's CABER Toss
+
 Wednesday, 12:00 p.m. — LOCATION: Tractor Pad
 
 SUPERINTENDENT: Benj Deppman, 734-1381
