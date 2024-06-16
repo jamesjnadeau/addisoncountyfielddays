@@ -5,7 +5,7 @@ Description: "*Exibit information and entry rules for the Addison County Fair
 ---
 # DEMOLITION DERBY
 
-### G.STONE MOTORS/ADDISON COUNTY FAIR & FIELD DAYS 
+### G.STONE MOTORS/ADDISON COUNTY FAIR & FIELD DAYS
 
 ### DEMOLITION DERBY
 
@@ -18,7 +18,6 @@ EACH DRIVER MUST FILL OUT AN ENTRY FORM AT – G.STONE MOTORS, MIDDLEBURY, VT
 2024 SEASON RULES:
 
 **Compacts (4&6) & Vans & V8** 
-
 
 1. No imperials 1973 or older, no imperial subs no hearses or ambulances no trucks or truck frames 
 2. All cars must have a number or slogan displayed on each side of the vehicle large enough for the announcer to read, a roof sign is also highly recommended. No profanity or vulgar phrases.
@@ -48,8 +47,7 @@ EACH DRIVER MUST FILL OUT AN ENTRY FORM AT – G.STONE MOTORS, MIDDLEBURY, VT
 3. Allowing aftermarket columns 
 4. Aftermarket gas pedals
 
-
-**   TRUCK RULES**
+ **  TRUCK RULES**
 
 1. Any truck, van,suv up to a 3/4 ton chassis. No commercial or 1 ton frames will be allowed. No 4wd or awd. Max of 8 lug axles and spindles. 
 2. No welding, 4 wire hold downs for tailgate. Drivers door can be fully welded and can have 1/4 inch skin on the outside or inside for drivers saftey, can not go further than 3 inches past front or rear of seam no additional material can be added
@@ -62,7 +60,7 @@ EACH DRIVER MUST FILL OUT AN ENTRY FORM AT – G.STONE MOTORS, MIDDLEBURY, VT
 9. Front bumper must be any OEM bumper no seam welding or added material
 10. No suspension modifications
 
-11.No tucking, wedging or folding of bedsides will be allowed
+11.   No tucking, wedging or folding of bedsides will be allowed
 
 12. No body creasing
 13. No added bumper shocks
