@@ -92,8 +92,7 @@ one adult and 2 children.
 Prizes will be awarded solely at the discretion of the judges. Displays that are not attended
 the required time each day will not receive full Premium money. Exhibits must be in place by
 8:00 p.m. Monday and remain in place until 9:00 p.m. on Saturday. Please register early, as
-space will be allotted as entries come in according to the needs of each exhibit. Late exhibits
-will not be judged!
+space will be allotted as entries come in according to the needs of each exhibit.
 
 ## FREE YOUTH ACTIVITIES
 
@@ -101,5 +100,8 @@ DIRECTOR: Tricia Foster, 233-2821
 
 SUPERINTENDENT: Pam Gevry, 373-8069
 
-Various free youth activities will be held in the tent by the Childrens Barnyard every day (see schedule for times). Some examples of games are face painting, try your luck games, bubble making
-and many more! No entry fee or presign up is necessary.
+Again this year, we will have volunteers from the Vermont Children’s Museum running our various free youth activities such as bubble making, try your luck games and many more in the tent by the Childrens Barnyard all day every day. No entry fee or pre-sign up is necessary.
+
+There will also be free activities like arm painting at the following times:
+
+Tuesday 1-5, Wednesday 10-12 & 2-5, Thursday 1-5, Friday 10-12 & 2-5, Saturday 10-12 & 2-5
