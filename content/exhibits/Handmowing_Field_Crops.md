@@ -9,7 +9,7 @@ Description: Exibit information and entry rules for Field Crops & Handmowing at
 
 ## NEW CROPS SUPERINTENDENT: Abigail Augraten-abigail.augraten@uvm.edu
 
-ENTRY DEADLINE: Monday, August 7, 2024-All Products in by 12:00 noon
+ENTRY DEADLINE: Monday, August 5, 2024-All Products in by 12:00 noon
 
 ## Rules
 
@@ -25,38 +25,43 @@ ENTRY DEADLINE: Monday, August 7, 2024-All Products in by 12:00 noon
 
 ## JUDGING CRITERIA
 
-### Whole Plants
+### All sample submitted will be judged on:
 
-1. Freedom from plant defects.
-2. Yield and forage quality potential.
-3. Potential for proper maturity at harvest.
-4. Conformation of size and uniformity.
+1. Freedom from plant defects or contamination.
+2. Yield and crop quality potential.
+3. Proper maturity at harvest for storage.
+4. Proper moisture content for storage.
+5. Conformation of size and uniformity.
 
-### Stored Forage & Grain
+## CLASSES - FIELD CROPS, FORAGE & GRAIN
 
-1. Freedom from plant defects.
-2. Harvested properly for high feed quality.
-3. Stored properly for high feed quality.
-4. Conform to entered class criteria.
-
-## CLASSES - FIELD & FORAGE CROPS
+##### WHOLE PLANTS
 
 1. Corn Plants - 3 whole plants with roots.
-2. Soybeans - 5 whole plants with roots.
-3. Cereal Grains - Wheat, Barley, Oats, Rye.
+2. Soybeans - 10 plants with roots.
+3. Cereal Grains - 20 Stems (Wheat, Barley, Oats, Rye).
+
+   ##### SILAGE CROPS
 4. Corn Silage - 1 quart jar.
-5. Snaplage or Ground ear corn - 1 quart.
-6. Grass Haylage - 1 quart jar.
-7. Legume Haylage - 1 quart jar.
-8. Dry Hay - Legume - 1 slice of bale.
-9. Dry Hay - Grass - 1 slice of bale.
-10. Dry Hay - Mixed Legume/Grass - 1 slice.
-11. Wrapped Baleage Hay - big zip-lock bag.
-12. Corn Grain Whole - 1 quart jar.
-13. Corn Grain Ground - 1 quart jar.
-14. Soybean Grain Whole - 1 quart jar.
-15. Cereal Grain Whole - 1 quart jar.
-16. Other Pulse or Brassica Seed Whole - 1 quart jar.
+5. Corn Snaplage or Ground ear corn - 1 quart.
+6. Ground Ear Corn - 1 quart jar.
+7. Grass Haylage - 1 quart jar.
+8. Legume Haylage (alfalfa, clover)- 1 quart jar.
+9. Baled/Wrapped Silage Hay.
+10. Cereal Grain Silage - 1 quart jar.
+
+    ##### DRY HAY
+11. 1st Cut Legume Hay (alfalfa, clover) - 1 slice of bale.
+12. 1st Cut Grass Hay - 1 slice of bale.
+13. 2nd Cut Legume Hay (alfalfa, clover) - 1 slice of bale.
+14. 2nd Cut Grass Hay - 1 slice of bale.
+
+    ##### GRAIN CROPS
+15. Corn Grain Whole Kernal - 1 quart jar.
+16. Corn Grain Ground - 1 quart jar.
+17. Soybean Grain - 1 quart jar.
+18. Cereal Grain (wheat, barley, oat, rye) - 1 quart jar.
+19. Other Dry Grain (oilseed, buckwheat, other) - 1 quart jar.
 
 - - -
 
