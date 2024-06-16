@@ -10,7 +10,7 @@ Description: Exibit information and entry rules
 
 Saturday, 1:00 p.m - L0CATI0N: Butterfield Arena
 
-DIRECT0R: Diane Norris, 989-4295 
+DIRECT0R:
 
 Sign up in the Butterfield Arena Noon to 1:00. Sling Shots will be provided by Rack ‘N Reel -Ribbons and Prizes will be awarded-CLASSES 5 and 6 year olds 7 to 9 year olds 10 to 13 year olds 14 to 17 year olds Adult-18 and older 
 
@@ -18,7 +18,7 @@ Sign up in the Butterfield Arena Noon to 1:00. Sling Shots will be provided by R
 
 Saturday, Estimated Time 2:30 p.m. - L0CATI0N: Butterfield Arena
 
-DIRECT0R: Diane Norris, (802) 989-4295 
+DIRECT0R:  
 
 Sign up in the Butterfield Arena starts at 2:30 p.m. on the 10th Youth and Adult Classes -Ribbons and Prizes will be awarded-
 
@@ -26,7 +26,7 @@ Sign up in the Butterfield Arena starts at 2:30 p.m. on the 10th Youth and Adult
 
 Saturday Estimated Time 3:30 p.m. - L0CATI0N: Butterfield Arena
 
-DIRECT0R: Diane Norris, (802) 989-4295 
+DIRECT0R:  
 
 Sign up in the Butterfield Arena starts at 2:30 p.m. on the 10th Youth and Adult Classes -Ribbons and Prizes will be awarded.
 
