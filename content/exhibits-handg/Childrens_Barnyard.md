@@ -2,16 +2,20 @@
 Title: CHILDREN’S BARNYARD
 Description: Exibit information and entry rules
 ---
+
+
 # CHILDREN’S BARNYARD
 
-\[[TOC]]
+[[TOC]]
 
 DIRECTOR: Tricia Foster, 233-2821
 Pam Gevry, 373-8069
 
+
 A wonderful place for children of all ages, 9 days to 99 years. See young animals of the
 barnyard, as well as some unique animals. Cages, pens, food, bedding and care for the animals
 is provided by barnyard staff.
+
 
 We want to thank Paris Farmers Union for donating all of the feed for the Children’s Barnyard
 this year.
@@ -38,7 +42,7 @@ the animal home.
 
 Animals must be in place by 8:00 p.m. on Monday and remain on display until 9:00 p.m. Saturday.
 
-Each Exhibitor will have the ability to purchase a week pass for $25.
+Each Exhibitor will have the ability to purchase a week pass for $15.
 
 No animals will be available for sale during the Fair.
 
@@ -68,40 +72,39 @@ Entries may be entered in the following:
 5.Group Division(Under 18) must be attended 2 hours or more a day by a group of at least
 one adult and 2 children.
 
+
 ### Premiums
 
 #### Unattended Displays
 
 | Place | Child | Youth | Yng Adult | Adult | Group |
 | ----- | ----- | ----- | --------- | ----- | ----- |
-| 1st   | $20   | $20   | $25       | $25   | $25   |
-| 2nd   | $15   | $15   | $22       | $22   | $22   |
-| 3rd   | $13   | $13   | $20       | $20   | $20   |
-| 4th   | $10   | $10   | $18       | $18   | $18   |
+| 1st   | $20   | $20   | $25       | $25   | $25 |
+| 2nd   | $15   | $15   | $22       | $22   | $22 |
+| 3rd   | $13   | $13   | $20       | $20   | $20 |
+| 4th   | $10   | $10   | $18       | $18   | $18 |
 
 #### Attended Displays
 
 | Place | Child | Youth | Yng Adult | Adult | Group |
 | ----- | ----- | ----- | --------- | ----- | ----- |
-| 1st   | $30   | $50   | $80       | $100  | $100  |
-| 2nd   | $20   | $40   | $70       | $90   | $75   |
-| 3rd   | $18   | $30   | $60       | $80   | $50   |
-| 4th   | $15   | $20   | $50       | $70   | $25   |
-| 5th   | $10   | $10   | $40       | $60   | $20   |
+| 1st   | $30   | $50   | $80       | $100   | $100 |
+| 2nd   | $20   | $40   | $70       | $90   | $75 |
+| 3rd   | $18   | $30   | $60       | $80   | $50 |
+| 4th   | $15   | $20   | $50       | $70   | $25 |
+| 5th   | $10   | $10   | $40       | $60   | $20 |
 
 Prizes will be awarded solely at the discretion of the judges. Displays that are not attended
 the required time each day will not receive full Premium money. Exhibits must be in place by
 8:00 p.m. Monday and remain in place until 9:00 p.m. on Saturday. Please register early, as
-space will be allotted as entries come in according to the needs of each exhibit.
+space will be allotted as entries come in according to the needs of each exhibit. Late exhibits
+will not be judged!
+
 
 ## FREE YOUTH ACTIVITIES
-
 DIRECTOR: Tricia Foster, 233-2821
 
 SUPERINTENDENT: Pam Gevry, 373-8069
 
-Again this year, we will have volunteers from the Vermont Children’s Museum running our various free youth activities such as bubble making, try your luck games and many more in the tent by the Childrens Barnyard all day every day. No entry fee or pre-sign up is necessary.
-
-There will also be free activities like arm painting at the following times:
-
-Tuesday 1-5, Wednesday 10-12 & 2-5, Thursday 1-5, Friday 10-12 & 2-5, Saturday 10-12 & 2-5
+Various free youth activities will be held in the tent by the Childrens Barnyard every day (see schedule for times). Some examples of games are face painting, try your luck games, bubble making
+and many more! No entry fee or presign up is necessary.

@@ -6,7 +6,7 @@ Description: Exibit information and entry rules
 
 ### REGISTER ON LINE AT:
 
-### <https://sites.google.com/site/acffdsheepshow/>
+### [https://sites.google.com/site/acffdsheepshow/](https://sites.google.com/site/acffdsheepshow/)
 
 ### RULES & AWARDS
 
@@ -52,25 +52,21 @@ ENTRY FEE: $2.00 per class
 
 ### CHAMPION RAM
 
-2. Yearling Ram Class- (limited to youth 12 yrs. of age and older-not to be shown in Fitting and Showmanship.) 1 yr. of age, but under 2 years.
+*2. Yearling Ram Class- (limited to youth 12 yrs. of age and older-not to be shown in Fitting and Showmanship.) 1 yr. of age, but under 2 years.*
 
 3. Senior Ram Class — born on or after September 1, 2024 and before January 1, 2024
-
-
-4. Junior Ram Class — born on or after January 1, 2024
+   *4. Junior Ram Class — born on or after January 1, 2024
 
 ### CHAMPION EWE
 
-5. Aged Ewe—2 years and older
+*5. Aged Ewe—2 years and older*
 
 6. Yearling Ewe — 1 year of age, but under 2 years
-7. Senior Ewe — born on or after September 1, 2024 and before January 1, 2024 
-
-8. Junior Ewe — born on or after January 1, 2024
-9. Daughter/Dam-Aged ewe with her yearling, Senior or Junior ewe lamb.
-10. Exhibitor’s Flock — group to consist of one (1) Ram Lamb and two (2) Ewes owned by exhibitor and shown in classes.
-11. Market Lamb — lamb must be slick shorn and may be divided into light and heavy weight at the discretion of the judge. Lambs must be wethers
- or ewe lambs. A market lamb may NOT be entered in classes 2-9, but can be shown in Fitting and Showmanship Class*.*
-12. Best Fleece: One entry per exhibitor. Rosettes will go to Grand Champion & Reserve Black & White Classes
-
-PREMIUMS: $9.00 = Blue, $7.00 = Red, and $4.00 = White, for the following (*) classes:* 1-*12
+   *7. Senior Ewe — born on or after September 1, 2024 and before January 1, 2024* 
+7. Junior Ewe — born on or after January 1, 2024
+   *9. Daughter/Dam-Aged ewe with her yearling, Senior or Junior ewe lamb.*
+   10.Exhibitor’s Flock — group to consist of one (1) Ram Lamb and two (2) Ewes owned by exhibitor and shown in classes.
+   *11.Market Lamb — lamb must be slick shorn and may be divided into light and heavy weight at the discretion of the judge. Lambs must be wethers
+    or ewe lambs. A market lamb may NOT be entered in classes 2-9, but can be shown in Fitting and Showmanship Class.*
+   12.Best Fleece: One entry per exhibitor. Rosettes will go to Grand Champion & Reserve Black & White Classes
+8. PREMIUMS: $9.00 = Blue, $7.00 = Red, and $4.00 = White, for the following (*) classes:* 1-*12

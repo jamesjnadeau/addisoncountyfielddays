@@ -1,12 +1,14 @@
 ---
 Title: OPEN POULTRY SHOW
+
 Description: Exibit information and entry rules
 ---
-# OPEN POULTRY SHOW
 
+# OPEN POULTRY SHOW
 Director:  Tricia Foster, 802-233-2821
 Superintendent:  Wayne Marcelle, 802-233-9534
 Asst. Superintendent:  Ray Huizenga 802-349-5846
+
 
 The show is sponsored by the VT Bird Fanciers Club in conjunction with the Addison County
 Fair and Fields Days.
@@ -29,31 +31,28 @@ The show is open to any breed or variety of Bantam, Largefowl and Duck listed in
 Poultry Association or the American Bantam Association Standards of Perfection.
 
 ### OPEN SHOW
-
 In the event no more than ONE bird is entered in any given class, 3rd place premium will
 be awarded. In event that not more than TWO birds are entered in any given class, premiums
 will be reduced by one half. Ribbons will be awarded in ALL classes.
 
-| Class No | Description | 1st  | 2nd  | 3rd  |
-| -------- | ----------- | ---- | ---- | ---- |
-| 1        | Cock        | 5.00 | 2.50 | 1.50 |
-| 2        | Hen         | 5.00 | 2.50 | 1.50 |
-| 3        | Cockerel    | 5.00 | 2.50 | 1.50 |
-| 4        | Pullet      | 5.00 | 2.50 | 1.50 |
+| Class No | Description | 1st | 2nd | 3rd |
+| -- | -- | -- | -- | -- |
+| 1 | Cock | 5.00 | 2.50 | 1.50 |
+| 2 | Hen| 5.00 | 2.50 | 1.50 |
+| 3 | Cockerel| 5.00 | 2.50 | 1.50 |
+| 4 | Pullet| 5.00 | 2.50 | 1.50 |
 
 ## 4-H & OTHER YOUTH POULTRY SHOWMANSHIP
-
 SUPERINTENDENT:  Wayne Marcelle, 802-233-9534
 
-Saturday, August 10, 2024 1:30 PM IN THE BANDSTAND TENT
+Saturday, August 13, 2022 10:00am  Children's Barnyard Area
 
 $1.00 per bird per class(limit of 1 bird per child for each class)
 
 ### Judging Criteria
-
-* Exhibitors will be evaluated on their level of professionalism; bird care and cleanliness; and
-  general knowledge of poultry. The breeding/registration of the bird does not count. 
-* The bird’s cleanliness, condition, freedom from parasites, health and vigor are important. 
-* Participants must be prepared to answer basic questions regarding the breed, variety and care of their bird(s). 
-* Showmanship will be scored based on each participant’s personal professional
-  appearance, cleanliness of their exhibit, knowledge and ability to handle the bird(s).
+- Exhibitors will be evaluated on their level of professionalism; bird care and cleanliness; and
+general knowledge of poultry. The breeding/registration of the bird does not count. 
+- The bird’s cleanliness, condition, freedom from parasites, health and vigor are important. 
+- Participants must be prepared to answer basic questions regarding the breed, variety and care of their bird(s). 
+- Showmanship will be scored based on each participant’s personal professional
+appearance, cleanliness of their exhibit, knowledge and ability to handle the bird(s).
