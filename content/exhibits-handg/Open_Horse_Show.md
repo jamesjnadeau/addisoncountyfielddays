@@ -144,7 +144,15 @@ a fun class ie: command class, Simon Says, etc. To be announced at the show. ***
 be competing against others at the walk/trot.
 
 
-DRAFT HORSE SHOW
+# DRAFT HORSE SHOW
+
 Friday, August {friday}, {year} — 9:30 am. — Saturday, August {saturday}, {year} — 9:30 am.
+
 JUDGE: Malcolm Yeadon, Ontario, CA  *DIRECTOR: Kathy Nisun, 802-349-8971
-ANNOUNCER: John Hutton* Ringmaster: Fri. Gary Cherrier — Sat. Terry Malone; *SECRETARY: Kathy Kennett, Phone 802-759-2015, Cell 802-349-5671
+
+ANNOUNCER: John Hutton* 
+
+Ringmaster: Fri. Gary Cherrier — Sat. Terry Malone; 
+
+SECRETARY: Kathy Kennett, Phone 802-759-2015, Cell 802-349-5671
+
