@@ -11,11 +11,11 @@ Description: "*Exibit information and entry rules for the Addison County Fair
 
 ANY QUESTIONS CALL Dustin Tierney (802)825-1813 or Ethan Gevry (802)349-0699
 
-Tuesday, August 6 starting at 7:00 pm. Wednesday, August 7 starting at 7:00 pm. Thursday, August 8 starting at 7:00 pm.
+Tuesday, August {tuesday} starting at 7:00 pm. Wednesday, August {wednesday} starting at 7:00 pm. Thursday, August {thursday} starting at 7:00 pm.
 
 EACH DRIVER MUST FILL OUT AN ENTRY FORM AT – G.STONE MOTORS, MIDDLEBURY, VT
 
-2024 SEASON RULES:
+{year} SEASON RULES:
 
 **Compacts (4&6) & Vans & V8** 
 

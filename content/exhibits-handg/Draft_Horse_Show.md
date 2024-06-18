@@ -8,7 +8,7 @@ Addison County Fair & Field Days Draft Horse Show
 
 \[[TOC]]
 
-Friday, August 9, 2024 9:30 am. — Saturday, August 10, 2024 9:30 am.
+Friday, August {friday}, {year} 9:30 am. — Saturday, August {saturday}, {year} 9:30 am.
 
 JUDGE: Malcolm Yeadon, Ontario, CA
 
@@ -38,12 +38,12 @@ Stalls will be available after 7 p.m. Thursday.
 Stalls are limited (156) so we cannot offer tack stalls. Stalls will be reserved based on date entries received by the Secretary. A $25.00 per stall deposit is required. $15.00 will be refunded per stall when cleaned and checked. Please call if unable to attend as we do have a limited number of stalls. If stalls fill we will keep a waiting list. Sawdust may or may not be available (depending if it is all gone). Shavings will be available to purchase ahead of time at $6.00 per bag; they will be in the horse area to be picked up by the exhibitor.
 
 Entry Fees are $5.00 per class except as noted. Post entries are double entry fees. No refunds
-without a vet certificate. Pre-entries due by August 1, 2024.
+without a vet certificate. Pre-entries due by August 1, {year}.
 
 Send entries to: Kathy Kennett, 1716 VT Route 22A, Panton, VT 05491
 Email: kkennett@together.net Phone: 759-2015. During Fair Cell Phone: 349-5671
 
-1. All exhibitors will be requried to show proof of rabies vaccination dated between August 11, 2023 and July 1, 2024. Current Negative Coggins will also be required for all horses.
+1. All exhibitors will be requried to show proof of rabies vaccination dated between August 11, {prev_year} and July 1, {year}. Current Negative Coggins will also be required for all horses.
 2. Out of state must have health papers
 3. Passes will be mailed to exhibitors whose entries have arrived early enough that there 
    is sufficient time for return mail. Exhibitors will receive 1 person pass per horse per day
@@ -520,11 +520,11 @@ The winner to receive the Mathew Deering Memorial Award.
 
 ### Dear Draft Horse Exhibitors,
 
-• We are pleased to share some changes for our 2024 draft show and hope our dates of
-Friday, August 9– Saturday, August 10 will allow us to fill all stalls. We have a total of
+• We are pleased to share some changes for our {year} draft show and hope our dates of
+Friday, August {friday}– Saturday, August {saturday} will allow us to fill all stalls. We have a total of
 156 stalls available.
 
-• We will welcome as our 2024 judge: Malcolm Yeadon, Ontario, CA
+• We will welcome as our {year} judge: Malcolm Yeadon, Ontario, CA
 
 • We will again be a North American Classic Six qualifying show. We offer classes for the
 Six Horse Hitch, Classic Cart and Youth Cart.

@@ -128,14 +128,13 @@ module.exports = {
       finalContent = finalContent.replace('[[TOC]]', tocHTML);
 
       // date replacement
-      Object.keys(config).forEach(function(key) {
+      Object.keys(config.days).forEach(function(key) {
         finalContent = finalContent.replace('{' + key + '}', config[key]);
       });
       
-      // finalContent = finalContent.replace('{wednesday}', config.wednesday);
-      // finalContent = finalContent.replace('{thursday}', config.thursday);
-      // finalContent = finalContent.replace('{friday}', config.friday);
-      // finalContent = finalContent.replace('{saturday}', config.saturday);
+      finalContent = finalContent.replace('{year}', config.year);
+      finalContent = finalContent.replace('{prev_year}', config.prev_year);
+      finalContent = finalContent.replace('{prev_prev_year}', config.prev_prev_year);
 
 
       //use compiled template to produce html file

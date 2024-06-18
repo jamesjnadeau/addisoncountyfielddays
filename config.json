@@ -1,9 +1,15 @@
 {
-    "sunday": "4th",
-    "monday": "5th",
-    "tuesday": "6th",
-    "wednesday": "7th",
-    "thursday": "8th",
-    "friday": "9th",
-    "saturday": "10th"
+    "year": "2024",
+    "prev_year": "2023",
+    "prev_prev_year": "2022",
+    "days": {
+        "sunday": "4th",
+        "monday": "5th",
+        "tuesday": "6th",
+        "wednesday": "7th",
+        "thursday": "8th",
+        "friday": "9th",
+        "saturday": "10th"
+    }
+    
 }

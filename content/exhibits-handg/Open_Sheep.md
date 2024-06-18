@@ -29,15 +29,15 @@ REGISTER ON LINE AT: https://sites.google.com/site/acffdsheepshow/
 
 ## Rules
 
-1. Entry fee — $2.00 per class. Enter online. Entries must be returned by Saturday, July 30, 2022.
+1. Entry fee — $2.00 per class. Enter online. Entries must be returned by Saturday, July 30, {year}.
 2. Exhibitors must provide their own feed. Sawdust & straw are provided.
 3. All animals must arrive on the grounds and be checked for health, registration and class
-entries between noon and 9:00 pm. on Monday, August 8, 2022. After check in,
+entries between noon and 9:00 pm. on Monday, August {monday}, {year}. After check in,
 only scratches can be made. Animals must remain in the grounds until 9:00 pm. on
-Saturday, August 13, 2022. All animals must be removed by 10:00 am. Sunday, August
+Saturday, August {saturday}, {year}. All animals must be removed by 10:00 am. Sunday, August
 15,2021. Exhibitors are responsible for taking down and stacking their own pens and
 cleaning their area.
-4. Barn Meeting for all exhibitors Tuesday, August 9th at 6:00 pm. in the
+4. Barn Meeting for all exhibitors Tuesday, August {friday}th at 6:00 pm. in the
 Show Tent.
 5. HEALTH REGULATIONS: All sheep must be listed on a valid Certificate of Veterinary Inspection (CVI)
 signed and dated within 30 days of arrival. Official identification and vaccination
@@ -50,7 +50,7 @@ designee.Any animals that do not meet the health requirements will not be permit
 the facilities until examined by a veterinarian at which time a determination will be
 made. Any sheep deemed to be unhealthy by the Judge or Show Superintendent will be barred
 from exhibition and showing. All sheep older than 4 months must be vaccinated for rabies thirty (30) days
-prior to August 8, 2022 and must have a certificate to verify the vaccination. All sheep
+prior to August {tuesday}, {year} and must have a certificate to verify the vaccination. All sheep
 must have scrapie ear tag.
 6. Only registered sheep may enter this show except Market Lamb Class.
 7. Exhibitors may show as many breeds as they can present well, but are limited to two
@@ -69,15 +69,15 @@ educational purposes.
 ## CLASSES
 ### Champion Ram
 1. Yearling Ram - 1 year of age, but under two years
-2. Senior Ram Born on or after September 1, 2021 and before January 1, 2022
-3. Junior Ram Lamb-Born on or after January 1, 2022
+2. Senior Ram Born on or after September 1, 2021 and before January 1, {prev_prev_year}
+3. Junior Ram Lamb-Born on or after January 1, {prev_prev_year}
 4. Pair of Ram Lambs
 ### Champion Ewe
 5. Age ewe
 6. Yearling Ewe - 1 year of age, but under two years
 7. Pair of Yearling Ewe
-8. Senior Ewe Lamb-Born on or after September 1, 2021 and before January 1, 2022
-9. Junior Ewe Lamb-Born on or after January 1, 2022
+8. Senior Ewe Lamb-Born on or after September 1, {prev_year} and before January 1, {year}
+9. Junior Ewe Lamb-Born on or after January 1, {year}
 10. Pair of Ewe Lambs
 11. Daughter/Dam
 12. Flock (1 ram, 3 ewes)
@@ -104,7 +104,7 @@ white wool classes.
 | 7 | $12 | $10 | $8 | $5 | $3 | $2 | $2 |
 | 8+ | $12 | $10 | $8 | $5 | $3 | $2 | $2 | $2 | $2 | $2 |
 
-All premiums will be presented at the exhibitors meeting at 6:00 pm. on Saturday, August 13,2022.
+All premiums will be presented at the exhibitors meeting at 6:00 pm. on Saturday, August {saturday},{year}.
 The Superintendent reserves the right to withhold any premium or award to any exhibitor who
 has not adhered to the rules of the OPEN SHEEP SHOW.
 
@@ -113,7 +113,7 @@ The Superintendents reserve the right to ask an exhibitor to leave.
 
 # Youth Sheep Promotional Contests
 
-Entry due Tuesday, August 9, 2022. 
+Entry due Tuesday, August {tuesday}, year. 
 
 The purpose of these contests is to provide all youth exhibitors a chance to participate in the Addison County Fields Day, as well as provide
 displays describing the fun and value of youth sheep projects to the public.
@@ -134,18 +134,18 @@ safety, proper animal nutrition, why people pick a specifc breed, etc. Posters s
 make people stop, read and remember. 
 4. These contests are open to all youth in the following age groups: Junior age 8-12;
 Intermediate/Senior age 13-21.
-5. Exhibitor name, address, age as of January 1, 2022 and contest entered must be
+5. Exhibitor name, address, age as of January 1, {year} and contest entered must be
 attached to the BACK of each entry.
 6. Copyrighted material, such as the Peanuts Cartoon characters, etc., and commercial
 signs, materials, or pictures promoting specifc companies, farm names or products,
 may not be used.
 7. Entries should have wires or strings attached for hanging. If no other means are provided,
 staples will be used to display entries.
-8. All entries must be received by 8:00 a.m. Tuesday,August 9, 2022 and picked up Saturday, August 13th,
-2022 after 9:00 p.m.
+8. All entries must be received by 8:00 a.m. Tuesday,August {tuesday}, {year} and picked up Saturday, August {saturday},
+{year} after 9:00 p.m.
 9. Champions will be given in each age group in the three contests. Also, a “Public Choice
 Award” in each overall contest will be chosen by fairgoers during Addison County Field
-Days, votes will be tallied and awarded on Saturday, August 13th, 2022 at the Awards
+Days, votes will be tallied and awarded on Saturday, August {saturday}, {year} at the Awards
 Potluck at 6:00 p.m
 
 # SHEEP & WOOL GARMENT LEAD LINE CLASS
@@ -169,7 +169,7 @@ garment
 5. Extra points for garment if it is homemade.
 6. Register online at https://sites.google.com/site/acffdsheepshow/home
 Janelle Ashley, 33 North Main Street, Whiting, VT 05778 Tel. 989-9528
-7. Submit commentaries for judges by Saturday, August 13, 2022.
+7. Submit commentaries for judges by Saturday, August {saturday}, {year}.
 
 # YOUTH BLOCKING AND FITTING CONTEST
 Saturday 10:30-11:30am
@@ -181,7 +181,7 @@ trimming ability, technique (i.e. patience gentleness) in handling a sheep which
 handled before.Technique is using various pieces of trim equipment, and the ability to fnd and
 accentuate the good qualities of a sheep.
 1. Sheep will be assigned by a random drawing of numbers.
-2. Senior (18-21 years of age as of Jan. 1, 2022), Intermediate (13-17 years) and Junior
+2. Senior (18-21 years of age as of Jan. 1, {year}), Intermediate (13-17 years) and Junior
 (8-12 years) classes.
 3. The oldest team member determines the age class in which the team will participate.
 Teams consist of two contestants only.

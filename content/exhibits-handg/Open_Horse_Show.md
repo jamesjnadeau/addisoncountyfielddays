@@ -10,7 +10,7 @@ Description: Exibit information and entry rules
 
 # OPEN HORSE SHOW
 
-Thursday, August {thursday}, 2024 8:00 am. — Rain or Shine 
+Thursday, August {thursday}, {year} 8:00 am. — Rain or Shine 
 
 JUDGE: Elizabeth Pope; 
 
@@ -20,7 +20,7 @@ CO-MANAGERS:
 - Jessica Stuart, Essex Junction, VT, 802-233-3013; 
 - Bailee Layn, Bristol, VT, 802-922-1653,
 
-Entries close by postmark of July 31, 2024.
+Entries close by postmark of July 31, {year}.
 Day stabling only: First come, frst served basis @$15.00(box). 
 $5.00 refunded if left clean and checked by show management.
 
@@ -60,7 +60,7 @@ VETERINARIAN AT LEAST 30 DAYS(JULY 1, 2019) PRIOR TO THIS SHOW. ATTACH A COPY
 TO YOUR ENTRY –IT WILL NOT BE RETURNED. HORSES CANNOT BE UNLOADED WITHOUT
 PROOF OF SHOTS. THIS IS A VERMONT STATE FAIRS MANDATE. NAME OF HORSE SHOULD
 BE THE SAME ON ENTRY BLANK AND RABIES CERTIFICATE.
-13. All ages are 1/1/2024.
+13. All ages are as of 1/1/{year}.
 14. Lunch break to be announced.
 15. Health certifcate & negative Coggins required for all out-of-state horses.
 16. NO ONE SHALL APPROACH A JUDGE WITH REGARD TO A DECISION UNLESS
@@ -83,9 +83,10 @@ award program for Juniors, Seniors, Very Small Equines (Miniature Horses), and A
 4. Very Small Equines (44 inches) In-Hand *
 5. Hunter Model
 6. Open in Hand *
-7. Weanling Class (2024 foals) (Mares not allowed in ring
-8. Yearling Class (2022 foals)
-9. Two Year Olds (2021 years ago foals) 
+7. Weanling Class ({year} foals) (Mares not allowed in ring
+8. Yearling Class ({prev_year} foals)
+9. Two Year Olds ({prev_prev_year} foals) 
+
 ### Open in Hand Championship
 1st & 2nd place winners of classes # 1-9 No entry fee.
 10. English Showmanship
@@ -143,13 +144,16 @@ a fun class ie: command class, Simon Says, etc. To be announced at the show. ***
 be competing against others at the walk/trot.
 
 
-DRAFT HORSE SHOW
-<<<<<<< HEAD:content/exhibits-handg/Open_Horse_Show.md
-Friday, August 9, 2019 — 9:30 am. — Saturday, August 10, 2019 — 9:30 am.
-JUDGE: Rocky Lyons * SUPERINTENDENT: Kathy Nisun, 349-8971
-ANNOUNCER: John Hutton *Ringmaster: Fri. Gary Cherrier — Sat. Terry Malone; *SECRETARY: Kathy Kennett, Phone 802-759-2015, Cell 802-349-5671
-=======
-Friday, August 9, 2024 — 9:30 am. — Saturday, August 10, 2024 — 9:30 am.
-JUDGE: Malcolm Yeadon, Ontario, CA  *DIRECTOR: Kathy Nisun, 802-349-8971
-ANNOUNCER: John Hutton* Ringmaster: Fri. Gary Cherrier — Sat. Terry Malone; *SECRETARY: Kathy Kennett, Phone 802-759-2015, Cell 802-349-5671
->>>>>>> dbbe298 (Update Exhibits “Open_Horse_Show”):content/exhibits/Open_Horse_Show.md
+# DRAFT HORSE SHOW
+
+Friday, August {friday}, {year} — 9:30 am. — Saturday, August {saturday}, {year} — 9:30 am.
+
+JUDGE: Rocky Lyons 
+
+SUPERINTENDENT: Kathy Nisun, 349-8971
+
+ANNOUNCER: John Hutton 
+
+Ringmaster: Fri. Gary Cherrier — Sat. Terry Malone; 
+
+SECRETARY: Kathy Kennett, Phone 802-759-2015, Cell 802-349-5671
