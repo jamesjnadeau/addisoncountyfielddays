@@ -14,6 +14,8 @@ var template;
 var mdtemplate;
 var feedURLs;
 
+var config = require('./config.json');
+
 toc_start = `
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
   <div class="panel panel-default">
@@ -124,6 +126,17 @@ module.exports = {
       // markdownContent = markdownContent.replace('[[TOC]]', tocMarkdown);
       finalContent = marked(markdownContent);
       finalContent = finalContent.replace('[[TOC]]', tocHTML);
+
+      // date replacement
+      Object.keys(config).forEach(function(key) {
+        finalContent = finalContent.replace('{' + key + '}', config[key]);
+      });
+      
+      // finalContent = finalContent.replace('{wednesday}', config.wednesday);
+      // finalContent = finalContent.replace('{thursday}', config.thursday);
+      // finalContent = finalContent.replace('{friday}', config.friday);
+      // finalContent = finalContent.replace('{saturday}', config.saturday);
+
 
       //use compiled template to produce html file
       var fileContents = mdtemplate({

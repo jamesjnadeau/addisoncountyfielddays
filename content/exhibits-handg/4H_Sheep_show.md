@@ -39,11 +39,11 @@ ENTRY FEE: $2.00 per class
     •	15 pts. Barn inspections
     •	10 pts. Showmanship placing
     •	10 pts. Blocking & Fitting Contest
-18. All premiums and awards will be presented at the Exhibitor’s Meeting at 7:00 p.m. on August 10th. The Superintendent reserves the right to withhold any premium or award to any exhibitor who has not adhered to these rules.
+18. All premiums and awards will be presented at the Exhibitor’s Meeting at 7:00 p.m. on August {saturday}. The Superintendent reserves the right to withhold any premium or award to any exhibitor who has not adhered to these rules.
 19. Sheep knowledge quiz for all youth exhibitors required. Novice, junior, intermediate, and senior division. General knowledge quiz will be given to youth exhibitors at Tuesdays barn meeting at 6:00 p.m.
 20. Daily barn inspections, details at barn meeting Tuesday night.
 21. Sheep Project Record Book (optional) turned in at first barn meeting and will be returned at Saturdays barn meeting.
-22. EXHIBITOR AWARDS MEETING, Saturday, August 10th, 6:00 p.m.
+22. EXHIBITOR AWARDS MEETING, Saturday, August {saturday}, 6:00 p.m.
 23. Barn Exhibit: A sheep educational display exhibited at the pen. First, second and third place prizes sponsored by Green Peppers.
 
 ### CLASSES

@@ -18,7 +18,7 @@ Description: |
    scratches can be made. Animals must remain in the grounds until 9:00 p.m. on Saturday. All animals must be removed by 10:00 a.m. Sunday after the fair.
    Exhibitors are responsible for taking down and stacking their own pens and cleaning their
    area.
-5. Barn Meeting for all exhibitors Tuesday, August 6th at 6:00 p.m. in the Show Tent.
+5. Barn Meeting for all exhibitors Tuesday, August {tuesday} at 6:00 p.m. in the Show Tent.
 
 ### HEALTH REGULATIONS:
 
