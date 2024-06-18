@@ -34,6 +34,16 @@ toc_end = `
   </div>
 </div>`;
 
+convert_dates = function(body) {
+  Object.keys(config.days).forEach(function(key) {
+    body = body.replace(new RegExp('\{' + key + '\}', 'g'), config.days[key]);
+  });
+  ['year', 'prev_year', 'prev_prev_year'].forEach(function(key) {
+    body = body.replace(new RegExp('\{' + key + '\}', 'g'), config[key]);
+  });
+  return body;
+}
+
 module.exports = {
   //perform any preprocessing tasks you might need here.
   preProcess: function(source, path) { //source
@@ -124,18 +134,11 @@ module.exports = {
 
       var tocHTML = toc_start + marked(toc(markdownContent).content) + toc_end;
       // markdownContent = markdownContent.replace('[[TOC]]', tocMarkdown);
-      finalContent = marked(markdownContent);
+      var finalContent = marked(markdownContent);
       finalContent = finalContent.replace('[[TOC]]', tocHTML);
 
       // date replacement
-      Object.keys(config.days).forEach(function(key) {
-        finalContent = finalContent.replace('{' + key + '}', config[key]);
-      });
-      
-      finalContent = finalContent.replace('{year}', config.year);
-      finalContent = finalContent.replace('{prev_year}', config.prev_year);
-      finalContent = finalContent.replace('{prev_prev_year}', config.prev_prev_year);
-
+      finalContent = convert_dates(finalContent);
 
       //use compiled template to produce html file
       var fileContents = mdtemplate({
@@ -149,9 +152,16 @@ module.exports = {
     } else { // if (file_extension === '.pug')
         var meta = fm(content);
 
-        var finalContent = pug.render(meta.body, {
+        body = meta.body;
+
+        // date replacement
+        body = convert_dates(body);
+
+        var finalContent = pug.render(body, {
           pretty: true,
         })
+
+        
 
         ensureCritical(template({
           title: meta.Title,
