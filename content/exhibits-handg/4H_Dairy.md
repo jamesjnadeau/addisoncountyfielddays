@@ -27,14 +27,15 @@ Description: Exibit information and entry rules
 3. All 4-H members need to turn in one(1) Dairy Animal Record Book, which includes all of the animals they will be exhibiting.
 4. Cattle  must  be  on  the  grounds  no  later  than  2:00  p.m.,  Monday.  Cattle  may  leave  no earlier than 9:00 p.m. on Saturday. 
 5. Animals  to  be  exhibited  must  have  been  cared  for  by  the  exhibitor  since  May  1st, and  listed  on  their  current  approval  forms  and/or  lease  contracts  and  signed by the Extension representative by April 30th. Exceptions are accepted on agreement of the Superintendent. Past approval forms must be included for animals over 2 years old.
-6. All exhibitors and youth showing will be at least 8 years of age as of January 1st of the year of the show and under 19 as of Jan. 1st of the year of the show.
-7. All participants must enter both the Fitting & Showing class as well as the Conformation classes.  All  4-H  members  are  eligible to particapate in  all  classes.    There  are  Special awards that will be awarded to Addison County 4-H members only.
-8. Each 4-H club will be responsible for providing adult supervision at night.
-9. Non-chaperoned, non  4-H  members will not be allowed to stay overnight in the 4-H area.  Camper sites ($150.00) and tent sites are $5 a night or $35 per week will be assigned only after camping registration forms and fees are paid to ACFFD.
-10. Judging will also be done on: Herdsmanship and Sportsmanship, which will be judged continually throughout the week. Appearance of exhibitor, neatness of club exhibit area, attitude of exhibitor, cooperation for individual members and clubs, exhibit equipment and public safety.  A Club Exhibit Display rosette will be awarded to the club with the best presentation arrangements (decorations, name cards, information).
-11. All “Open Dairy Show” entries need to be made as per rules in “Open Dairy Cattle Shows” section and proper fee paid by entry date. There will be no late entries.
-12. The 4-H Dairy Superintendent’s decisions shall rule. Any conflicts with scheduling need to be addressed to the leaders or superintendents.
-13. PREMIUMS:  
+6. Each animal must be positively identified by either a state metal ear tag, AIN tag(840), or registration papers to match approval forms.
+7. All exhibitors and youth showing will be at least 8 years of age as of January 1st of the year of the show and under 19 as of Jan. 1st of the year of the show.
+8. All participants must enter both the Fitting & Showing class as well as the Conformation classes.  All  4-H  members  are  eligible to particapate in  all  classes.    There  are  Special awards that will be awarded to Addison County 4-H members only.
+9. Each 4-H club will be responsible for providing adult supervision at night.
+10. Non-chaperoned, non  4-H  members will not be allowed to stay overnight in the 4-H area.  Camper sites ($150.00) and tent sites are $5 a night or $35 per week will be assigned only after camping registration forms and fees are paid to ACFFD.
+11. Judging will also be done on: Herdsmanship and Sportsmanship, which will be judged continually throughout the week. Appearance of exhibitor, neatness of club exhibit area, attitude of exhibitor, cooperation for individual members and clubs, exhibit equipment and public safety.  A Club Exhibit Display rosette will be awarded to the club with the best presentation arrangements (decorations, name cards, information).
+12. All “Open Dairy Show” entries need to be made as per rules in “Open Dairy Cattle Shows” section and proper fee paid by entry date. There will be no late entries.
+13. The 4-H Dairy Superintendent’s decisions shall rule. Any conflicts with scheduling need to be addressed to the leaders or superintendents.
+14. PREMIUMS:  
 
     * $9.00  =  Blue
     * $7.00  =  Red
@@ -66,7 +67,7 @@ All livestock must comply with the following health requirements. Livestock incl
    Cattle
 7. Official Individual Identification
 
-   * All cattle must have a USDA approved official ear tag. These include metal NUES tags, visual 840 tags, and 840 RFID tags. Numbers must Match on all paperwork.
+   * All cattle must have a USDA approved official ear tag. These include metal NUES tags, visual 840 tags, and 840 RFID tags.
 8. Shipping Fever Vaccination
 
    * All cattle must be vaccinated for shipping fever a minimum of 14 days and a maximum of 6 months prior to arrival with a product which includes IBR, BVD, PI3 and BRSV.
@@ -80,8 +81,8 @@ All livestock must comply with the following health requirements. Livestock incl
 1. Each 4-H club member should be present to show his/her animal and should not receive help from any person outside the show ring.  No one is allowed in the show ring except exhibitors,  judge  and  necessary  attendants  for  safety  reasons  unless  pre-approved  by superintendents.
 2. In group classes, all animals must be held by 4-H members.
 3. All 4-H dairy members are to be in the 4-H barn or at ringside during the 4-H show.
-4. The 4-H dairy project is a 4-H member activity. Members ONLY should care, prepare, and show the animal in both 4H and Open shows.
-5. Show Uniform dress code:  white or khaki pants, knee length walking shorts or skirt and white shirt with collar that covers the entire midriff (no gaps between shirts and pants).  Belts and ties are desirable.  Appropriate protective footwear required.  No clothing advertising afarm name or breed or any other clothing considered inappropriate by superintendents.  No short skirts or short shorts.
+4. The 4-H dairy project is a 4-H member activity. Members ONLY should care and prepare the animal for the show.
+5. Show Uniform dress code:  white or khaki pants, knee length walking shorts or skirt and white shirt with collar that covers the entire midriff (no gaps between shirts and pants).  Belts and ties are desirable.  Appropriate footwear required.  No clothing advertising afarm name or breed or any other clothing considered inappropriate by superintendents.  No short skirts or short shorts.
 6. Proper footwear must be worn at all times in the 4-H Dairy Barn, wash rack and working with animals.  No bare feet, flip-flops or open toe shoes.
 7. There will be mandatory exhibitors meeting on Monday evening, at 3:30 p.m. in the 4-H Dairy show arena.
 8. Club  awards  will  be  presented  on  Saturday  at  lunch  break,  at  the  Dairy  Ring.    All members and clubs should be represented.
@@ -135,7 +136,7 @@ A﻿LL CLASSES ARE ON AGE OF YOUTH AS OF January 1st of the current year.
 
 Awards will be given away on Saturday (during lunchbreak of open show in Animal Show Arena).
 
-### SHOWMANSHIP AWARDS
+### SHOWMANSHIP
 
 #### GEORGE HIGHTER AWARD
 
@@ -145,8 +146,8 @@ individual. Permanent trophy donated by Blue Spruce Farm in memory of Mary Rose 
 
 #### MILK AND HONEY GENETICS AWARD
 
-A permanent and rotating trophy to the 4-H member who is
-a winner of the Junior Showmanship Division in the 4-H Dairy Show in memory of Skip Maynard.
+Skip and Ruth Maynard donated a permanent and rotating trophy to the 4-H member who is
+a winner of the Junior Showmanship Division in the 4-H Dairy Show.
 
 #### TRISTAN QUINN MEMORIAL SHOWMANSHIP AWARD
 
@@ -154,7 +155,7 @@ Rotating plaque & prize given by the Quinn Family to winner of Intermediate Show
 
 #### NOVICE C AWARD
 
-Award donated to Novice C Intermeidates and Seniors by Karissa Livingston.
+Award donated to Novice C Intermeidates and Seniors
 
 #### DAN HUESTIS AWARD
 

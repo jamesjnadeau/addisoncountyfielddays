@@ -2,9 +2,11 @@
 Title: OPEN HORSE SHOW
 Description: Exibit information and entry rules
 ---
-# Horse Shows
 
-\[[TOC]]
+# Horse Shows
+[[TOC]]
+
+
 
 # OPEN HORSE SHOW
 
@@ -15,9 +17,8 @@ JUDGE: Elizabeth Pope;
 TRAIL JUDGE: Karen Malzac
 
 CO-MANAGERS: 
-
-* Jessica Stuart, Essex Junction, VT, 802-233-3013; 
-* Bailee Layn, Bristol, VT, 802-922-1653,
+- Jessica Stuart, Essex Junction, VT, 802-233-3013; 
+- Bailee Layn, Bristol, VT, 802-922-1653,
 
 Entries close by postmark of July 31, {year}.
 Day stabling only: First come, frst served basis @$15.00(box). 
@@ -28,30 +29,30 @@ Available from 7:30 p.m. on Wednesday. Vacate by 6:00 p.m. Thursday.
 We now have email and a Facebook page, please like us! Our email is
 fdhorseshow at gmail.com
 
-## RULES AND REGULATIONS
 
+## RULES AND REGULATIONS
 **PLEASE NOTE: ALL CAMPERS AND HORSE TRAILERS MUST CHECK IN BEFORE
 PARKING THEM & NO DOGSALLOWED.**
 
 1. Eight ribbons in each class. Entry fee $5.00 per class. Prize awarded to each champion.
 2. Exhibitors are subject to Addison County Fair and Field Days rules.
 3. Advance entries are necessary for Grounds Passes. On receipt of advance entries
-   AND ALL FEES, a pass will be mailed to allow you to get on the grounds. Please
-   enclose a SELF-ADDRESSED STAMPED ENVELOPE FOR PASS. No advance entry, no
-   pass. 1 pass per rider, 1 pass (driver & parking) per rig. No refunds given.
+AND ALL FEES, a pass will be mailed to allow you to get on the grounds. Please
+enclose a SELF-ADDRESSED STAMPED ENVELOPE FOR PASS. No advance entry, no
+pass. 1 pass per rider, 1 pass (driver & parking) per rig. No refunds given.
 4. Post entries will be accepted after that date but will be charged an additional $1.00 for
-   each class entered the day of the show. If no passes need to be mailed prior to the show
-   date then you may enter without paying the late fee up until the day of the show.
+each class entered the day of the show. If no passes need to be mailed prior to the show
+date then you may enter without paying the late fee up until the day of the show.
 5. No entry will be permitted in the ring unless exhibitor has signed an entry blank and
-   the fees for that class have been paid. No entrant will be allowed in the ring without a
-   number. Parent/guardian of exhibitor under 18 must sign an entry form.
+the fees for that class have been paid. No entrant will be allowed in the ring without a
+number. Parent/guardian of exhibitor under 18 must sign an entry form.
 6. ADDISON COUNTY FAIR & FIELD DAYS MANDATE. NO DOGS ALLOWED.
 7. Horses not shown in any class forfeit their entry fee for that class except when excused
-   by a vet (written verifcation required). No refunds for scratched classes.
+by a vet (written verifcation required). No refunds for scratched classes.
 8. All numbers are $2.00 you will be refunded $1.00 if returned to show management at
-   the end of the show.
+the end of the show.
 9. Exhibitors will be responsible for any accident or injury caused by horses entered by
-   them, thereby releasing Addison County Fair & Field Days from any damage whatsoever.
+them, thereby releasing Addison County Fair & Field Days from any damage whatsoever.
 10. The management will act as stewards at this show and their decision is fnal.
 11. Hard hats required in all hunt seat classes.
 12. RABIES CERTIFICATES REQUIRED. IT MUST BE ISSUED AND SIGNED BY A LICENSED
@@ -63,16 +64,18 @@ PARKING THEM & NO DOGSALLOWED.**
 14. Lunch break to be announced.
 15. Health certifcate & negative Coggins required for all out-of-state horses.
 16. NO ONE SHALL APPROACH A JUDGE WITH REGARD TO A DECISION UNLESS
-    HE FIRST OBTAINS PERMISSION FROM THE SHOW COMMITTEE, WHO SHALL
-    ARRANGE AN APPOINTMENT WITH THE JUDGE AT A PROPER TIME AND PLACE.
+HE FIRST OBTAINS PERMISSION FROM THE SHOW COMMITTEE, WHO SHALL
+ARRANGE AN APPOINTMENT WITH THE JUDGE AT A PROPER TIME AND PLACE.
 
 ### OPEN SHOW CLASS LIST
-
 Subject to Change
 
-* `*` Indicates these classes will count toward the Champlain Valley Horse Shows free year end
-  award program for Juniors, Seniors, Very Small Equines (Miniature Horses), and Adults.
-* `$$` - Indicates a class that has money prizes of $50, $30, $20
+- `*` Indicates these classes will count toward the Champlain Valley Horse Shows free year end
+award program for Juniors, Seniors, Very Small Equines (Miniature Horses), and Adults.
+
+- `$$` - Indicates a class that has money prizes of $50, $30, $20
+
+
 
 1. Open In-Hand, Stallions
 2. Western Model
@@ -85,16 +88,11 @@ Subject to Change
 9. Two Year Olds ({prev_prev_year} foals) 
 
 ### Open in Hand Championship
-
 1st & 2nd place winners of classes # 1-9 No entry fee.
-
 10. English Showmanship
 11. Western Showmanship
-
 ### Showmanship Championship
-
 1st 2nd and 3rd place winners of classes #10 and 11 No entry fee.
-
 12. Adult Novice Rider Equitation
 13. Saddle Seat Equitation, Junior 13 & under *
 14. Saddle Seat Equitation, Senior 14-18 years *
@@ -120,11 +118,8 @@ Subject to Change
 34. Adult Novice Rider Pleasure (Walk/Trot) all seats
 35. Addison County Pleasure (Western) (Addison County Residents Only) $$ 
 36. Junior Western Pleasure Horse (horses 5 & under)
-
 ### Equitation Championship:
-
 1st & 2nd place winners from classes # 13, 14, 16, 17, 30, 31) No Entry Fee $$ *
-
 37. Adult Equitation Championship: For those who have shown in a previous adult equitation class. $$ *
 38. Road Hack (Western) *
 39. Western Pattern *
@@ -142,12 +137,12 @@ Subject to Change
 51. Very Small Equines <44 inches Obstacle driving Course *
 52. Therapeutic Riding Trail
 
-\*\**Benefit class to be done directly after lunch, pay at the gate (5$ donation or more if rider would like), to help a local charity or rider. Open to beginners and up. This will be a fun class ie: command class, Simon Says, etc. To be announced at the show. **\***
+if rider would like, to help a local charity or rider. Open to beginners and up. This will be
+a fun class ie: command class, Simon Says, etc. To be announced at the show. *****
 
-**Therapeutic Riding - See explanation on Monday's class list.**
-
-\*\**Novice Rider is an individual over 18 years old and in their first year of showing and will only
+***Novice Rider is an individual over 18 years old and in their frst year of showing and will only
 be competing against others at the walk/trot.
+
 
 DRAFT HORSE SHOW
 Friday, August {friday}, {year} — 9:30 am. — Saturday, August {saturday}, {year} — 9:30 am.

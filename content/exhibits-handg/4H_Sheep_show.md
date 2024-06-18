@@ -6,7 +6,7 @@ Description: Exibit information and entry rules
 
 ### REGISTER ON LINE AT:
 
-### <https://sites.google.com/site/acffdsheepshow/>
+### [https://sites.google.com/site/acffdsheepshow/](https://sites.google.com/site/acffdsheepshow/)
 
 ### RULES & AWARDS
 
@@ -52,7 +52,7 @@ ENTRY FEE: $2.00 per class
 
 ### CHAMPION RAM
 
-2. Yearling Ram Class- (limited to youth 12 yrs. of age and older-not to be shown in Fitting and Showmanship.) 1 yr. of age, but under 2 years.
+*2. Yearling Ram Class- (limited to youth 12 yrs. of age and older-not to be shown in Fitting and Showmanship.) 1 yr. of age, but under 2 years.*
 
 3. Senior Ram Class — born on or after September 1, {year} and before January 1, {year}
 
@@ -61,7 +61,7 @@ ENTRY FEE: $2.00 per class
 
 ### CHAMPION EWE
 
-5. Aged Ewe—2 years and older
+*5. Aged Ewe—2 years and older*
 
 6. Yearling Ewe — 1 year of age, but under 2 years
 7. Senior Ewe — born on or after September 1, {year} and before January 1, {year} 
