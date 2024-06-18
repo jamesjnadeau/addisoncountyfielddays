@@ -33,11 +33,11 @@ Victor Bolduc, and Patrick Reen. Youth Members Katherine Whipple and David Bertr
 ## 4-H Pass Policy
 
 1. 4-H members and 4-H leaders will be awarded a colored Field Days Bracelet for {year}.
-   Each organizational leader is to submit a list of active members and leaders for their club
-   at any time before July 31, {year} to 4-H Fair Passes, UVM Extension, 23 Pond Lane, Suite
-   300, Middlebury, VT 05753 or email Martha Seifert.
-   4-H members are to receive their pass from their 4-H leader as soon as
-   available.
+Each organizational leader is to submit a list of active members and leaders for their club
+at any time before July 31, {year} to 4-H Fair Passes, UVM Extension, 23 Pond Lane, Suite
+300, Middlebury, VT 05753 or email Martha Seifert.
+4-H members are to receive their pass from their 4-H leader as soon as
+available.
 2. All 4-H members need to work in either the Dusty Chuck or Youth Exhibit Hall
 at some time during the fair week in order to receive a pass.
 3. 4-H horse show exhibitors:

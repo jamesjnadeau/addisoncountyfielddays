@@ -56,11 +56,11 @@ them, thereby releasing Addison County Fair & Field Days from any damage whatsoe
 10. The management will act as stewards at this show and their decision is fnal.
 11. Hard hats required in all hunt seat classes.
 12. RABIES CERTIFICATES REQUIRED. IT MUST BE ISSUED AND SIGNED BY A LICENSED
-    VETERINARIAN AT LEAST 30 DAYS(JULY 1, {year}) PRIOR TO THIS SHOW. ATTACH A COPY
-    TO YOUR ENTRY –IT WILL NOT BE RETURNED. HORSES CANNOT BE UNLOADED WITHOUT
-    PROOF OF SHOTS. THIS IS A VERMONT STATE FAIRS MANDATE. NAME OF HORSE SHOULD
-    BE THE SAME ON ENTRY BLANK AND RABIES CERTIFICATE.
-13. All ages are 1/1/{year}.
+VETERINARIAN AT LEAST 30 DAYS(JULY 1, 2019) PRIOR TO THIS SHOW. ATTACH A COPY
+TO YOUR ENTRY –IT WILL NOT BE RETURNED. HORSES CANNOT BE UNLOADED WITHOUT
+PROOF OF SHOTS. THIS IS A VERMONT STATE FAIRS MANDATE. NAME OF HORSE SHOULD
+BE THE SAME ON ENTRY BLANK AND RABIES CERTIFICATE.
+13. All ages are as of 1/1/{year}.
 14. Lunch break to be announced.
 15. Health certifcate & negative Coggins required for all out-of-state horses.
 16. NO ONE SHALL APPROACH A JUDGE WITH REGARD TO A DECISION UNLESS
@@ -148,11 +148,12 @@ be competing against others at the walk/trot.
 
 Friday, August {friday}, {year} — 9:30 am. — Saturday, August {saturday}, {year} — 9:30 am.
 
-JUDGE: Malcolm Yeadon, Ontario, CA  *DIRECTOR: Kathy Nisun, 802-349-8971
+JUDGE: Malcolm Yeadon, Ontario, CA  
 
-ANNOUNCER: John Hutton* 
+DIRECTOR: Kathy Nisun, 802-349-8971
+
+ANNOUNCER: John Hutton
 
 Ringmaster: Fri. Gary Cherrier — Sat. Terry Malone; 
 
 SECRETARY: Kathy Kennett, Phone 802-759-2015, Cell 802-349-5671
-

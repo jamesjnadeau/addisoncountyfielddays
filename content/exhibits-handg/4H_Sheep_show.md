@@ -55,8 +55,6 @@ ENTRY FEE: $2.00 per class
 *2. Yearling Ram Class- (limited to youth 12 yrs. of age and older-not to be shown in Fitting and Showmanship.) 1 yr. of age, but under 2 years.*
 
 3. Senior Ram Class — born on or after September 1, {year} and before January 1, {year}
-
-
 4. Junior Ram Class — born on or after January 1, {year}
 
 ### CHAMPION EWE

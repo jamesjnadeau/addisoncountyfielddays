@@ -109,7 +109,7 @@ entry blank, a site will be assigned to you, if none are available you will be n
 management. $35/night $150 a week.
 33.**** Do not arrive before 3:00 p.m. on Sunday with your horse/pony and/or camper.****
 34. Make all checks payable to Addison County Fair & Field Days.
-35. Entries close with the postmark of July 27, {year}.
+35. Entries close with the postmark of July 31, {year}.
 36. No hay allowed in front of stalls during Field Days.
 37. NO ONE SHALL APPROACH A JUDGE WITH REGARD TO A DECISION UNLESS
 HE FIRST OBTAINS PERMISSION FROM THE SHOW COMMITTEE, WHO SHALL
@@ -117,7 +117,7 @@ ARRANGE AN APPOINTMENT WITH THE JUDGE AT A PROPER TIME AND PLACE.
 
 ###### ENGLISH ONLY 
 BEGINNER & ADVANCED BEGINNER SHOW
-Monday, August 5, {year} - 8:30 am RAIN OR SHINE
+Monday, August {monday}, {year} - 8:30 am RAIN OR SHINE
 **JUDGE: BETHANY WHITE   TRAIL JUDGE: KAREN MALZAC** 
 CLASSES
 
