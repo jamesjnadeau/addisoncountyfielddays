@@ -3,9 +3,9 @@ Title: OPEN DAIRY CATTLE SHOW
 Description: Exibit information and entry rules
 ---
 
-[[TOC]]
-
 # OPEN DAIRY CATTLE SHOW
+
+[[TOC]]
 
 SUPERINTENDENTS: Stephanie Pope, 481 Windy Valley Road, Bridport, VT 05734, 236-5695; Sue James
 

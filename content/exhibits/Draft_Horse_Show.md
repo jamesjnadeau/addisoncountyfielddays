@@ -6,7 +6,7 @@ Addison County Fair & Field Days Draft Horse Show
 
 # DRAFT HORSE SHOW
 
-\[[TOC]]
+[[TOC]]
 
 Friday, August {friday}, {year} 9:30 am. — Saturday, August {saturday}, {year} 9:30 am.
 

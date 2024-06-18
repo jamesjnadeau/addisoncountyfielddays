@@ -4,7 +4,7 @@ Description: Exibit information and entry rules
 ---
 # 4-H DAIRY CATTLE EXHIBIT
 
-\[[TOC]]
+[[TOC]]
 
 **DIRECTOR:** Cindy Kayhart
 **SUPERINTENDENT:** Robin Severy
