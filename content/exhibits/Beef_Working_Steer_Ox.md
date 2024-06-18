@@ -38,7 +38,7 @@ Superintendent and Beef Committee will be assembling a Draft Show Booklet prior 
 3. Field Days assumes no responsibility for loss or damage to animals from any cause.
    Entries accepted only on this condition.
 4. All animals shall be on the grounds prior to 8:00 p.m. on Monday, August 5, 2024. Animals will not be allowed to arrive prior to 8:00 a.m. on Monday, August 5, 2024.
-5. All entries must remain on the grounds until 9 p.m. on Saturday, August 10th, 2024. Failure
+5. All entries must remain on the grounds until 9 p.m. on Saturday, August {saturday}, 2024. Failure
    to abide by arrival and departure times will result in loss of premiums and/or awards.
    Cattle may remain on the grounds until Sunday. Security is provided.
 6. Spacing will be allocated based on the number and age of animals signed up. (Calves & Yearlings will be allowed a spacing between two holes. Cows will be allowed a spacing between three holes.) If the barn is full; the exhibitor will be asked to narrow up their exhibit. If exhibitor area is on an interior wall where there is not outside room to store feed and tack; reasonable accommodations will be allowed for feed and tack to be stored along your exhibit.
