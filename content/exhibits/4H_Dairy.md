@@ -91,14 +91,14 @@ All livestock must comply with the following health requirements. Livestock incl
 
 CONFORMATION CLASSES (Tuesday) $2.00/class
 
-1. Spring Calf — born between March 1 , 2024,  and April 30 , 2024 
-2. Winter Calf — born between December 1, 2023 and February 28, 2024.
-3. Fall Calf — born between September 1, 2023 and November 30, 2023.
-4. Summer Yearling Heifer— born between June 1, 2023 and August 31, 2023.
-5. Spring Yearling Heifer — born between March 1, 2023 and May 31, 2023.
-6. Winter Yearling Heifer — born between December 1, 2022 and February 29, 2023.
-7. Fall Yearling Heifer— born between September 1, 2022 and November 30, 2022.
-8. Two Year Old Cow — milking — born between September 1, 2022 and August 31, 2022.
+1. Spring Calf — born between March 1 , {year},  and April 30 , {year} 
+2. Winter Calf — born between December 1, {prev_year} and February 28, {year}.
+3. Fall Calf — born between September 1, {prev_year} and November 30, {prev_year}.
+4. Summer Yearling Heifer— born between June 1, {prev_year} and August 31, {prev_year}.
+5. Spring Yearling Heifer — born between March 1, {prev_year} and May 31, {prev_year}.
+6. Winter Yearling Heifer — born between December 1, {prev_prev_year} and February 29, {prev_year}.
+7. Fall Yearling Heifer— born between September 1, {prev_prev_year} and November 30, {prev_prev_year}.
+8. Two Year Old Cow — milking — born between September 1, {prev_prev_year} and August 31, {prev_prev_year}.
 9. Three Year Old Cow — born between September 1, 2020 and August 31, 2021.
 10. Four Year Old and Over — born before September 1, 2020.
 11. Best animal bred by exhibitor — Reginald Morse Award. Proof required by either
@@ -115,17 +115,17 @@ $2.00/class
 
 A﻿LL CLASSES ARE ON AGE OF YOUTH AS OF January 1st of the current year.
 
-* Novice Class Division A: Member 8 years of age (as of January 1, 2024) who has never
+* Novice Class Division A: Member 8 years of age (as of January 1, {year}) who has never
   shown before.
-* Novice Class Division B: Member 9-11 years of age (as of January 1, 2024) and under
+* Novice Class Division B: Member 9-11 years of age (as of January 1, {year}) and under
   who have not shown an animal before. NOTE: Superintendents reserve the right to
   divide classes according to size.
-* Junior Division : 11 years of age and under as of January 1, 2024
+* Junior Division : 11 years of age and under as of January 1, {year}
   Junior Champion Showman-All First Place showmen compete from Junior Division
   Showmanship classes.
-* Intermediate Division: 12 to 14 years of age as of Jan 1, 2024.
+* Intermediate Division: 12 to 14 years of age as of Jan 1, {year}.
 * Intermediate Champion Showman & All First Place Winners from Intermediate classes.
-* Senior Division: Age 15 to 18 years as of January 1, 2024.
+* Senior Division: Age 15 to 18 years as of January 1, {year}.
 * Senior Champion Showman--All First Place winners from Senior Showmanship division
   classes. (In the event that the First Place winner in this class is a previous winner, then
   the first eligible winner will compete}.

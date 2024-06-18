@@ -45,7 +45,7 @@ will be reduced by one half. Ribbons will be awarded in ALL classes.
 
 SUPERINTENDENT:  Wayne Marcelle, 802-233-9534
 
-Saturday, August 10, 2024 1:30 PM IN THE BANDSTAND TENT
+Saturday, August {saturday}, {year} 1:30 PM IN THE BANDSTAND TENT
 
 $1.00 per bird per class(limit of 1 bird per child for each class)
 

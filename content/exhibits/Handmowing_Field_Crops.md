@@ -9,7 +9,7 @@ Description: Exibit information and entry rules for Field Crops & Handmowing at
 
 ## NEW CROPS SUPERINTENDENT: Abigail Augraten-abigail.augraten@uvm.edu
 
-ENTRY DEADLINE: Monday, August 5, 2024-All Products in by 12:00 noon
+ENTRY DEADLINE: Monday, August {monday}, {year}-All Products in by 12:00 noon
 
 ## Rules
 
@@ -67,7 +67,7 @@ ENTRY DEADLINE: Monday, August 5, 2024-All Products in by 12:00 noon
 
 # HAND MOWING CONTEST
 
-###### Thursday, August 8, 2024 10AM
+###### Thursday, August {thursday}, {year} 10AM
 
 ## RULES
 

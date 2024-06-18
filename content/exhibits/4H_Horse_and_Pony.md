@@ -5,7 +5,7 @@ Description: Exibit information and entry rules
 # 4-H AND OTHER YOUTH HORSE & PONY SHOWS
 
 Director: Kathy Nisun Superintendents: Jessica Stuart 802-233-3013, Bailee layn-Gordon 802-922-1653
-**Monday, August 5, Tuesday, August 6, and Wednesday, August 7, 2024**
+**Monday, August {monday}, Tuesday, August {tuesday}, and Wednesday, August {wednesday}, {year}**
 Rain or Shine
 Please: **ALL CAMPERS AND HORSE TRAILERS MUST CHECK IN BEFORE PARKING THEM**
 
@@ -13,7 +13,7 @@ Please: **ALL CAMPERS AND HORSE TRAILERS MUST CHECK IN BEFORE PARKING THEM**
 
 ## RULES & REGULATIONS
 
-1. Age: 18 and under as of January 1, 2024.
+1. Age: 18 and under as of January 1, {year}.
 2. ENTRY FEE: $2.00 per class. $2.00 per number ($1.00 refunded at end of show).
    Number goes to each rider. If you scratch a class and enter a new one, you must pay
    another $2.00. No refunds, no exceptions. All classes must be paid for before receiving
@@ -105,7 +105,7 @@ Please: **ALL CAMPERS AND HORSE TRAILERS MUST CHECK IN BEFORE PARKING THEM**
     management. $35/night $150 a week.
 33. **Do not arrive before 3:00 p.m. on Sunday with your horse/pony and/or camper.**
 34. Make all checks payable to Addison County Fair & Field Days.
-35. Entries close with the postmark of July 27, 2024.
+35. Entries close with the postmark of July 27, {year}.
 36. No hay allowed in front of stalls during Field Days.
 37. NO ONE SHALL APPROACH A JUDGE WITH REGARD TO A DECISION UNLESS
     HE FIRST OBTAINS PERMISSION FROM THE SHOW COMMITTEE, WHO SHALL
@@ -113,7 +113,7 @@ Please: **ALL CAMPERS AND HORSE TRAILERS MUST CHECK IN BEFORE PARKING THEM**
 
 ###### ENGLISH ONLY 
 BEGINNER & ADVANCED BEGINNER SHOW
-Monday, August 5, 2024 - 8:30 am RAIN OR SHINE
+Monday, August 5, {year} - 8:30 am RAIN OR SHINE
 **JUDGE: BETHANY WHITE   TRAIL JUDGE: KAREN MALZAC** 
 CLASSES
 
@@ -174,7 +174,7 @@ Trail.
 
 ## WESTERN ONLY 4-H AND OPEN YOUTH HORSE SHOW CLASSES
 
-Tuesday, August 6, 2024- 8:30am RAIN OR SHINE
+Tuesday, August {tuesday}, {year}- 8:30am RAIN OR SHINE
 **JUDGE: MICHAEL DUNN     TRAIL JUDGE KAREN MALZAC**
 
 1. 4-H Beginner Fitting, Grooming & Showmanship
@@ -245,7 +245,7 @@ All divisions, Classes to count are Fitting, Project Up, Equitation, Pleasure, &
 
 ## ENGLISH ONLY 4-H AND OPEN YOUTH HORSE SHOW
 
-Wednesday, August 7, 2024 - 8:30am RAIN OR SHINE
+Wednesday, August {wednesday}, {year} - 8:30am RAIN OR SHINE
 \*\*JUDGE: Tammy Johnson  TRAIL JUDGE Karen Malzac
 
 ### CLASSES

@@ -10,7 +10,7 @@ Description: |
 1. Entry fee - $2.00 per class. 
 2. Mail entries to: Janelle Ashley, 33 North Main Street, Whiting,
    VT 05778, Tel. 989-9528. 
-3. Entries must be returned by Friday, July 26, 2024. Enter each class online at https://sites.google.com/view/acffdgoatshow/home
+3. Entries must be returned by Friday, July 26, {year}. Enter each class online at https://sites.google.com/view/acffdgoatshow/home
 4. Exhibitors must provide their own feed and bedding. 
    Sawdust & straw is provided.
    All animals must arrive on the grounds and be checked for health, registration and class
@@ -28,7 +28,7 @@ Description: |
    exhibition and showing. All goats must be vaccinated for rabies thirty (30) days prior to
    Monday before the fair and must have a certificate to verify the vaccination. All goats must have
    scrapie ear tag.
-2. The show will take place on Wednesday, August 7, 2024 at 12noon. Both youth and open
+2. The show will take place on Wednesday, August {wednesday}, {year} at 12noon. Both youth and open
    exhibitors will be judged at the same time, awarded ribbons by place then open exhibitors
    will leave the ring and 4-H and other youth exhibitors will be awarded ribbons according
    to the danish system.
@@ -51,13 +51,13 @@ Goats will be separated by Meat breeds, Milk breeds and Fiber breeds.
    Champion Buck
 2. Yearling Buck Class — (limited to youth 12 yrs of age and older-not to be shown in
    Fitting and Showmanship.) 1 yr of age, but under 2 years
-3. Senior Buck Class — born on or after September 1, 2024 and before January 1, 2024
-4. Junior Buck Class — born on or after January 1, 2024
+3. Senior Buck Class — born on or after September 1, {year} and before January 1, {year}
+4. Junior Buck Class — born on or after January 1, {year}
    Champion Doe
 5. Senior Doe—2 years and older
 6. Yearling Doe — 1 year of age, but under 2 years
-7. Senior Doe — born on or after September 1, 2024 and before January 1, 2024
-8. Junior Doe — born on or after January 1, 2024
+7. Senior Doe — born on or after September 1, {year} and before January 1, {year}
+8. Junior Doe — born on or after January 1, {year}
 9. Exhibitor’s Flock — group to consist of one (1) Buck and two (2) Does owned by
    exhibitor and shown in classes
 10. Market Goat — Doe or wether goat less than one year

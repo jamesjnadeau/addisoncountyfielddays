@@ -12,10 +12,10 @@ Description: Exibit information and entry rules
 
 ENTRY FEE: $2.00 per class
 
-1. Enter online at https://sites.google.com/site/acffdsheepshow/home. Deadline for entries is Saturday, July 27, 2024.
+1. Enter online at https://sites.google.com/site/acffdsheepshow/home. Deadline for entries is Saturday, July 27, {year}.
 2. Exhibitors must provide their own feed. Sawdust & straw provided.
 3. ALL sheep must be owned or leased by showing youth as of July 30.
-4. All animals must arrive on the grounds and be checked for health, registration, and class entries between noon and 9:00 p.m. on Monday before the fair. After check in, only scratches can be made. Animals must remain in the grounds until 9:00 p.m. on Saturday, August 10. All animals must be removed by 10:00 a.m. Sunday. Exhibitors are responsible for taking down and stacking their own pens and cleaning their area.
+4. All animals must arrive on the grounds and be checked for health, registration, and class entries between noon and 9:00 p.m. on Monday before the fair. After check in, only scratches can be made. Animals must remain in the grounds until 9:00 p.m. on Saturday, August {saturday}. All animals must be removed by 10:00 a.m. Sunday. Exhibitors are responsible for taking down and stacking their own pens and cleaning their area.
 5. BARN MEETING for all exhibitors, Tuesday at 6:00 p.m. in the show tent.
 6. HEALTH REGULATIONS — Same as Open Sheep Show.
 7. This show is open to youth 5-21 years of age (as of January 1) (Exhibitors less than 9 years must have a parent at ringside.)
@@ -54,19 +54,19 @@ ENTRY FEE: $2.00 per class
 
 2. Yearling Ram Class- (limited to youth 12 yrs. of age and older-not to be shown in Fitting and Showmanship.) 1 yr. of age, but under 2 years.
 
-3. Senior Ram Class — born on or after September 1, 2024 and before January 1, 2024
+3. Senior Ram Class — born on or after September 1, {year} and before January 1, {year}
 
 
-4. Junior Ram Class — born on or after January 1, 2024
+4. Junior Ram Class — born on or after January 1, {year}
 
 ### CHAMPION EWE
 
 5. Aged Ewe—2 years and older
 
 6. Yearling Ewe — 1 year of age, but under 2 years
-7. Senior Ewe — born on or after September 1, 2024 and before January 1, 2024 
+7. Senior Ewe — born on or after September 1, {year} and before January 1, {year} 
 
-8. Junior Ewe — born on or after January 1, 2024
+8. Junior Ewe — born on or after January 1, {year}
 9. Daughter/Dam-Aged ewe with her yearling, Senior or Junior ewe lamb.
 10. Exhibitor’s Flock — group to consist of one (1) Ram Lamb and two (2) Ewes owned by exhibitor and shown in classes.
 11. Market Lamb — lamb must be slick shorn and may be divided into light and heavy weight at the discretion of the judge. Lambs must be wethers

@@ -4,7 +4,7 @@ Description: Exibit information and entry rules
 ---
 # Ox, Horse and Pony Pulling
 
-Wednesday, August 7, 2024  9:30 am.
+Wednesday, August {wednesday}, {year}  9:30 am.
 
 SUPERINTENDENT: Benj Deppman (802)734-1381
 
@@ -51,7 +51,7 @@ JUDGE: Dave Stearns
 
 ## HORSE AND PONY PULLING
 
-Thursday, August 8, 2024  and Friday, August 9, 2024
+Thursday, August {thursday}, {year}  and Friday, August {friday}, {year}
 
 SUPERINTENDENT: Benj Deppman (802)734-1381
 

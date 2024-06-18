@@ -105,18 +105,18 @@ bedding or will be able to buy shavings at the fair.
 
 Limit of one group per exhibitor in each group classes.
 
-1. Spring Heifer March -May 10, 2024
-2. Winter Heifer December 2022-February 28, 2024
-3. Fall Heifer September -November 2023
-4. Summer Yearling June-August 2023
-5. Spring Yearling March-May 2023
-6. Winter Yearling December 2022-February 2023
-7. Fall Yearling September-November 2023
+1. Spring Heifer March -May 10, {year}
+2. Winter Heifer December {prev_year}-February 28, {year}
+3. Fall Heifer September -November {prev_year}
+4. Summer Yearling June-August {prev_year}
+5. Spring Yearling March-May {prev_year}
+6. Winter Yearling December {prev_year}-February {prev_year}
+7. Fall Yearling September-November {prev_year}
 8. Junior Best 3
    MILKING CLASSES NEED TO HAVE CALVED
-9. Milking Yearling/Summer Junior 2 June 2022-November 2022
-10. Jr 2 March-May 2022
-11. Sr 2 September 2021-February 2022
+9. Milking Yearling/Summer Junior 2 June {prev_prev_year}-November {prev_prev_year}
+10. Jr 2 March-May {prev_prev_year}
+11. Sr 2 September 2021-February {prev_prev_year}
 12. Jr 3 March-August 2021
 13. Sr 3 September 2020-February 2021
 14. 4-year-old September 2019-August 2020

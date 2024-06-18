@@ -8,9 +8,9 @@ Description: Exibit information and entry rules
 
 ## Tractor Pulling
 
-1. Thursday, August 8, 2024 10:00 am.
-2. Friday, August 9, 2024 10:00am and 6:00 pm.
-3. Saturday, August 10, 2024 10:00am and 6:00 pm.
+1. Thursday, August {thursday}, {year} 10:00 am.
+2. Friday, August {friday}, {year} 10:00am and 6:00 pm.
+3. Saturday, August {saturday}, {year} 10:00am and 6:00 pm.
 
 SPONSORED BY: VT Tractor Pullers Assoc. 
 
