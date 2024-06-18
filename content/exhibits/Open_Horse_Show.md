@@ -8,7 +8,7 @@ Description: Exibit information and entry rules
 
 # OPEN HORSE SHOW
 
-Thursday, August 8, 2024 8:00 am. — Rain or Shine 
+Thursday, August {thursday}, 2024 8:00 am. — Rain or Shine 
 
 JUDGE: Elizabeth Pope; 
 
