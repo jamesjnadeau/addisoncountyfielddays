@@ -74,7 +74,7 @@ collections:
     extension: pug
     identifier_field: "Title"
     preview_path: "{{dirname}}/{{filename}}"
-    summary: "{{dirname}}/{{filename}}.{{extension}} - {{Title}}"
+    summary: "{{dirname}}/{{filename}}.{{extension}}" #  - {{Title}}
     # adding a nested object will show the collection folder structure
     nested:
       depth: 100 # max depth to show in the collection tree
