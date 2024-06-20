@@ -6,7 +6,7 @@ Addison County Fair & Field Days Draft Horse Show
 
 # DRAFT HORSE SHOW
 
-[[TOC]]
+\[[TOC]]
 
 Friday, August {friday}, {year} 9:30 am. — Saturday, August {saturday}, {year} 9:30 am.
 
@@ -274,111 +274,93 @@ classes are combined the premiums from the higher staked class will be awarded.
     trot/canter both ways of the ring. 
 
     Prizes: $50, $40, $25, $20, $10, $5
-31. ### Obstacle Course.
 
-    Entry Fee: $10.00
-
-    Team hitched to a wagon provided by the fair. The class is judged on
-    the ability of a team and driver to negotiate a prescribed course without tipping stakes.
-    A given team may only do the course with different drivers.
-
-    Prizes: $50, $40, $25, $20, $10, $5 
-32. ### Single Horse Competition – to be announced.
-
-    Entry Fee: $5.00
-    Prizes: $50, $40, $25, $20, $10, $5
-
-    - - -
-
-    ### 📅 Saturday
-
-    - - -
-33. ### Geldings, 3 years & under, all weights.
+    # Saturday - 9:30 am
+31. ### Geldings, 3 years & under, all weights.
 
     Entry Fee: $5.00
 
     All breeds combined. 
 
     Prizes: $50, $40, $25, $20, $10, $5
-34. ### Geldings, 4 years & over, all weights.
+32. ### Geldings, 4 years & over, all weights.
 
     Entry Fee: $5.00
 
     All breeds combined. 
 
     Prizes: $50, $40, $25, $20, $10, $5. 
-35. ### Grade Geldings, 3 years and over, all weights.
+33. ### Grade Geldings, 3 years and over, all weights.
 
-     Entry Fee: $5.00
+    Entry Fee: $5.00
 
-     Prizes: $50, $40, $25, $20, $10, $5
-36. ### Geldings, Haflinger and Pony Drafts. All ages.
+    Prizes: $50, $40, $25, $20, $10, $5
+34. ### Geldings, Haflinger and Pony Drafts. All ages.
 
     Entry Fee: $5.00
 
      Prizes: $50, $40, $25, $20, $10, $5
+35. ### Grand Champion Gelding
 
-    1. ### Grand Champion Gelding
+    No entry fee. 
 
-       No entry fee. 
-
-    1st & 2nd place winners of other Gelding classes are eligible
-37. ### Stallion, 1 & 2 years old.
+    1st & 2nd place winners of classes 31 - 34 are eligible
+36. ### Stallion, 1 & 2 years old.
 
     Entry Fee: $5.00
 
     All breeds combined.
 
     Prizes: $50, $40, $25, $20, $10, $5
-38. ### Weanling Stallions.
+37. ### Weanling Stallions.
 
     Entry Fee: $5.00
 
     All breeds combined
 
     Prizes: $50, $40, $25, $20, $10, $5
-39. ### Junior Champion Stallion.
+38. ### Junior Champion Stallion.
 
     No entry fee. 
 
     1st & 2nd place winners of 2 previous stallion classes are eligible
-40. ### Stallions, 3 years & over.
+39. ### Stallions, 3 years & over.
 
     Entry Fee: $5.00
 
     All breeds combined Senior Champion.
 
     Prizes: $50, $40, $25, $20, $10, $5 
-41. ### Stallions, Halflinger and Pony Drafts All ages.
+40. ### Stallions, Halflinger and Pony Drafts All ages.
 
     Entry Fee: $5.00
 
     Prizes: $50, $40, $25, $20, $10, $5
-42. ### Grand Champion Stallion.
+41. ### Grand Champion Stallion.
 
     No entry fee. 
 
     1st & 2nd place winners of classes previous 3 stallion classes are eligible
-43. ### Get of Sire – 2 or more animals, any age or sex.
+42. ### Get of Sire – 2 or more animals, any age or sex.
 
     Entry Fee: $5.00
 
     All breeds combined. 
 
     Prizes: $50, $40, $25, $20, $10, $5 
-44. ### Produce of Dam – 2 or more animals, any age or sex.
+43. ### Produce of Dam – 2 or more animals, any age or sex.
 
     Entry Fee: $5.00
 
     All breeds combined. 
 
     Prizes: $50, $40, $25, $20, $10, $5 
-45. ### Mares in hand, farm, any age.
+44. ### Mares in hand, farm, any age.
 
     Entry Fee: $ 5.00
 
     Prizes: $50, $40, $25, $20, $10, $5 
-46. ### Geldings in hand, farm, any age or weight.
+45. ### Geldings in hand, farm, any age or weight.
 
     Entry Fee: $5.00
 
@@ -389,54 +371,61 @@ classes are combined the premiums from the higher staked class will be awarded.
     ### 🍲 Lunch Break
 
     - - -
-47. ### Six Horse Hitch, North American Classic Six Qualifier.
+46. ### Six Horse Hitch, North American Classic Six Qualifier.
 
     Entry Fee: $40.00 
 
     All breeds combined.
 
     Prizes: $600, $500, $440, $385, $315, $260
-48. ### Halflinger and Hitch Pony Six Horse Hitch Championship Series.
+47. ### Halflinger and Hitch Pony Six Horse Hitch Championship Series.
 
     Entry Fee: $40.00
 
     Prizes: $340, $210, $150, $125, $100, $75 
-49. ### Men’s Cart, farm division.
+48. ### Men’s Cart, farm division.
 
     Entry Fee: $5.00
 
     All breeds combined. 
 
     Prizes: $50, $40, $25, $20, $10, $5
-50. ### Four Horse Hitch, show division.
+49. ### Four Horse Hitch, show division.
 
     Entry Fee: $20.00
 
     All breeds combined. 
 
     Prizes: $130, $80, $55, $45, $35, $30 
-51. ### Four Horse Hitch, Haflinger and Pony Drafts.
+50. ### Four Horse Hitch, Haflinger and Pony Drafts.
 
     Entry Fee: $20.00
 
     Prizes: $130, $80, $55, $45, $35, $30
-52. ### Ladies’ Pair, farm division.
+51. ### Ladies’ Pair, farm division.
 
     Entry Fee: $5.00
 
     All breeds combined. 
 
     Prizes: $50, $40, $25, $20, $10, $5
-53. ### Ladies’ Pair, show division.
+52. ### Ladies’ Pair, show division.
 
     Entry Fee: $5.00
 
     All breeds combined. 
 
     Prizes: $50, $40, $25, $20, $10, $5
-54. ### Ladies’ Pair, Haflinger and Pony Drafts.
+53. ### Ladies’ Pair, Haflinger and Pony Drafts.
 
     Entry Fee: $5.00
+
+    Prizes: $50, $40, $25, $20, $10, $5
+54. ### Ladies' Pair, Farm Division.
+
+    Entry Fee: $5.00
+
+    All breeds combined. 
 
     Prizes: $50, $40, $25, $20, $10, $5
 55. ### Junior Pair, 13 years & under.
@@ -454,14 +443,12 @@ classes are combined the premiums from the higher staked class will be awarded.
     Driver must be accompanied by an adult. All breeds combined.
 
     Prizes: $50, $40, $25, $20, $10, $5 
-57. ### Two Horse Hitch, farm division.
+57. ### Two Horse Hitch, Haflinger and Pony Drafts.
 
     Entry Fee: $ 5.00
 
-    All breeds combined. 
-
     Prizes: $50, $40, $25, $20, $10, $5
-58. ### Ladies’ Cart, farm division.
+58. ### Two Horse Hitch, farm division.
 
     Entry Fee: $ 5.00
 
@@ -476,8 +463,7 @@ classes are combined the premiums from the higher staked class will be awarded.
 
     Prizes: $50, $40, $25, $20, $10, $5
 
-The winner to receive the Mathew Deering Memorial Award.
-
+##### The winner to receive the Mathew Deering Memorial Award.
 
 ## AWARDS
 
