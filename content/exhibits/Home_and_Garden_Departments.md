@@ -64,195 +64,221 @@ Please enter only items listed below.
 
 ###### Infant items
 
-1. Baby Blanket
-2. Infant garment
-3. Baby hat, booties
-4. Toys
+4. Baby Blanket
+5. Infant garment
+6. Baby hat, booties
+7. Toys
 
 ##### Accessories
 
-1. Hats
-2. Scarves
-3. Mittens or gloves
-4. Socks or slippers
-5. Shawls
+8. Hats
+9. Scarves
+10. Mittens or gloves
+11. Socks or slippers
+12. Shawls
 
 ##### Home Décor
 
-1. Pillows
-2. Afghans
-3. Dishcloths
+13. Pillows
+14. Afghans
+15. Dishcloths
 
 ##### Felted (fulled) knitting
 
-1. Mittens or slippers
-2. Bags
+16. Mittens or slippers
+17. Bags
 
 ##### Other
 
-1. Toys
-2. Crocheted items not listed above
+18. Knitted item not listed above
 
-#### HANDSPUN YARN
+#### B. CROCHETING
 
-1. Garments
-2. Hats, Mittens, Socks
-3. Shawls, Scarves
-4. other items with handspun yarn
-5. Any woven item (commercial warp accepted)
+Please specify whether natural or synthetic fiber.
+
+##### Garments
+
+19. Adult
+20. Child
+21. Infant
+
+##### Accessories
+
+22. Hats
+23. Scarves
+24. Shawls
+25. Slippers
+
+##### Home Decor
+
+26. Afghans
+27. Tablecloths, Curtains
+28. Potholders, Dishcloths
+
+##### Other
+
+29. Toys
+30. Crocheted items not listed above
+
+#### C. HANDSPUN YARN
+
+31. Garments
+32. Hats, Mittens, Socks
+33. Shawls, Scarves
+34. other items with handspun yarn
+35. Any woven item (commercial warp accepted)
 
 ##### Handspun skeins (washed and tied 2oz skein)
 
-1. Bulky weight
-2. Worsted weight
-3. Sport weight or ?ner
-4. Yarn spun on a drop spindle
+36. Bulky weight
+37. Worsted weight
+38. Sport weight or ?ner
+39. Yarn spun on a drop spindle
 
-#### FELTING
+#### D. FELTING
 
 ##### Wet felt
 
-1. Garments —Hats, Slippers, etc.
-2. Flat pieces: Rugs, Scarves
-3. Toys, Sculptures
+40. Garments —Hats, Slippers, etc.
+41. Flat pieces: Rugs, Scarves
+42. Toys, Sculptures
 
 ##### Needle felting
 
-1. Toys, Sculptures
-2. Flat pieces
+43. Toys, Sculptures
+44. Flat pieces
 
-#### WEAVING
+#### E. WEAVING
 
-Home Décor (blankets, rugs, towels, potholders)2.  Wearables (clothing, bags scarves)
+45. Home Décor (blankets, rugs, towels, potholders)
+46. Wearables (clothing, bags scarves)
+47. Bands and Belts
+48. Other woven items
 
-3. Bands and Belts
-4. Other woven items
+#### F. SEWING
 
-#### SEWING
+49. Adult garment
+50. Child’s garment
+51. Stuffed toys
+52. Pillows, including patchwork
+53. Handbags, tote bags
+54. Any sewn piece not listed above
 
-1. Adult garment
-2. Child’s garment
-3. Stuffed toys
-4. Pillows, including patchwork
-5. Handbags, tote bags
-6. Any sewn piece not listed above
-
-#### QUILTS
+#### G. QUILTS
 
 ##### Hand-sewn and hand-quilted
 
-1. Piecework
-2. Applique
-3. Embroidered
+55. Piecework
+56. Applique
+57. Embroidered
 
-##### Machine pieced 0r appliqued
+##### Machine pieced or appliqued
 
-1. Hand quilted
-2. Quilted on a home machine
-3. Commercially quilted
+58. Hand quilted
+59. Quilted on a home machine
+60. Commercially quilted
 
 ##### Quilted items
 
-1. Pillows
-2. Wall Hangings
-3. Other quilted items
-4. Tied quilts
+61. Pillows
+62. Wall Hangings
+63. Other quilted items
+64. Tied quilts
 
-#### EMBROIDERY and NEEDLEPOINT
+#### H. EMBROIDERY and NEEDLEPOINT
 
-1. Cross-stitch - framed picture
-2. Cross-stitch - other item
-3. Crewel work - any item
-4. Machine embroidery - any item
-5. Needlepoint — any item
-6. Punch needle embroidery - framed picture
-7. Punch needle embroidery — other item
-8. Creative Modern Stitchery
-9. Any other embroidered item
+65. Cross-stitch - framed picture
+66. Cross-stitch - other item
+67. Crewel work - any item
+68. Machine embroidery - any item
+69. Needlepoint — any item
+70. Punch needle embroidery - framed picture
+71. Punch needle embroidery — other item
+72. Creative Modern Stitchery
+73. Any other embroidered item
 
-#### BEADWORK
+#### I. BEADWORK
 
-1. Strung beads
-2. Woven beads
-3. Crocheted or knitted
-4. Beads with wire
-5. Othertechnique or combination oftechniques
+74. Strung beads
+75. Woven beads
+76. Crocheted or knitted
+77. Beads with wire
+78. Othertechnique or combination oftechniques
 
-#### BASKETRY
+#### J. BASKETRY
 
-1. Splint woven (?at material)
-2. Twined 0r woven with round material
-3. Coiled basket
-4. Other
+79. Splint woven (?at material)
+80. Twined 0r woven with round material
+81. Coiled basket
+82. Other
 
-#### RUGS
+#### K. RUGS
 
-1. Traditi0nally hooked rug
-2. Punch-needle hooked rug
-3. Other hooked item: pillow, picture, etc.
-4. Braided rug
-5. Toothbrush rug
-6. Penny Rug
+83. Traditi0nally hooked rug
+84. Punch-needle hooked rug
+85. Other hooked item: pillow, picture, etc.
+86. Braided rug
+87. Toothbrush rug
+88. Penny Rug
 
-#### CHRISTMAS CRAFTS
+#### L. CHRISTMAS CRAFTS
 
-1. Ornaments
-2. Wreaths
-3. Stockings
-4. Tree skirts
-5. Nativities
-6. Other
+89. Ornaments
+90. Wreaths
+91. Stockings
+92. Tree skirts
+93. Nativities
+94. Other
 
-#### DOLLS and MINIATURES
+#### M. DOLLS and MINIATURES
 
-1. Dolls
-2. Doll houses
-3. Room displays or dioramas
-4. Individual pieces
+95. Dolls
+96. Doll houses
+97. Room displays or dioramas
+98. Individual pieces
 
-#### WOODWORKING
+#### N. WOODWORKING
 
-1. Toys, models
-2. Furniture
-3. Three-dimensional carving
-4. Decorative carving
-5. Decorative wood burning
-6. Other wood item, not listed above
+99. Toys, models
+100. Furniture
+101. Three-dimensional carving
+102. Decorative carving
+103. Decorative wood burning
+104. Other wood item, not listed above
 
-#### CERAMICS
+#### O. CERAMICS
 
-1. Hand Built
-2. Wheel Thrown
+105. Hand Built
+106. Wheel Thrown
 
-#### PAPER CRAFTS
+#### P. PAPER CRAFTS
 
-1. Quilling
-2. Paper Mache
-3. Note Cards
-4. Origami
-5. Other paper craft
+107. Quilling
+108. Paper Mache
+109. Note Cards
+110. Origami
+111. Other paper craft
 
-#### RECYCLED CRAFTS
+#### Q. RECYCLED CRAFTS
 
 MUST BE 75% RECYCLED MATERIALS
 
-1. Metal
-2. Wood
-3. Plastic
-4. Paper
-5. Fabric
-6. Other or combination of materials
+111. Metal
+112. Wood
+113. Plastic
+114. Paper
+115. Fabric
+116. Other or combination of materials
 
-#### OPEN & UNCLASSIFIED
+#### R. OPEN & UNCLASSIFIED
 
-1. Natural materials crafts
-2. Wreaths (except Christmas)
-3. Polymer clay
-4. Recycled crafts, scrapworks (must be 75% recycled materials).
-5. Technique NOT LISTED elsewhere — surprise us!
-6. Leatherwork
-
-Professional Handicraft Display - not judged and may include promotional materials.8.  Macreme
+117. Natural materials crafts
+118. Wreaths (except Christmas)
+119. Polymer clay
+120. Leatherwork
+121. Macrame
+122. Technique NOT LISTED elsewhere — surprise us!
+123. Professional Handicraft Display - not judged and may include promotional materials.  
 
 ### SPONSORED AWARDS
 
@@ -278,25 +304,26 @@ Professional Handicraft Display - not judged and may include promotional materia
 
 #### SEWING:
 
-1. Middlebury Sew ’N’Vac ~ $50.00 Gift Certi?cate - for Best Sewn Garment
-2. Middlebury Sew’N’Vac, $25 gift certi?cate for the most outstanding garment sewn by a youth.
+1. Middlebury Sew ’N’Vac ~ $50.00 Gift Certificate - for Best Sewn Item (not a quilt)
+2. Middlebury Sew’N’Vac ~ $25 Gift Certificate for the most outstanding item (not a quilt) sewn by a youth.
 
 #### QUILTING:
 
-1. The Quilters’Corner at Middlebury Sew’N’Vac- $50 gift certificate, for the most outstanding quilt.
-2. The Quilters’Comer at Middlebury Sew’N’Vac— $50 gift certificate, for the most outstanding quilt quilted by a professional on a commercial machine.
-3. The Quilters’Corner at Middlebury Sew’N’Vac— $50 gift certificate, for the most outstanding other quilted item (pillow, bag, wall hanging, etc.)
-4. The Quilters’Corner at Middlebury Sew’N’Vac— $25 gift certi?cate for the most outstanding quilt by youth.
+1. The Quilters’Corner at Middlebury Sew’N’Vac ~ $50 gift certificate, for the most outstanding quilt.
+2. The Quilters’Comer at Middlebury Sew’N’Vac ~ $50 gift certificate, for the most outstanding quilt quilted by a professional on a commercial machine.
+3. The Quilters’Corner at Middlebury Sew’N’Vac ~ $50 gift certificate, for the most outstanding other quilted item (pillow, bag, wall hanging, etc.)
+4. The Quilters’Corner at Middlebury Sew’N’Vac ~ $25 gift certificate for the most outstanding quilt by youth.
 
 #### EMBROIDERY & NEEDLEPOINT:
 
-1. Rae Dwight Award~$50.00 for an Most Outstanding entry in Embroidery & Needlepoint.
-2. Rae Dwight Award~$25.00 for an Outstanding entry in Embroidery 8: Needlepoint by a youth 18 or under.
-3. Rose Ann Farese Memorial award-$75 for innovative modern stitching.
+1. Rae Dwight Award ~ $50.00 for an Most Outstanding entry in Embroidery & Needlepoint.
+2. Rae Dwight Award ~ $25.00 for an Outstanding entry in Embroidery 8: Needlepoint by a youth 18 or under.
+3. Rose Ann Farese Memorial award ~ $75 for innovative modern stitching.
 
 #### RUGS:
 
 1. Amy Oxford Award ~ $50.00 - Most Outstanding entry in Hooking and Braiding.
+2. Suzanne Douglas Award ~ $25.00 - Most outstanding entry in hooking and braiding.
 
 #### WOODWORK:
 
@@ -331,9 +358,20 @@ THIS ART EXHIBITION IS FOR AMATEURS. (A professional artist is one who creates w
 
 CATEGORIES & CLASSES
 
-A. AMATEUR ART - One entry per class allowed 1. Oil 2. Acrylic 3. Watercolor - including gouache and casein 4. Pastel 5. Pencil 6. Charcoal 7. Pen and Ink - including gel pens 8. Prints - wood/linoleum block, mono-prints, etching, etc 9. Collage 10. Other - Mixed media, rendering in markers et al.
+### A. AMATEUR ART - One entry per class allowed
 
-B. AMATEUR FOLK ART
+1. Oil 
+2. Acrylic 
+3. Watercolor - including gouache and casein 
+4. Pastel 
+5. Pencil 
+6. Charcoal 
+7. Pen and Ink - including gel pens 
+8. Prints - wood/linoleum block, mono-prints, etching, etc 
+9. Collage 
+10. Other - Mixed media, rendering in markers et al.
+
+### B. AMATEUR FOLK ART
 
 Folk Art in not judged on artistic skill. What is important is the piece’s ability to express a feeling or evoke an image of a person’s culture or heritage. Folk Art exists in any medium and is often made of found or repurposed materials. Folk Artists often use or construct materials in new and nontraditional ways. Although some pieces are designed as art and evoke a feeling for the surroundings and/or culture, many pieces also serve a utilitarian function.
 
@@ -342,7 +380,7 @@ Entrants in the Folk-Art category may include a paragraph about their work. The 
 11. Painted surfaces
 12. Other constructions
 
-C. AMATEUR PHOTOGRAPHY
+### C. AMATEUR PHOTOGRAPHY
 
 All images should seek to capture a moment, convey a feeling or tell a story. Black and white and color are included in every class. One entry per class is allowed.
 
@@ -350,22 +388,60 @@ All images should seek to capture a moment, convey a feeling or tell a story. Bl
 14. Vermont Landscapes
 15. Your Best Image
 
-D. PHOTO CHALLENGE
+### D. PHOTO CHALLENGE
 
-{year} Photo Challenge - “Supporting the Farm”
+2024 Photo Challenge - “Supporting the Farm”
 
 At work, at play, upside down, inside out, whatever! Picture the tractor, the iconic farm image.
 
-SPONSORED AWARDS
+### SPONSORED AWARDS
 
-1. Best Entry in Art - All Ages - $50 Gift Certificate - Middlebury Studio School
-2. Best Color Rendering Adult - $25 Gift Certificate - Middlebury Frame Shop Teen 13-18 - $ 25 Gift Certificate - Sparrow Art Supply Youth 4-12 - Art Supplies Recycled Reading of Vermont
-3. Best Black and White Rendering Adult - $25 Gift Certificate - Otter Creek Framing Teen 13-18 - Gift Certificate - UPS Store Youth 4-12 - Art Supplies - Sparrow Art Supply
-4. Best Entry in Folk Art Adult - $40 Gift Certificate - Vermont Book Shop Youth/Teen 4-18 - Book Award - Vermont Folk Life Center
-5. Best Entry in Photography - All Ages - $50 Adult - $25 802 Print, Vergennes Teen 13-18 - $25 Youth 4-12 - $25
-6. Photo Challenge - All Ages - $25 Gift Certificate - Kinney Drugs, Middlebury
-7. People’s Choice Award, Art - $50, in memory of Alice Healy
-8. People’s Choice Award, Photography - $50 - Jeff Farrell, Photographer.
+##### 1. Best Entry in Art
+
+   All Ages - $50 Gift Certificate - Middlebury Studio School
+
+##### 2. Best Color Rendering
+
+   Adult - $25 Gift Certificate - Middlebury Frame Shop 
+
+   Teen 13-18 - $ 25 Gift Certificate - Sparrow Art Supply
+
+   Youth 4-12 - Art Supplies Recycled Reading of Vermont
+
+##### 3. Best Black and White Rendering
+
+   Adult - $25 Gift Certificate - Otter Creek Framing 
+   Teen 13-18 - Gift Certificate - UPS Store
+
+   Youth 4-12 - Art Supplies - Sparrow Art Supply
+
+##### 4. Best Entry in Folk Art
+
+   Adult - $40 Gift Certificate - Vermont Book Shop
+
+   Youth/Teen 4-18 - Book Award - Vermont Folk Life Center
+
+##### 5. Best Entry in Photography
+
+   All Ages - $50 
+
+   Adult - $25 802 Print, Vergennes 
+
+   Teen 13-18 - $25 
+
+   Youth 4-12 - $25
+
+##### 6. Photo Challenge
+
+   All Ages - $25 Gift Certificate - Kinney Drugs, Middlebury
+
+##### 7. People’s Choice Award, Art
+
+  $50, in memory of Alice Healy
+
+##### 8. People’s Choice Award, Photography
+
+   $50 - Jeff Farrell, Photographer.
 
 In addition, Woody Jackson, Helen Friesmuth, Robin Davis, Megan Sutton, Bart Healy and anonymous donors have helped underwrite prizes.
 
@@ -388,14 +464,14 @@ Please read carefully. These Rules apply along with and in addition to the Gener
 
 ### CATEGORIES & GLASSES (NOTE CHANGES)
 
-#### FLORAL ARRANGEMENT CLASSES: not to exceed 12”x 18”
+#### A. FLORAL ARRANGEMENT CLASSES: not to exceed 12”x 18”
 
 1. Centerpiece (To be viewed from all sides)
-2. Bouquet of mixed wild ?owers
-3. Bouquet of mixed garden ?owers
+2. Bouquet of mixed wild flowers
+3. Bouquet of mixed garden flowers
 4. Gladiolus
-5. Arrangement of any single variety of garden ?ower
-6. Dried ?oral arrangement
+5. Arrangement of any single variety of garden flower
+6. Dried floral arrangement
 7. Miniature arrangement, not more than 5”x S”inc|uding all props and plant materials
 
    * Dried plant material
@@ -404,45 +480,77 @@ Please read carefully. These Rules apply along with and in addition to the Gener
 9. Unique Vase or Container Arrangement
 10. Open & unclassi?ed - can include groupings and scenes
 
-#### PLANT CLASSES: Pot size limited to 10” or less
+#### B. PLANT CLASSES: Pot size limited to 10” or less
 
-1. African Violets
-2. House Plants
-3. Cactus and Succulents
-4. Dish Gardens
-5. Summer Plants - Pot size 12” or less: maintained minimum of 6 weeks.
+11. African Violets
+12. House Plants
+13. Cactus and Succulents
+14. Dish Gardens
+15. Summer Plants - Pot size 12” or less: maintained minimum of 6 weeks.
 
-   * Summer Container Garden
-   * Summer Plant — single specimen
-   * Fairy Gardens
+* Summer Container Garden
+* Summer Plant — single specimen
+* Fairy Gardens
 
-#### CHILDREN'S CLASSES:
+#### C. CHILDREN'S CLASSES:
 
-1. Bouquet of mixed wild ?owers
+16. Bouquet of mixed wild flowers
 
-   * ages 4—8
-   * ages 9-18
-2. Bouquet of mixed garden ?owers
+* ages 4—8
+* ages 9-18
 
-   * ages 4—8
-   * ages 9—18
-3. Single ?oral arrangement using a child’s toy
+17. Bouquet of mixed garden flowers
 
-   * ages 4-8
-   * ages 9-18
-4. House Plants
+* ages 4—8
+* ages 9—18
 
-   * ages 4-18
-5. Miniature arrangement, not more than 5”x5”including all props and plant material
-6. Scene or grouping using a child’s toy up to 12”x i8”
-7. Fairy Garden
+18. Single floral arrangement using a child’s toy
 
-   * ages 4-8
-   * ages 9—18
+* ages 4-8
+* ages 9-18
+
+19. Miniature arrangement, not more than 5”x5” including all props and plant material
+20. Scene or grouping using a child’s toy up to 12”x 18”
+
+#### D. CHILDREN’S PLANT CLASSES
+
+ Pot Size 12” Or Less: Potted and Maintained by Exhibitor A Minimum Of 6 Weeks.
+
+21. Summer Mixed Container
+
+    * ages 4-8
+    * ages 9—18
+22. Summer Plant — single variety
+
+* ages 4-8
+* ages 9—18
+
+23. Fairy Garden
+
+* ages 4-8
+* ages 9—18
 
 ### SPONSORED AWARDS:
 
-A. Law Firm of Fred Peet Award: $30.00 for Most Outstanding Exhibit by Youth (18 and under) B. Middlebury AGWAY, Farm & Garden Center Award: $30.00 gift certi?cate for Most Outstanding Exhibitor. C. Cole’s Flowers: $30.00 for Most Unique Design by Adult. D. Shallow Rock Greenhouse Award: $30.00 for Most Outstanding Plant Entry. E. January Stearns - Realtor, Champlain Valley Properties: $25 for Best Entry by Youth aged 4-8 years.
+##### A. Law Firm of Fred Peet Award:
+
+$30.00 for Most Outstanding Exhibit by Youth (18 and under)
+
+##### B. Middlebury AGWAY, Farm & Garden Center Award:
+
+$30.00 gift certi?cate for Most Outstanding Exhibitor. 
+
+##### C. Cole’s Flowers:
+
+$30.00 for Most Unique Design by Adult.
+
+##### D. Shallow Rock Greenhouse Award:
+
+$30.00 for Most Outstanding Plant Entry. 
+
+##### E. January Stearns - Realtor, Champlain Valley Properties:
+
+$25 for Best Entry by Youth aged 4-8 years.
 
 ## COMMERCIAL FLOWER SHOW
 
@@ -450,10 +558,10 @@ A. Law Firm of Fred Peet Award: $30.00 for Most Outstanding Exhibit by Youth (18
 
 Please read carefully. These Rules apply along with and in addition to the General Rules for the Home & Garden Department and the General Rules of Addison County Fair & Field Days.
 
-1. A Commercial Flower Exhibitor is de?ned as any person or persons growing ?owers for pro?t.
-2. Exhibitors will be allotted an empty 4ft. by 3ft. area each, to create a pleasing display of ?owers using their own display materials and incorporating a farm or business sign.
+1. A Commercial Flower Exhibitor is defined as any person or persons growing flowers for profit.
+2. Exhibitors will be allotted an empty 4ft. by 3ft. area each, to create a pleasing display of flowers using their own display materials and incorporating a farm or business sign.
 3. Each Exhibitor’s space will bejudged on overall attractiveness, creativity of display, and condition & quality of ?owers.
-4. PRIZES: ist - $100.00; 2nd - $80.00; 3rd — $60.00 All other entries will receive $50.1. Special Ribbons will also be awarded.
+4. PRIZES: 1st - $100.00; 2nd - $80.00; 3rd — $60.00 All other entries will receive $50. Special Ribbons will also be awarded.
 5. Each Exhibitor will be issued a season pass. Exhibitors are encouraged to maintain freshness of their display throughout the week. Reminder: Entries must be completely removed between 9-9:30 pm. on Saturday or 10-12 pm. on Sunday.
 
 ## COMMERCIAL NURSERY SHOW
@@ -479,7 +587,7 @@ SUPERINTENDENTS:
 
 Please read carefully.
 
-**HOME GARDENING DIVISION is for AMATIIERS**
+**HOME GARDENING DIVISION is for AMATEURS**
 
 These Rules apply along with and in addition to the General Rules for the Home & Garden Department, and the General Rules of Addison County Fair 8: Field Days.
 
@@ -614,7 +722,7 @@ Note: During August in Vermont we can have very hot days and the building is not
 
 ## CATEGORIES & GLASSES
 
-### RAISED BREADS (1/2 loaf)
+### A. RAISED BREADS (1/2 loaf)
 
 1. White Loaf
 2. Wheat Loaf
@@ -628,11 +736,11 @@ Note: During August in Vermont we can have very hot days and the building is not
 10. Coffee Cake Raised
 11. Bagels (4)
 
-### QUICK BREADS & PASTRY (1/2 loaf)
+### B. QUICK BREADS & PASTRY (1/2 loaf)
 
 12. Loaf
 13. Fruited Loaf (other than apple)
-14. Specialty / Unusual Loaf
+14. Specialty or Unusual Loaf
 15. Muffins (4)
 16. Biscuits (4)
 17. Scones (4)
@@ -640,7 +748,7 @@ Note: During August in Vermont we can have very hot days and the building is not
 19. Coffee Cake
 20. Misc. Quick Bread
 
-### CAKES (half a 9” or 10” cake)
+### C. CAKES (half a 9” or 10” cake)
 
 21. Layered (frosted)
 22. Loaf
@@ -652,14 +760,14 @@ Note: During August in Vermont we can have very hot days and the building is not
 28. Special Needs (Gluten Free, Sugar Free, Etc.)
 29. Misc. Cake 0r Cupcakes (4)
 
-### DECORATED CAKES & CUPCAKES
+### D. DECORATED CAKES & CUPCAKES
 
 30. Youth Decorated Cupcakes (4)
 31. Adult Decorated Cupcakes (4)
 32. Youth Decorated Cake (whole cake)
 33. Adult Decorated Cake (whole cake)
 
-### COOKIES
+### E. COOKIES
 
 34. Brownies (4)
 35. Shortbread (4)
@@ -670,50 +778,48 @@ Note: During August in Vermont we can have very hot days and the building is not
 40. Not Baked (4)
 41. Misc. Cookies (4)
 
-### DESSERT PIES orTARTS
+### F. DESSERT PIES orTARTS
 
 42. Pie (other than apple)
 43. Tart (other than apple)
 44. Misc. (other than apple)
 
-### APPLE BAKED GOODS
-
+### G. APPLE BAKED GOODS
 
 45. Apple Pie
 46. Other Baked Item with Apples
 
-### DAIRY FOODS
+### H. DAIRY FOODS
 
 2 or more main ingredients must be a real dairy product
 
 47. Main Dish
 48. Baked Goods
 
-### HONEY BAKED GOODS
+### I. HONEY BAKED GOODS
 
 49. Honey Baked (must include at least 1/3 cup of VT honey)
 
-### KING ARTHUR FLOUR CONTEST
+### J. KING ARTHUR FLOUR CONTEST
 
 Special rules: Entrants need to bring UPC label from a bag of King Arthur Flour or an open bag of flour when submitting their entry. Entry will not be accepted without proof of using King Arthur Flour.
 
 50. Marble Cake - Youth contest age 18 and under
 51. Marble Cake - Adult contest age 19 and up
 
-### CANDIES
+### K. CANDIES
 
 52. Fudge (6)
-53. Brittle / Bark (4 servings)
+53. Brittle or Bark (4 servings)
 54. Chocolates (6)
 55. Caramels (6)
 56. Misc. Candies (6)
 
-### CANNING
+### L. CANNING
 
-Special Rules: New Only one jar needed for each entry. Entries will be judged on appearance, packaging and cleanliness of containers. All entries must have sealed lids and clean rust free rings. Only water bath or pressure method of canning accepted. Recipe with canning method used attached. Paraffin is not acceptable. Must have been canned within the last 12 months. Jams, Jellies and pickled categories will be opened during judging to sample and aid in making the best decision. Open jars will be marked.
+Special Rules: **NEW** Only one jar needed for each entry. Entries will be judged on appearance, packaging and cleanliness of containers. All entries must have sealed lids and clean rust free rings. Only water bath or pressure method of canning accepted. Recipe with canning method used attached. Paraffin is not acceptable. Must have been canned within the last 12 months. Jams, Jellies and pickled categories will be opened during judging to sample and aid in making the best decision. Open jars will be marked.
 
 #### FRUITS
-
 
 57. Apples, Applesauce, Apple butter, Berries, Cherries, Grape Juice, Peaches, Pears, Pear Sauce, Plums, Misc. Fruit
 
@@ -739,7 +845,21 @@ Special Rules: New Only one jar needed for each entry. Entries will be judged on
 
 ### SPONSORS
 
-King Arthur Flour, Maple Meadow Farm, Middlebury Bagel, Monument Fairs Dairy, Middlebury Natural Food Co-op, Otter Creek Bakery, Champlain Valley Apiaries, Lilian Humphreys Canning Award
+**King Arthur Flour**
+
+**Maple Meadow Farm** 
+
+**Middlebury Bagel** 
+
+**Monument Fairs Dairy**
+
+**Middlebury Natural Food Co-op**
+
+**Otter Creek Bakery**
+
+**Champlain Valley Apiaries**
+
+**Lilian Humphreys Canning Award**
 
 # ANNUAL LEONA THOMPSON BOWL AWARD
 
