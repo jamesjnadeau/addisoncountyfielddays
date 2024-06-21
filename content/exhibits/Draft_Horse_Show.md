@@ -477,11 +477,11 @@ classes are combined the premiums from the higher staked class will be awarded.
 3. ### BEST MATCHED PAIR
 
    To be judged on harness, color, conformation and way of going.
-   Judged on classes 26, 53 - 61
+   Judged on classes 26, 52 - 59
 4. ### JUNIOR EXHIBITOR
 
    Awarded to the Junior Exhibitor with the combined highest placings from classes 1/2,
-   18/19, 29/30, 56/57. In the event of a tie, the decision will be made by the judge.
+   16/17, 29/30, 55/56. In the event of a tie, the decision will be made by the judge.
    Trophy donated by the Green Mountain Draft Horse Association.
 5. ### RUTH WRIGHT MEMORIAL
 
