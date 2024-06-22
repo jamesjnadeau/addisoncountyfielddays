@@ -202,38 +202,40 @@ classes are combined the premiums from the higher staked class will be awarded.
     Entry Fee: $ 40.00
 
     Prizes: $400, $275, $150, $100, $50, $25
-20. ### Men’s Cart, show division. All breeds combined.
+20. ### Men’s Cart Haflinger and Pony Drafts.
 
     Entry Fee: $5.00
 
     Prizes: $50, $40, $25, $20, $10, $5
-21. ### Men’s Cart Haflinger and Pony Drafts.
+21. ### Men’s Cart, show division. 
 
     Entry Fee: $5.00
 
+    All breeds combined.
+
     Prizes: $50, $40, $25, $20, $10, $5
-22. ### Tandem Hitch, show division.
+22. ### Tandem Hitch Haflinger and Pony Drafts.
 
     Entry Fee: $20.00
 
-     Two horses hitched in tandem. All breeds combined.
-
     Prizes: $130, $80, $55, $45, $35, $30 
-23. ### Tandem Hitch Haflinger and Pony Drafts.
+23. ### Tandem Hitch, show division .
+
+    Entry Fee: $20.00
+
+    Two horses hitched in tandem. All breeds combined.
+
+    Prizes: $130, $80, $55, $45, $35, $30
+24. ### Unicorn Hitch Haflinger and Pony Drafts.
 
     Entry Fee: $20.00
 
     Prizes: $130, $80, $55, $45, $35, $30
-24. ### Unicorn Hitch, show division
-
-    Entry Fee: $20.00
-
-    All breeds combined. 
+25. ### Unicorn Hitch, show division .
 
     Prizes: $130, $80, $55, $45, $35, $30
-25. ### Unicorn Hitch Haflinger and Pony Drafts.
 
-    Prizes: $130, $80, $55, $45, $35, $30 
+    All breeds combined.  
 
     EntryFee: $20.00
 26. ### Mare Pair, show division (mares only)
