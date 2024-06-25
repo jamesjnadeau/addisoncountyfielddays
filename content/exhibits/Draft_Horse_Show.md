@@ -207,7 +207,7 @@ classes are combined the premiums from the higher staked class will be awarded.
     Entry Fee: $5.00
 
     Prizes: $50, $40, $25, $20, $10, $5
-21. ### Men’s Cart, show division. 
+21. ### Men’s Cart, show division.
 
     Entry Fee: $5.00
 
@@ -521,3 +521,55 @@ Six Horse Hitch, Classic Cart and Youth Cart.
 you leave. It sometimes takes 30 to 40 minutes with a bucket tractor to clean each stall
 and finding folks to clean them for the refund is next to impossible and we have between
 20 to 40 stalls that we clean.
+
+**VERY IMPORTANT** - camping forms need to be in by the deadline
+
+ of August 1. (Not mailed on August 1 but in our hands by August 1) This
+
+ is to help us make sure there is enough room on the camping bars. It is
+
+ sometimes a very tight squeeze with last minute camping space needed.
+
+ Length of camper is important as not all sites are the same length. Again, we
+
+ will keep a waiting list if spaces fill up.
+
+ The fair provides the 4-H kids with sawdust for their shows, the draft horse
+
+ exhibitors are welcome to use any remaining sawdust. Sometimes we run
+
+ out of the sawdust and have bagged shavings available for a fee. So if you
+
+ want to purchase bagged shavings ahead of time, they are $6.00 per bag and
+
+ the fair would deliver pre-orders to the horse area (not to the stalls) before
+
+ the show, to be picked up by the exhibitor on Thursday evening before 10:00
+
+ P.M. Additional shavings are located at the dairy barns, so on Friday and
+
+ Saturday you would have to get them yourself if not ordered ahead of time.
+
+ We look forward to seeing you in August at our draft show. We encourage
+
+ early entries because we are limited on stalls and camping spots.
+
+ Please, please, when filling out the entry form complete all information. If
+
+ a halter horse or single horse hitch class they go in the top part, if a team hitch
+
+ class, they go in the bottom part with the names of each driver for the class
+
+ if different. Look for the class numbers as to what is needed for information.
+
+ “When making your travel plans, we recommend that you do
+
+ not use Route 125 between Route 100 in Hancock and Route 7 in
+
+ East Middlebury to travel to the show. This section of Route 125 is
+
+ not recommended for trailer trucks.”
+
+ Kathy Nisun, Director
+
+ Kathy Kennett, Secretary
