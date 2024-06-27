@@ -1,0 +1,661 @@
+extends ../../templates/default
+
+block vars
+  -var title = 'Schedule'
+  -var description = 'An overview of the fairs schedule.'
+
+block content
+  .text-center
+    h1 Schedule
+    hr
+  .fixed-width
+    //- a.btn.btn-primary(href="/files/Field-Days-Schedule.pdf"  target="_blank") Download Schedule
+    p.large Touch or Click on items below to expand.
+    panel.panel-default
+      .panel-heading.pointer-hand(data-toggle='collapse', href='#daily')
+        h2.text-center Daily Activities
+      #daily.panel-collapse.collapse
+        p Please Note: Most exhibits will be removed on Saturday night at 10.
+        table.table.table-striped.table-hover
+          tr
+            td 10am - 10pm
+            td Children’s Barnyard Open
+          tr
+            td 10am - 10pm
+            td 4-H & Youth Building Open
+          tr
+            td 10am - 10pm
+            td Antique Equipment Building Open
+          tr
+            td 9am - 9pm
+            td Maple Sugar House Open
+          tr
+            td 10am - 6pm
+            td Twist O’ Wool Guild Demos (Twist O’ Wool Guild tent)
+          tr
+            td 10am - 10pm
+            td Forest Festival Exhibits & Demonstrations (forestry building)
+          tr
+            td 10am - 10pm
+            td Home & Garden Building Open with continuous craft demos
+          tr
+            td 10am - 10pm
+            td Lucien Paquette Exhibit Building Open
+          tr
+            td Daily
+            td Maple Products Demonstrations (maple sugar house)
+          tr
+            td 12pm - 12am
+            td Midway Open (approximately)
+          tr
+            td 1pm - 4pm
+            td Milking Parlor Demonstrations
+          tr
+          
+    
+    hr
+    panel.panel-default
+        .panel-heading.pointer-hand(data-toggle='collapse', href='#tuesday')
+            h2.text-center Tuesday
+            p.text-center.text-muted Opening Ceremony & Parade, Demo Derby, Dinners & Shows
+        #tuesday.panel-collapse.collapse
+          h3 Morning
+          table.table.table-striped.table-hover
+            tr
+              td 8:30
+              td Western Only 4-H and Open Youth Junior Horse Show (horse area)
+            tr
+              td 9:00
+              td 4-H Dairy Conformation Classes (animal show arena)
+            
+            tr
+              td 10:30
+              td Antique Equipment Demos (antique equipment area)
+            tr
+              td 11:00
+              td Tom Joyce, The Magic Man (bandstand)
+           
+            
+          h3 Afternoon
+          table.table.table-striped.table-hover
+            tr
+              td 12:00-6:00
+              td Cairo Northern Clowns (Front of FFA Food Booth)
+            tr
+              td 12:00
+              td Dig For Treasure! (youth activity area) - FREE
+            tr
+              td 12:00
+              td Pirate Man Dan (show tent)
+            tr
+              td 12:30
+              td “Robinson’s Racing Pigs” (dairy area)
+            tr
+              td 1:00
+              td Midway Opens (approximately)
+             td $25 all day bracelets
+             td 1:00
+              td Tom Joyce, The Magic Man (bandstand)
+             tr
+              td 1:00
+              td The Silver Circus Show (entertainment show area)
+            tr
+              td 1:00-5:00
+              td Children's Activities (children's barnyard area) - FREE
+            tr
+              td 1:30
+              td Antique Equipment Demos (antique equipment area)
+            tr
+              td 1:30
+              td 4-H Hands on Workshop (4-H exhibit building)
+            tr  
+            td 1:30 
+            td Buffalo Barfield Unherd-of Entertainment (show tent
+            tr
+              td 2:00
+              td Sheep Shearing/Handling Demonstration (sheep tent)
+            tr
+              td 3:00
+              td Pirate Man Dan (show tent)
+            tr
+              td 3:00
+              td Antique Equipment Demos (antique equipment area)
+         
+            tr
+              td 3:00
+              td “Robinson’s Racing Pigs” (dairy area)
+            tr
+              td 3:30
+              td 4-H Hands on Workshop (4-H exhibit building)
+            tr
+              td 3:30
+              td “Robinson’s Racing Pigs” (dairy area)
+            tr
+              td 3:30
+              td The Silver Circus Show (entertainment show area)
+            tr
+              td 4:30
+              td Buffalo Barfield Unherd-of-Entertainment
+           tr
+              td 5:00
+              td Gymkhana (horse area)
+           tr
+              td 5:15
+              td Vermont Products Dinner-1st Sitting (dining hall)
+            tr
+              td 5:30
+              td “Robinson’s Racing Pigs” (dairy area)
+            tr
+              td 6:00
+              td Vermont Products Dinner-2nd Sitting (dining hall)
+            tr
+              td 6:00
+              td  The Silver Circus Show (entertainment show area)
+            tr
+              td 6:00
+              td Field Days Opening Parade - “Addison in Wonderland!”
+            tr
+              td 6:45
+              td Vermont Products Dinner-3rd Sitting (dining hall)
+            tr
+              td 7:00
+              td Sanctuary Band (bandstand)
+            tr
+              td 7:00 
+              td G. Stone Motors Demo Derby
+          tr
+              td 7:00
+              td Dan LaPointe-Glorybound Country/Gospel (show tent)
+           
+            
+    
+    panel.panel-default
+        .panel-heading.pointer-hand(data-toggle='collapse', href='#wednesday')
+          h2.text-center Wednesday
+          p.text-center.text-muted Agricultral Shows & Demos, Caber Toss, Karaoke , and The Demolition Derby
+        #wednesday.panel-collapse.collapse
+          h3 Morning
+          table.table.table-striped.table-hover
+            tr
+              td 8:30
+              td English Only 4-H and Open Youth Jr. & Sr. Horse Show (horse area)
+            tr
+              td 9:00
+              td Open Dairy Show-Holsteins, Ayrshires, Milking ShortHorns
+             tr
+              td 9:30
+              td Ox Pulling (Butterfeld Arena)
+            tr
+              td 10:00 - 12:00
+              td Children’s Activities (children’s barnyard area) - FREE
+            tr
+              td 10:30
+              td Antique Equipment Demos (antique equipment area)
+            tr
+              td 11:00
+              td Tom Joyce, The Magic Man (bandstand)
+            
+          h3 Afternoon
+          table.table.table-striped.table-hover 
+            tr
+              td 12:00-6:00
+              td Cairo Northern Clowns (Front of FFA Food Booth)
+            tr
+              td 12:00
+              td Midway Opens (approximately)
+              td $25 all day bracelets
+            tr
+              td 12:00
+              td Pirate Man Dan (show tent)
+            tr
+              td 12:00
+              td Dig For Treasure! (youth activity area) - FREE
+            tr
+              td 12:00
+              td Goat Show (sheep show tent)
+            tr
+              td 12:00
+              td Men’s Caber Toss (tractor pad)
+            tr
+              td 12:30
+              td “Robinson’s Racing Pigs” (dairy area)
+            tr
+              td 1:00
+              td Ladies Iron Skillet Toss (tractor pad)
+            tr
+              td 1:00
+              td  The Silver Circus Show (entertainment show area)
+            tr
+              td 1:30
+              td Antique Equipment Demos (antique equipment area)
+            tr
+              td 1:30
+              td 4-H Hands on Workshop (4-H exhibit building)
+            tr
+              td 1:30
+              td Buffalo Barfield Unherd-of-Entertainment (show tent)
+            tr
+           td 2:00-5:00   
+           td Children's Activities (children's barnyard area) -FREE
+           tr
+              td 2:00
+              td Sheep Shearing/Handling Demonstration (sheep show tent)
+            tr
+              td 2:00
+              td Juggling Workshop w/Silver Circus (entertainment show area)
+            tr
+              td 2:30
+              td Tom Joyce, The Magic Man (bandstand)
+            tr
+              td 3:00
+              td “Robinson’s Racing Pigs” (dairy area)
+            tr
+              td 3:00
+              td Antique Equipment Demos (antique equipment area)
+            tr
+              td 3:00
+              td Pirate man Dan (Show tent)
+            tr
+              td 3:30
+              td 4-H Hands on Workshop (4-H exhibit building)
+            tr
+              td 3:30
+              td The Silver Circus Show (entertainment show area)
+            tr
+              td 4:30
+              td Buffalo Barfield Unherd-of-Entertainment (show tent)
+            tr
+              td 5:00
+              td Youth Beef Clipping & Fitting Demonstration (animal show arena)
+           tr
+              td 5:30
+              td “Robinson’s Racing Pigs” (dairy area)
+           tr
+              td 6:00
+              td   td  The Silver Circus Show (entertainment show area)
+            tr
+              td 7:00
+              td Karaoke Talent Night with DJ Amanda Rock (signup at 6:30) (show tent)
+            tr
+              td 7:00
+              td G. Stone Motors Demolition Derby (tractor pad)
+            tr
+              td 7:30
+              td Third Shift Band (bandstand)
+  
+    panel.panel-default
+        .panel-heading.pointer-hand(data-toggle='collapse', href='#thursday')
+          h2.text-center Thursday
+          p.text-center.text-muted Tractor Pulls
+        #thursday.panel-collapse.collapse
+          h3 Morning
+          table.table.table-striped.table-hover
+            tr
+              td 8:00
+              td Annual ACFFD Open Horse Show (horse area)
+            tr
+              td 9:00
+              td 4-H Dairy Fitting & Showmanship Classes (animal show arena)
+            tr
+              td 9:00
+              td 4-H & Other Youth Sheep Show (sheep show tent)
+            tr
+              td 10:00
+              td Hand Mowing Contest (antique equipment demo area)
+            tr
+              td 10:00 VTPA-Antique & Enchanced Antique Tractor Pulls (tractor pad)
+            tr
+              td 10:30
+              td Pony Pulling (Butterfeld Arena)
+            tr
+              td 10:30
+              td Antique Equipment Demos (antique equipment area)
+            tr
+              td 11:00
+              td Pedal Tractor Pull (show tent) (sign-ups at 10:00)
+            tr
+              td 11:30
+              td Tom Joyce, The Magic Man (bandstand)
+      
+          h3 Afternoon
+          table.table.table-striped.table-hover
+            tr
+              td 12:00-6:00 
+              td Cairo Northern Clowns (Front of the FFA Food Booth)
+            tr
+              td 12:00
+              td Midway Opens (approximately)
+              td $25 all day bracelets
+            tr
+              td 12:00
+              td Dig For Treasure! (youth activity area) - FREE
+            tr
+              td 12:00
+              td Pirate Man Dan (show tent)
+            tr
+              td 12:30
+              td “Robinson’s Racing Pigs” (dairy area)
+           tr
+              td 1:00-5:00
+              td Children's Activities (Childrens Barnyard area) - FREE
+            tr
+              td 1:00
+              td   td  The Silver Circus Show (entertainment show area)
+            tr
+              td 1:30
+              td Antique Equipment Demos (antique equipment area)
+            tr
+              td 1:30
+              td Buffalo Barfield Unherd-of-Entertainment (show tent)”
+            tr
+              td 1:30
+              td 4-H Hands on Workshop (4-H exhibit building)
+            tr
+              td 2:30
+              td Tom Joyce, The Magic Man (bandstand)
+            tr
+              td 3:00
+              td Antique Equipment Demos (antique equipment area)
+            tr
+              td 3:00
+              td Pirate Man Dan (Show Tent)
+            tr
+              td 3:00
+              td “Robinson’s Racing Pigs” (children’s barnyard area)
+            tr
+              td 3:30
+              td 4-H Hands on Workshop (4-H exhibit building)
+            tr
+              td 3:30
+              td The Silver Circus Show (entertainment show area)
+            tr
+              td 4:00
+              td Beef Showmanship/Fitting Show (Senior, Intermediate, Jr & Novice) & Market Classes (animal show arena)
+            tr
+              td 4:30
+              td Buffalo Barfield Unherd-of-Entertainment (show tent)
+            tr
+              td 5:30
+              td “Robinson’s Racing Pigs” (dairy area)
+            tr
+              td 6:00
+              td The Silver Circus Show (entertainment show area)
+            tr
+              td 7:00
+              td G. Stone Motors Demolition Derby (tractor pad)
+            tr
+              td 7:00
+              td Nickel & Dime (Band Stand)
+            tr
+              td 7:30
+              td Animal Costume Class (animal show arena)
+            tr
+              td 8:00
+              td Rehab Roadhouse (Show Tent)
+    
+    panel.panel-default
+        .panel-heading.pointer-hand(data-toggle='collapse', href='#friday')
+          h2.text-center Friday
+          p.text-center.text-muted More Shows, Armwrestling and Pulling Competitions
+        #friday.panel-collapse.collapse
+          h3 Morning
+          table.table.table-striped.table-hover
+            tr
+              td 8:30
+              td Exhibitors’ Breakfast (dining hall)
+             tr
+              td 9:00
+              td Open Sheep Show (sheep show tent)
+              tr
+              td 9:30
+              td Draft Horse Show (horse area)
+            tr
+              td 10:00 - 12:00
+              td Children’s Activities (children’s barnyard area) - FREE
+            tr
+              td 10:00
+              td VTPA-Garden Division-Youth, Adult Stock, Sport Stock, AtV, Super Stock Open, Pro Diesel, 4cyl Mods (Tractor Pad)
+          tr
+             td 10:00
+              td Horse Pulling (Butterfeld Arena)
+            tr
+              td 10:00 
+              td Working Steer & Ox Show
+            tr
+              td 10:30
+              td Antique Equipment Demos (antique equipment area)
+            tr
+              td 11:00
+              td Pirate Man Dan (show tent)
+           
+            
+          h3 Afternoon
+          table.table.table-striped.table-hover
+            tr
+              td 12:00-6:00
+              td Cairo Northern Clowns (front of the FFA Food Booth)
+            tr
+              td 12:00
+              td Dig For Treasure! (youth activity area) - FREE
+            tr
+              td 12:00
+              td Midway Opens (approx)
+              td $25 all day ride bracelets
+            tr
+              td 12:00
+              td “Robinson’s Racing Pigs” (dairy area)
+            tr
+              td 12:00
+              td PeeWee Dairy Showmanship (animal show arena)
+            tr
+              td 12:15
+              td Buffalo Barfield Unherd-of Entertainment (Show Tent)
+            tr
+              td 1:00
+              td Tom Joyce, Magican (bandstand)
+            tr
+              td 1:00
+              td 4 Abreast, Show Division (horse area)
+            tr
+              td 1:00
+              td  The Silver Circus Show (entertainment show area)
+            tr
+              td 1:30
+              td Antique Equipment Demos (antique equipment area)
+            tr
+              td 1:30
+              td 4-H Hands on Workshop (4-H exhibit building)
+             tr
+              td 1:30
+              td Pirate Man Dan (show tent)
+           tr
+            td 2:00-5:00 
+            td Children’s Activities (children’s barnyard area) - FREE
+           tr
+            td 2:00
+            td Magic Workshop w/Silver Circus (entertainment show area)
+           tr
+             td 2:45
+             td Buffalo Barfield Unherd-of Entertainment (Show Tent)
+            tr
+              td 3:00
+              td Future Showmanship/Fitting Class & Beef Conformation & Group Classes (animal show arena)
+            tr
+              td 3:00
+              td “Robinson’s Racing Pigs” (dairy area)
+            tr
+              td 3:00
+              td Antique Equipment Demos (antique equipment area)
+            tr
+              td 3:30
+              td 4-H Hands on Workshop (4-H exhibit building)
+            tr
+              td 3:30
+              td The Silver Circus Show (entertainment show area)
+            tr
+              td 4:00
+              td Tom Joyce, The Magic Man (bandstand)
+            tr
+              td 5:00
+              td Armwrestling-Kids 16 & under (sign up at 4:00)(show tent)
+            tr
+              td 5:30
+              td “Robinson’s Racing Pigs” (dairy area)
+            tr
+              td 5:30
+              td Miniature Horse Team Hitching Demonstration (children’s barnyard area)
+            tr
+              td 6:00
+              td Circus Adventure (show area)
+            tr
+              td 6:00
+              td VTPA-Truck Division-Stock St. Legal, Mod St.Legal, Work Stock Diesel, 2.5 Diesel, 2.6/3.0 Pro Diesel. 2WD Mini, VT V8 Minis (Tractor Pad)
+            tr
+              td 7:00
+              td Armwrestling-Adults (weigh-ins 5:00)(show tent)
+            tr
+              td 7:00    
+              td Blues and Beyond Band (bandstand)
+            tr
+              td 7:00
+              td NYPTA - Sanctioned Super Farm & Unlimited Pro Tractor Pulls (tractor pad)
+            tr
+    panel.panel-default
+        .panel-heading.pointer-hand(data-toggle='collapse', href='#saturday')
+          h2.text-center Saturday
+          p.text-center.text-muted Dairy Show, Pulling Competitions & Fireworks!
+        #saturday.panel-collapse.collapse
+          h3 Morning
+          table.table.table-striped.table-hover
+            tr
+              td 9:00
+              td Open Dairy Show-Guernsey & Brown Swiss
+            tr
+              td 9:30
+              td Draft Horse Show (horse area)
+            tr
+              td 10:00 - 12:00
+              td Children’s Activities (children’s barnyard area) - FREE
+            tr
+              td 10:00
+              td Baked Bean Bonanza Contest & Samples (solar barn)
+            tr
+              td 10:00
+              td VTPA-Farmstock, Open 4WD, Hot Farm, Super Stock 4x4, Altered Farm, Street legal Semi, Single Engine Mod Pulls (tractor pad)
+            tr
+              td 10:30
+              td Antique Equipment Demos (antique equipment area)
+            tr
+              td 10:30
+              td Youth Sheep Blocking and Fitting Contest (sheep tent)
+        
+           
+            
+            
+          h3 Afternoon
+          table.table.table-striped.table-hover
+             tr
+              td 12:00
+              td Pirate Man Dan (show tent)
+            tr
+              td 12:00-6:00 
+              td Northern Cairo Clowns (front of FFA food booth)
+            tr
+              td 12:00
+              td Midway Opens (approximately)
+              td $25 all day ride bracelets
+            tr
+              td 12:00
+              td Dig For Treasure! (youth activity area) - FREE
+            tr
+              td 12:00
+              td “Robinson’s Racing Pigs” (dairy area)
+            tr
+              td 12:30
+              td Tom Joyce, The Magic Man (bandstand)
+            tr
+              td 1:00
+              td Rack ‘N Reel’s Sling Shot Competition (sign up at 12:00)(Butterfeld Arena)
+            tr
+              td 1:00
+              td Six Horse Hitch, North American Classic Six Qualifer (horse area)
+            tr
+              td 1:00
+              td  The Silver Circus Show (entertainment show area)
+            tr
+              td 1:30
+              td Antique Equipment Demos (antique equipment area)
+            tr
+              td 1:30
+              td 4-H Hands on Workshop (4-H exhibit building)
+              tr
+              td 1:30
+              td Buffalo Barfield Unherd-of-Entertainment (Show Tent)
+            tr
+              td 1:30
+              td Youth Poultry Show (bandstand)
+            tr
+              td 2:00 -5:00
+              td Children's Activities (children's barnyard area) - FREE
+            tr
+              td 2:00
+              td Clown Workshop w/Silver Circus (entertainment show area)
+          tr
+              td 2:30
+              td Turkey Calling Contest (Butterfeld Arena)
+            tr
+              td 3:00
+              td Pirate Man Dan (Show Tent)
+            tr
+              td 3:00
+              td Antique Equipment Demos (antique equipment area)
+            tr
+              td 3:00
+              td Sheep & Wool Garment Lead Line Class (sheep show tent)
+            tr
+              td 3:00
+              td Sheep Shearing/Handling Demonstration (sheep tent)
+            tr
+              td 3:00
+              td “Robinson’s Racing Pigs” (dairy area)
+            tr
+              td 3:30
+              td Duck & Goose Calling Contest (sign up at 2:30)(Butterfeld Arena)
+            tr
+              td 3:30
+              td 4-H Hands on Workshop (4-H exhibit building)
+            tr
+              td 3:30
+              td  The Silver Circus Show (entertainment show area)
+            tr
+              td 3:30
+              td Tom Joyce, The Magic Man (bandstand)
+            tr
+              td 4:00
+              td 4H & Open Youth Rabbit Show (Animal show arena)
+            tr
+              td 5:00
+              td Home & Garden Awards & Leona Thompson Bowl Presentation (home & garden bldg)
+            tr
+              td 5:30
+              td “Robinson’s Racing Pigs” (dairy area)
+            tr
+              td 6:00
+              td  The Silver Circus Show (entertainment show area)
+            tr
+              td 6:00
+              td VTPA-VT V8 Minis, Altered Farm, Street Legal Semis, S.S. 4x4 Pickups, Hot Farm, Pro Stock,Single Engine Mod Pulls (tractor pad) 
+           tr
+              td 7:00
+              td Rust & Ruin (bandstand)
+         tr
+              td 7:00
+              td Dance Party w/DJ Tony Lamoureux (show tent)
+               tr
+              td 7:00
+              td NYPTA - Sanctioned Super Farm & Unlimited Pro Tractor Pulls (tractor pad)
+            tr
+              td 9:15
+              td Farm Credit East Closing Fireworks Display (set of east of horse area)
+    
+    
