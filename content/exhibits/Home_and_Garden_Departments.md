@@ -350,13 +350,13 @@ THIS ART EXHIBITION IS FOR AMATEURS. (A professional artist is one who creates w
 4. Size restrictions. The maximum size for each piece, including the frame, is 20”x30” or a total frame perimeter of 100”.
 5. Entries must consist of a single image. No multiple images or sets are allowed.
 6. Framing instructions. All work must be suitably framed. However, unframed, “gallery wrapped” canvases, with a depth of 1½” or greater and with the edges painted are acceptable. Glass and plexiglass are acceptable and encouraged, but not required. Judges take matting and framing into account when evaluating all work.
-7. Hanging instructions. Hanging cable must be installed on the backs of the paintings. Screw eyes should be used on the back of the work to hold the wire and be placed about ⅓ of the way down from the top of the frame on each side. The wire should be attached so that when the piece is hung it does not show above the frame. Note: There will be no material at the Home and Garden Building for entrants to use to rig work for hanging. Again, framing and hanging must be complete before arriving with an entry.
+7. Hanging instructions. Hanging cable must be installed on the backs of the frames. Screw eyes should be used on the back of the work to hold the wire and be placed about ⅓ of the way down from the top of the frame on each side. The wire should be attached so that when the piece is hung it does not show above the frame. Note: There will be no material at the Home and Garden Building for entrants to use to rig work for hanging. Again, framing and hanging must be complete before arriving with an entry.
 8. Sawtooth and clip hangers are not permitted.
 9. No electrical outlets will be provided for artwork.
 10. Labelling. All entries must include the title of the work, medium and the artist’s name and age on the back. Contact information should also be provided: phone number and/or email address. Enter this information in pen or marker. Also, make sure the title is on the entry form.
 11. Categories and classes are described below. Categories indicated by letters. Classes by number. An artist or photographer may exhibit only one entry per class.
 
-CATEGORIES & CLASSES
+## CATEGORIES & CLASSES
 
 ### A. AMATEUR ART - One entry per class allowed
 
@@ -390,11 +390,11 @@ All images should seek to capture a moment, convey a feeling or tell a story. Bl
 
 ### D. PHOTO CHALLENGE
 
-2024 Photo Challenge - “Supporting the Farm”
+2024 Photo Challenge - “Tractors”
 
 At work, at play, upside down, inside out, whatever! Picture the tractor, the iconic farm image.
 
-### SPONSORED AWARDS
+### SPONSORED AWARDS - 2024
 
 ##### 1. Best Entry in Art
 
@@ -411,6 +411,7 @@ At work, at play, upside down, inside out, whatever! Picture the tractor, the ic
 ##### 3. Best Black and White Rendering
 
    Adult - $25 Gift Certificate - Otter Creek Framing 
+
    Teen 13-18 - Gift Certificate - UPS Store
 
    Youth 4-12 - Art Supplies - Sparrow Art Supply
@@ -425,7 +426,7 @@ At work, at play, upside down, inside out, whatever! Picture the tractor, the ic
 
    All Ages - $50 
 
-   Adult - $25 802 Print, Vergennes 
+   Adult - $25 - 802 Print, Vergennes 
 
    Teen 13-18 - $25 
 
@@ -457,10 +458,10 @@ Please read carefully. These Rules apply along with and in addition to the Gener
 
 1. Exhibitors must bring their own containers.
 2. All floral arrangements will bejudged on horticultural perfection as well as artistic arrangement.
-3. Due to limited space, no Floral arrangement will be accepted that exceeds 12”xi8”
+3. Due to limited space, no Floral arrangement will be accepted that exceeds 12”x 18”
 4. All plants will be judged on health and development. Plant classesi — 4 must be owned and maintained a minimum of six months. Exception: Summer container.
-5. This Flower Show is for amateurs only.
-6. a. All ?oral arrangements must have been done by the exhibitor. b. Children’s arrangements must have been done by the child, re?ecting ability appropriate for the age of the exhibitor.
+5. This Flower Show is for amateurs only. All floral arrangements must have been done by the exhibitor. 
+6. Children’s arrangements must have been done by the child, reflecting ability appropriate for the age of the exhibitor.
 
 ### CATEGORIES & GLASSES (NOTE CHANGES)
 
@@ -478,7 +479,7 @@ Please read carefully. These Rules apply along with and in addition to the Gener
    * Fresh plant material
 8. Holiday arrangement-fresh, dried, and/or arti?cial, may include accessories
 9. Unique Vase or Container Arrangement
-10. Open & unclassi?ed - can include groupings and scenes
+10. Open & unclassified - can include groupings and scenes
 
 #### B. PLANT CLASSES: Pot size limited to 10” or less
 
@@ -488,9 +489,13 @@ Please read carefully. These Rules apply along with and in addition to the Gener
 14. Dish Gardens
 15. Summer Plants - Pot size 12” or less: maintained minimum of 6 weeks.
 
-* Summer Container Garden
-* Summer Plant — single specimen
-* Fairy Gardens
+    a. Summer Mixed Container 
+
+    b. Summer Plant — single variety
+
+    c. Fairy Gardens
+
+\    
 
 #### C. CHILDREN'S CLASSES:
 
@@ -536,9 +541,9 @@ Please read carefully. These Rules apply along with and in addition to the Gener
 
 $30.00 for Most Outstanding Exhibit by Youth (18 and under)
 
-##### B. Middlebury AGWAY, Farm & Garden Center Award:
+##### B. Middlebury Farm & Garden (AGWAY):
 
-$30.00 gift certi?cate for Most Outstanding Exhibitor. 
+$30.00 gift certificate for Most Outstanding Exhibitor. 
 
 ##### C. Cole’s Flowers:
 
@@ -551,6 +556,12 @@ $30.00 for Most Outstanding Plant Entry.
 ##### E. January Stearns - Realtor, Champlain Valley Properties:
 
 $25 for Best Entry by Youth aged 4-8 years.
+
+##### F. Heather Morse - Greentree Real  Estate
+
+$30.00 for Most Outstanding Adult Entry
+
+
 
 ## COMMERCIAL FLOWER SHOW
 
