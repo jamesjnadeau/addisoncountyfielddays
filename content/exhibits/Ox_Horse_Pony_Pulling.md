@@ -4,7 +4,8 @@ Description: Exibit information and entry rules
 ---
 
 # Ox, Horse and Pony Pulling
-Wednesday, 9:30 am.
+
+Wednesday, August {wednesday}, {year} 9:30 am.
 
 SUPERINTENDENT: Benj Deppman (802)734-1381
 
@@ -48,7 +49,7 @@ damage to oxen, drivers, or any equipment or articles sent to the show.
 6. $110
 
 ## HORSE AND PONY PULLING
-Thursday and Friday
+Thursday, August {thursday}, {year}  and Friday, August {friday}, {year}
 
 SUPERINTENDENT: Benj Deppman (802)734-1381
 
@@ -101,5 +102,5 @@ Friday, 10:00 am.
 7. $50
 8. $40 
 9. $40
-10.$40
+10. $40
 

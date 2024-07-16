@@ -14,6 +14,8 @@ var template;
 var mdtemplate;
 var feedURLs;
 
+var config = require('./config.json');
+
 toc_start = `
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
   <div class="panel panel-default">
@@ -31,6 +33,16 @@ toc_end = `
     </div>
   </div>
 </div>`;
+
+convert_dates = function(body) {
+  Object.keys(config.days).forEach(function(key) {
+    body = body.replace(new RegExp('\{' + key + '\}', 'g'), config.days[key]);
+  });
+  ['year', 'prev_year', 'prev_prev_year'].forEach(function(key) {
+    body = body.replace(new RegExp('\{' + key + '\}', 'g'), config[key]);
+  });
+  return body;
+}
 
 module.exports = {
   //perform any preprocessing tasks you might need here.
@@ -122,8 +134,11 @@ module.exports = {
 
       var tocHTML = toc_start + marked(toc(markdownContent).content) + toc_end;
       // markdownContent = markdownContent.replace('[[TOC]]', tocMarkdown);
-      finalContent = marked(markdownContent);
+      var finalContent = marked(markdownContent);
       finalContent = finalContent.replace('[[TOC]]', tocHTML);
+
+      // date replacement
+      finalContent = convert_dates(finalContent);
 
       //use compiled template to produce html file
       var fileContents = mdtemplate({
@@ -137,9 +152,16 @@ module.exports = {
     } else { // if (file_extension === '.pug')
         var meta = fm(content);
 
-        var finalContent = pug.render(meta.body, {
+        body = meta.body;
+
+        // date replacement
+        body = convert_dates(body);
+
+        var finalContent = pug.render(body, {
           pretty: true,
         })
+
+        
 
         ensureCritical(template({
           title: meta.Title,

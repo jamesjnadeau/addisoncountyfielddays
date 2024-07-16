@@ -44,7 +44,7 @@ Brenda Deering, 545-2279
 * Megan Sutton, 545-2475
 * Mike Reed, 759-2054
 * Bruce Putnam, 349-6107
-* C﻿hris Acker, 349-2342
+* Chris Acker, 349-2342
 * Paul Quesnel, 989-0187
 
 ### BUSINESS MANAGER:

@@ -45,7 +45,7 @@ will be reduced by one half. Ribbons will be awarded in ALL classes.
 ## 4-H & OTHER YOUTH POULTRY SHOWMANSHIP
 SUPERINTENDENT:  Wayne Marcelle, 802-233-9534
 
-Saturday, August 13, 2022 10:00am  Children's Barnyard Area
+Saturday, August {saturday}, {year} 10:00am  Children's Barnyard Area
 
 $1.00 per bird per class(limit of 1 bird per child for each class)
 
