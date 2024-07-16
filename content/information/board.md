@@ -40,6 +40,7 @@ Brenda Deering, 545-2279
 - Mike Reed, 759-2054
 - Bruce Putnam, 349-6107
 - Paul Quesnel, 989-0187
+- Chris Acker
 
 
 ### BUSINESS MANAGER: 

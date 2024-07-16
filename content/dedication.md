@@ -12,5 +12,5 @@ This year promises to bring all the usual vendors, rides, fair food, exhibits, k
 
 Although paving the parking lot was not in the cards or the state’s groundwater rules, we have a beautiful new livestock barn to house the beef and open dairy cattle. We hope you will enjoy our green grass and improvements to a few really soft areas of the grounds and roads.
 
-See you at Addison County Field Days, August 6 through 10, 2024!
+See you at Addison County Field Days, August {tuesday} through {saturday}, {year}!
 

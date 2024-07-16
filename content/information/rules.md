@@ -2,7 +2,6 @@
 Title: Rules and Regulations
 Description: The Rules and Regulations applying to all who attend the fair
 ---
-
 # Addison County Fair & Field Days, Inc.
 
 ## RULES AND REGULATIONS
@@ -10,35 +9,35 @@ Description: The Rules and Regulations applying to all who attend the fair
 [Download the rules](/files/Rules-Regulations.pdf)
 
 1. The following rules shall apply to all departments of the Fair. It shall be the
-    responsibility of all exhibitors, food vendors and concessionaires to abide by these
-    rules.
+   responsibility of all exhibitors, food vendors and concessionaires to abide by these
+   rules.
 2. All property brought upon the Field Days grounds by any person and for any
-    purpose is subject to these rules.
+   purpose is subject to these rules.
 3. All persons entering upon Field Days grounds, with or without permission and for
-    any purpose, agree to hold Field Days and its officers, directors, trustees, agents
-    and employees, harmless from any loss, damage, injury, death, or disability from
-    any cause whatsoever to any person or property.
+   any purpose, agree to hold Field Days and its officers, directors, trustees, agents
+   and employees, harmless from any loss, damage, injury, death, or disability from
+   any cause whatsoever to any person or property.
 4. All property brought upon the Field Days grounds shall be the sole responsibility of
-    the owner, and Field Days assumes no responsibility for its safety.
+   the owner, and Field Days assumes no responsibility for its safety.
 5. As a part of the consideration for permission to be upon the Field Days grounds, all
-    claims for damage to property or for personal injury are specifically waived; and no
-    claim or suit shall in any way be commenced or maintained against Field Days or its
-    officers, directors, trustees, agents or employees.
+   claims for damage to property or for personal injury are specifically waived; and no
+   claim or suit shall in any way be commenced or maintained against Field Days or its
+   officers, directors, trustees, agents or employees.
 6. All exhibits and entries must remain intact until the release time specified in each
-    department. Failure to comply with this rule will result in forfeiture of all premiums
-    and ribbons or trophies won in all departments.
+   department. Failure to comply with this rule will result in forfeiture of all premiums
+   and ribbons or trophies won in all departments.
 7. The Directors of Field Days reserve the right to reassign any space not occupied by
-    an exhibitor by the specific date. No exhibitor is permitted to sublet or assign his/her
-    space without prior written approval of the director(s) in charge of such space.
+   an exhibitor by the specific date. No exhibitor is permitted to sublet or assign his/her
+   space without prior written approval of the director(s) in charge of such space.
 8. Exhibitors and concessionaires shall keep their space(s) and stall(s) clean at all
-    times. All waste and litter shall be placed in appropriate containers. Failure to do so
-    automatically transfers, to the Field Days Directors, the right to contract the cleanup
-    at the expense of the person(s) responsible for such space/exhibit/concession.
+   times. All waste and litter shall be placed in appropriate containers. Failure to do so
+   automatically transfers, to the Field Days Directors, the right to contract the cleanup
+   at the expense of the person(s) responsible for such space/exhibit/concession.
 9. Any person objecting in an ungentlemanly or public manner to the judgment or
-    ruling of an awarding committee, judge, department superintendent, or any official
-    of Field Days may be excluded by the Board of Directors from further competition or
-    exhibition until such time as he/she has been reinstated by decision of a majority of
-    the entire Board of Directors.
+   ruling of an awarding committee, judge, department superintendent, or any official
+   of Field Days may be excluded by the Board of Directors from further competition or
+   exhibition until such time as he/she has been reinstated by decision of a majority of
+   the entire Board of Directors.
 10. Any exhibitor making or causing to be made, any false statement regarding an animal or article, or attempting to interfere with any judge in the performance of his/her duty, shall be excluded from competition or exhibition.
 11. Premiums shall be awarded on articles listed in the premium lists only. 
     The Department Superintendent shall approve the judges in each department. No one shall be permitted to judge in an area in which he/she exhibits.
@@ -102,7 +101,7 @@ Description: The Rules and Regulations applying to all who attend the fair
     electrical and water hook-ups are available. The running of unauthorized extension
     cords or the use of unauthorized electrical connections shall be cause for
     immediate removal of the offender from the grounds and forfeiture of all fees.
-    Reservations for specific spots will be arranged, **_prior_** to the fair, with the camping
+    Reservations for specific spots will be arranged, ***prior*** to the fair, with the camping
     office. Tenting, for exhibitors only, will be by permission of the superintendent.
     Campers, for 4-H members, who are exhibiting, will be permitted at the discretion of
     the superintendent. Designated camping spots will be provided for superintendents,
@@ -135,7 +134,7 @@ Description: The Rules and Regulations applying to all who attend the fair
     mount antennas or satellite dishes without obtaining permission of the grounds
     manager.
 40. Commercial delivery trucks and exhibitor vehicles may not move on the main
-    streets of Field Days grounds between 10 a.m. and 10 p.m. Non-compliance with
+    streets of Field Days grounds between 8 a.m. and 10 p.m. Non-compliance with
     this regulation may result in loss (without compensation) of Field Days admittance
     privileges and/or exhibit spaces. There will be a reserved area for exhibitors to park
     their vehicles outside the fence.
@@ -145,8 +144,8 @@ Description: The Rules and Regulations applying to all who attend the fair
     the contract signed with and submitted to Addison County Fair and Field Days. The
     directors in charge of the food vendor/exhibit/concession areas have the sole right
     to limit items, which may be sold by any vendor.
-43. The Lucien D. Paquette Exhibit Building will be open to the public from 10: 0 0 a.m.
-    to 10: 0 0 p.m. daily; from 9: 0 0 a.m. to 10:00 a.m. for exhibitors & concessionaires
+43. The Lucien D. Paquette Exhibit Building will be open to the public from 10:00 a.m.
+    to 10:00 p.m. daily; from 9:00 a.m. to 10:00 a.m. for exhibitors & concessionaires
     only.
 44. All permanent buildings owned by Field Days and used by other than Field Days
     personnel (i.e., 4-H Exhibit Hall, Maple Exhibit, Grange, etc.) must have current,
@@ -157,10 +156,8 @@ Description: The Rules and Regulations applying to all who attend the fair
 47. All livestock trailers, after unloading, must be parked across the brook during the
     fair.
 48. The Field Days Board of Directors reserves the right to amend these rules from time
-to time, as they see fit.
+    to time, as they see fit.
 49. Any exhibitor bringing chemicals onto the fairgrounds must have a Material Safety
     Data Sheet for each chemical in their booth at all times.
 50. Field Days prohibits the sale of any weapons (including pocket knives) as well
-as any products bearing the confederate flag or any hate symbols.
-
-
+    as any products bearing the confederate flag or any hate symbols.

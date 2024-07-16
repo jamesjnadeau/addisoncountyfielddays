@@ -10,19 +10,19 @@ Description: "Vermont's Premier Agricultural Fair.  Check out the resources for 
     a.small(href="/canceled/") Learn More
   h1.strong Please join us at the Fair
     br
-    | August 6-10, 2024!
+    | August {tuesday}-{saturday}, {year}!
   hr
 
-  //- h3 2024 Fair Dedication 
+  //- h3 2023 Fair Dedication 
   //- p 
   //-   a.large(href='/dedication') Thank you all!
 
   //- h3 Winter Storage 
-  //- a(href="/files/2024/Winter Storage Contract 2024.docx") Download the Winter Storage Form
+  //- a(href="/files/{year}/Winter Storage Contract {year}.docx") Download the Winter Storage Form
 
   h3 2024 Calendar of Events
   p
-    a(href="/schedule/2024") Click here to view the schedule for events the whole year at field days.
+    a(href="/schedule/{year}") Click here to view the schedule for events the whole year at field days.
   p Winter Storage dates are available in the schedule
   
 
@@ -63,5 +63,5 @@ Description: "Vermont's Premier Agricultural Fair.  Check out the resources for 
   h3 Share Your Experience!
   h4 Use the hashtag
     - var year = new Date().getFullYear();
-    mark #fielddays#{year}
+    mark #fielddays{year}
   a.btn.btn-default.btn-sm(href="https://www.facebook.com/addisonfielddaysvt/") Join our Facebook Group

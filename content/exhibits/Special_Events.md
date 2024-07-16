@@ -20,7 +20,7 @@ Saturday, Estimated Time 2:30 p.m. - L0CATI0N: Butterfield Arena
 
 DIRECT0R:  
 
-Sign up in the Butterfield Arena starts at 2:30 p.m. on the 10th Youth and Adult Classes -Ribbons and Prizes will be awarded-
+Sign up in the Butterfield Arena starts at 2:30 p.m. on the {saturday} Youth and Adult Classes -Ribbons and Prizes will be awarded-
 
 ## DUCK AND GOOSE CALLING CONTEST
 
@@ -28,7 +28,7 @@ Saturday Estimated Time 3:30 p.m. - L0CATI0N: Butterfield Arena
 
 DIRECT0R:  
 
-Sign up in the Butterfield Arena starts at 2:30 p.m. on the 10th Youth and Adult Classes -Ribbons and Prizes will be awarded.
+Sign up in the Butterfield Arena starts at 2:30 p.m. on the {saturday} Youth and Adult Classes -Ribbons and Prizes will be awarded.
 
 ## PEDAL TRACTOR PULL
 
@@ -44,7 +44,7 @@ The youngster's version of the real thing. Come on down and watch the fun and ch
 ## VERMONT PRODUCTS DINNER
 
 > "A Taste of Vermont"
-> Tuesday, August 6, 2024 — Three Seatings: 5:15, 6:00 & 6:45 p.m.
+Tuesday, August {tuesday}, {year} — Three Seatings: 5:15, 6:00 & 6:45 p.m.
 
 LOCATION: the Dining Hall 
 
