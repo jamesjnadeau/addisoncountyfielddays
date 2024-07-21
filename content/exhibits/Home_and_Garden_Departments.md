@@ -42,7 +42,7 @@ DIRECTOR: Megan Sutton, 802-545-2475
 
 ### RULES
 
-Please read carefully. These Rules apply along with and in addition to the General Rules for the Home & Garden Department, and the General Rules of Addison County Fair & Field Days. Entries will be accepted at the HOME & GARDEN CENTER BUILDING on MONDAY, between 9:00 a.m. & 12:30 p.m.
+Please read carefully. These Rules apply along with and in addition to the General Rules for the Home & Garden Department, and the General Rules of Addison County Fair & Field Days. Entries will be accepted at the HOME & GARDEN CENTER BUILDING on SUNDAY, between 1:00 p.m. and 4:00 p.m., and MONDAY, between 9:00 a.m. & 12:30 p.m.
 
 Unworthy, soiled or worn items will not be accepted or judged.
 
@@ -560,8 +560,6 @@ $25 for Best Entry by Youth aged 4-8 years.
 ##### F. Heather Morse - Greentree Real  Estate
 
 $30.00 for Most Outstanding Adult Entry
-
-
 
 ## COMMERCIAL FLOWER SHOW
 
