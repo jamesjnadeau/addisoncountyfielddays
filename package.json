@@ -45,7 +45,7 @@
     "textlint-rule-common-misspellings": "^1.0.1",
     "textlint-rule-rousseau": "^1.4.5",
     "url-loader": "^0.6.0",
-    "webpack": "3",
+    "webpack": "5",
     "webpack-bundle-analyzer": "^2.13.1",
     "webpack-cli": "3",
     "webpack-dev-server": "2",
