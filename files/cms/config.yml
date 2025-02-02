@@ -64,6 +64,14 @@ collections:
           - {label: "Title", name: "Title", widget: "string"}
           - {label: "Description", name: "Description", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Donate"
+        name: donate
+        file: "content/donate.md"
+        preview_path: "/donate"
+        fields:
+          - {label: "Title", name: "Title", widget: "string"}
+          - {label: "Description", name: "Description", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
 
   - name: pug
     label: Pug Pages
