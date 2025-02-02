@@ -13,7 +13,7 @@ We also envision building an antique house to showcase our rich historical colle
 
 We invite you to join us in preserving this treasured event for generations to come. As a 501(c)(3) non-profit organization, all donations are tax-deductible, making your contribution a meaningful investment in the future of our community and its heritage.
 
-<div>
+<div style="margin: 15px auto;" class="text-center" >
   <a class="btn btn-primary" href="https://www.paypal.com/biz/profile/acffd">Donate Now</a>
 </div>
 
