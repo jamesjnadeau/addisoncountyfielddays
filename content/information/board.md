@@ -26,7 +26,7 @@ Cindy Kayhart, 343-3862
 
 ### VICE PRESIDENT:
 
-Benj Deppman, 734-1381
+Bruce Putnam, 349-6107
 
 ### SECRETARY:
 
@@ -49,7 +49,7 @@ Brenda Deering, 545-2279
 
 ### BUSINESS MANAGER:
 
-Cara Mosier, 545-2557
+Katie Shimel 545-2557
 
 ### GROUNDS MANAGER:
 
