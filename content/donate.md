@@ -3,7 +3,7 @@ Title: Donate to the Fair
 Description: Plese help us with our Capital Campaign
 ---
 
-# Capitla Campaign
+# Capital Campaign
 
 As we embark on our 77th year of celebrating the cherished traditions and vibrant community spirit that define our rural heritage, we're thrilled to announce the launch of our 2025 Capital Campaign. 
 
@@ -13,6 +13,9 @@ We also envision building an antique house to showcase our rich historical colle
 
 We invite you to join us in preserving this treasured event for generations to come. As a 501(c)(3) non-profit organization, all donations are tax-deductible, making your contribution a meaningful investment in the future of our community and its heritage.
 
-https://www.paypal.com/biz/profile/acffd
+<div>
+  <a class="btn btn-primary" href="https://www.paypal.com/biz/profile/acffd">Donate Now</a>
+</div>
 
-[!Capital Campaign Notes](/files/uploads/2025-capital-campaign.jpg)
+
+![Capital Campaign Notes](/files/uploads/2025-capital-campaign.jpg)
