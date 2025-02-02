@@ -3,6 +3,7 @@ Title: Donate to the Fair
 Description: Plese help us with our Capital Campaign
 ---
 
+# Capitla Campaign
 
 As we embark on our 77th year of celebrating the cherished traditions and vibrant community spirit that define our rural heritage, we're thrilled to announce the launch of our 2025 Capital Campaign. 
 
