@@ -26,6 +26,7 @@ collections:
     nested:
       depth: 3
       summary: '{{slug}} - {{title}}' # optional summary for a tree node, defaults to the inferred title field
+    meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
