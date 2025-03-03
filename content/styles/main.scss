@@ -70,6 +70,10 @@ $highlight-font:        "Rye", serif;
   font-family: $highlight-font, cursive;
 }
 
+.dropdown:hover>.dropdown-menu {
+  display: block;
+}
+
 #header.navbar img {
   max-width: 3.5rem;
   // @include media-breakpoint-up(sm) {

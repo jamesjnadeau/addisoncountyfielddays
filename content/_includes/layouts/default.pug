@@ -31,14 +31,14 @@ html(lang='en')
           span.navbar-toggler-icon
         #navbarSupportedContent.navbar-collapse.collapse
           ul.navbar-nav.d-flex.justify-content-around.align-items-center.w-100
-                li.p-1
-                  a(href='/information/') General Information
-                li.p-1
-                  a(href='/schedule/') Schedule
-                li.p-1
-                  a(href='/exhibits/') Exhibits
-                li.p-1
-                    a(href='/forms/') Forms
+            li.nav-item.p-1
+              a.nav-link(href='/information/') General Information
+            li.nav-item.dropdown.p-1
+              a.nav-link(href='/schedule/') Schedule
+            li.nav-item.dropdown.p-1
+              a.nav-link(href='/exhibits/') Exhibits
+            li.nav-item.dropdown.p-1
+              a.nav-link(href='/forms/') Forms
     #wrap-content(data-barba="wrapper")  
       #container.container.mx-auto.animate__animated.animate__zoomIn(data-barba="container" data-barba-namespace=page.url)
         block content
