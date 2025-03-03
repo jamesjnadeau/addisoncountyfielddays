@@ -1,0 +1,263 @@
+@use './animate.css';
+
+$gray-base:              #000;
+$font-family-sans-serif:  'Noto Sans', serif;
+$font-size-root:        1.25em;
+$red:                   #ba3030;
+$blue:                  #2489ce;
+$beige:                 #e8e8e8;
+
+$gray-base:              #000;
+$gray-darker:            lighten($gray-base, 13.5%); // #222
+$gray-dark:              lighten($gray-base, 20%);   // #333
+//@gray:                   lighten(@gray-base, 33.5%); // #555
+$gray:                   #d5d5d5; // #555
+$gray-light:             lighten($gray-base, 46.7%); // #777
+$gray-lighter:           lighten($gray-base, 93.5%); // #eee
+$brand-primary:         $red;
+$brand-secondary:       $blue;
+$brand-dark:            #005624; //#007a33; // @blac,
+$brand-success:         #060706;
+$brand-info:            $beige;
+$brand-warning:         #f0ad4e;
+$brand-danger:          $red;
+$body-bg:               #fff;
+$font-family-sans-serif:  $font-family-sans-serif;
+$font-family-serif:       'Noto Serif';
+//** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
+$font-family-base:        $font-family-sans-serif;
+$screen-md:                  992px;
+
+$accordion-btn-padding-y: 1rem;
+$accordion-body-padding-x: 1rem;
+$accordion-body-padding-y: 1rem;
+
+@import "bootstrap/scss/bootstrap";
+// @use "bootstrap/scss/bootstrap" with (
+//   $black:                 #181818,
+//   $blue:                  $blue,
+//   $blue-dark:             #2A3F53, // Dark Blue in header/buttons
+//   $blue-light:            #54738b, // Dark Blue in header/buttons
+//   $red:                   #ba3030,
+//   $beige:                 #e8e8e8,
+//   $gray-base:              #000,
+//   $gray-darker:            color.scale($gray-base, $lightness: 13.5%)l, // #222
+//   $gray-dark:              color.scale($gray-base, $lightness: 20%),   // #333
+//   //@gray:                   lighten(@gray-base, 33.5%); // #555
+//   $gray:                   #d5d5d5, // #555
+//   $gray-light:             color.scale($gray-base, $lightness: 46.7%), // #777
+//   $gray-lighter:           color.scale($gray-base, $lightness: 93.5%), // #eee
+//   $brand-primary:         $red,
+//   $brand-secondary:       $blue,
+//   $brand-dark:            #007a33, // @blac,
+//   $brand-success:         #5cb85c,
+//   $brand-info:            $beige,
+//   $brand-warning:         #f0ad4e,
+//   $brand-danger:          $red,
+//   $body-bg:               #fff,
+//   $font-family-sans-serif:  $font-family-sans-serif,
+//   $font-family-serif:       'Noto Serif',
+//   //** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
+//   $font-family-base:        $font-family-sans-serif
+// );
+
+// @import url('https://fonts.googleapis.com/css?family=Rye&display=swap');
+/* latin-ext */
+@font-face {
+  font-family: 'Rye';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rye/v15/r05XGLJT86YzH57tbOo.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Rye';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rye/v15/r05XGLJT86YzEZ7t.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+body {
+  // font-size: 1.5em;
+}
+
+#header.navbar img {
+  max-width: 3.5em;
+}
+a.navbar-brand {
+  color: #FFF;
+  font-family: 'Rye', cursive;
+  font-size: 1em;
+  // font-stretch: 100%;
+  padding-left: 10px;
+  box-sizing: content-box;
+}
+#header.navbar {
+  font-family: 'Rye', cursive;
+  font-size: 25px;
+  z-index: 10;
+}
+#header.navbar.navbar-dark{
+  border-color: #fff;
+  color: #fff !important;
+  margin-right: 15px;
+  margin-top: 15px;
+  margin-bottom: 0px;
+  background-color: #005624;
+}
+
+#navbarSupportedContent {
+  a {
+    text-decoration: none;
+    color: #fff;
+    display: inline-block;
+    position: relative;
+  }  
+
+  a:hover::after {
+    transform: scaleX(1);
+    transform-origin: bottom center;
+  }
+
+  a::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: #ffffff;
+    transition: transform 0.25s ease-out;
+  }
+} 
+
+#wrap-content {
+  min-height: 100vh;
+}
+
+.jumbotron {
+  font-family: 'Rye', cursive;
+  padding: 0;
+  margin: auto;
+  img {
+    max-width: 100%;
+  }
+}
+
+#container.container {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+h1 {
+  margin-bottom: 22px;
+  font-family: 'Rye', cursive;
+}
+
+p {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.fixed-width {
+  max-width: 800px;
+  margin: auto;
+  img {
+    max-width: 100%;
+  }
+}
+
+.pointer-hand {
+  cursor: pointer;
+}
+
+.footer {
+  font-size: 12px;
+}
+
+.btn {
+  font-family: 'Rye', cursive;
+  white-space: break-spaces;
+}
+
+hr {
+  border-width: thick 0 0 0;
+  border-style: dotted;
+  border-color: $brand-dark;
+}
+
+.markdown-content {
+  h1 {
+    text-align: center;
+    text-transform: capitalize;
+  }
+  h2 {
+    margin-top: 3em;
+    border-bottom: $brand-dark .1em dashed;
+  }
+  h3 {
+    text-decoration: $brand-dark .05em dashed underline;
+    text-underline-position: under;
+  }
+
+  h2, h3, h4:not(.panel-title), h5, h6 {
+    text-transform: capitalize;
+    margin-top: 2em;
+  }
+
+  h4.panel-title {
+    font-size: 1.2em;
+  }
+
+  // ensure proper scroll to position on anchor
+  // see https://stackoverflow.com/a/24298427/1978759
+  [id]::before {
+    content: '';
+    display: block;
+    height:      85px;
+    margin-top: -85px;
+    visibility: hidden;
+  }
+}
+
+.form-control {
+  height: 100%;
+}
+
+@media (max-width: $screen-md) {
+  body {
+    font-size: 1.5em;
+  }
+  #header.navbar {
+    margin-right: 1.5em;
+  }
+  a.navbar-brand {
+    font-size: 1.5em;
+    padding-top: 1em;
+    max-width: 70%;
+  }
+  #container.container {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .btn-group-lg>.btn, .btn-lg {
+    padding: 4px;
+    font-size: 1.5em;
+  }
+  
+}
+
+.accordion-body, .accordion-header {
+  border: 1px dotted;
+}
+
+h2.accordion-header button {
+  font-size: 1.5rem;
+}
+
+

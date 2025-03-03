@@ -1,0 +1,53 @@
+backend:
+  # name: git-gateway
+  name: github
+  repo: jamesjnadeau/addisoncountyfielddays
+  branch: master
+  auth_scope: repo # this is needed to fork the private repo
+  open_authoring: true
+publish_mode: editorial_workflow # Allows you to save drafts before publishing them
+media_folder: "files/uploads" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/files/uploads" # The src attribute for uploaded media will begin with /images/uploads
+
+site_url: https://www.addisoncountyfielddays.com/
+display_url: https://www.addisoncountyfielddays.com/
+
+
+collections:
+
+  - name: "md" # Used in routes, e.g., /admin/collections/blog
+    label: "Markdown Pages - Easy" # Used in the UI
+    folder: "content/" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., title.md
+    preview_path: "{{slug}}"
+    format: frontmatter
+    extension: md
+    nested:
+      depth: 3
+      summary: '{{slug}} - {{title}}' # optional summary for a tree node, defaults to the inferred title field
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: pug
+    label: Pug Pages - Hard
+    label_singular: 'Pug Page'
+    folder: content/
+    create: false
+    format: frontmatter
+    extension: pug
+    identifier_field: "Title"
+    preview_path: "{{dirname}}/{{filename}}"
+    summary: "{{dirname}}/{{filename}}.{{extension}}" #  - {{Title}}
+    # adding a nested object will show the collection folder structure
+    nested:
+      depth: 3 # max depth to show in the collection tree
+      summary: '{{slug}} - {{title}}' # optional summary for a tree node, defaults to the inferred title field
+    # adding a meta object with a path property allows editing the path of entries
+    # moving an existing entry will move the entire sub tree of the entry to the new location
+    meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "Description", widget: "text"}
+      - {label: "Body", name: "body", widget: "pug", output_code_only: true, default_language: "pug", allow_language_selection: false}
