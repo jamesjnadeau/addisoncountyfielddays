@@ -43,7 +43,7 @@ without a vet certificate. Pre-entries due by August 1, {{config.year}}.
 Send entries to: Kathy Kennett, 1716 VT Route 22A, Panton, VT 05491
 Email: kkennett@together.net Phone: 759-2015. During Fair Cell Phone: 349-5671
 
-1. All exhibitors will be requried to show proof of rabies vaccination dated between August 11, {prev_year} and July 1, {{config.year}}. Current Negative Coggins will also be required for all horses.
+1. All exhibitors will be requried to show proof of rabies vaccination dated between August 11, {{config.prev_year}} and July 1, {{config.year}}. Current Negative Coggins will also be required for all horses.
 2. Out of state must have health papers
 3. Passes will be mailed to exhibitors whose entries have arrived early enough that there 
    is sufficient time for return mail. Exhibitors will receive 1 person pass per horse per day

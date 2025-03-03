@@ -81,7 +81,7 @@ Subject to Change
 5. Hunter Model
 6. Open in Hand *
 7. Weanling Class ({{config.year}} foals) (Mares not allowed in ring
-8. Yearling Class ({prev_year} foals)
+8. Yearling Class ({{config.prev_year}} foals)
 9. Two Year Olds ({prev_prev_year} foals) 
 
 ### Open in Hand Championship

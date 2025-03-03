@@ -2,9 +2,35 @@
 import pugPlugin from "@11ty/eleventy-plugin-pug";
 import * as sass from "sass";
 import path from 'node:path';
-import markdownIt from "markdown-it";
 import toc from 'markdown-it-table-of-contents';
 import yaml from "js-yaml";
+import { EleventyRenderPlugin } from "@11ty/eleventy";
+import fm from "front-matter"
+import pug from "pug";
+import { readFileSync } from 'node:fs';
+
+
+let config = yaml.load(readFileSync('./content/_data/config.yaml'))
+
+// Pug Filters
+let pug_remove_fm_filter = function(text, options) {
+    var content = fm(text);
+    return content.body;
+}
+
+let pug_process_pug_filter = function(text, options) {
+    return pug.render(text)
+}
+
+let pug_replace_config_variables_filter = function(text, options) {
+    let temp = text;
+    for(var key in config) {
+        let value = config[key]
+        console.log(`${key} ${value}`)
+        temp = temp.replaceAll(`{{config.${key}}}`, value)
+    }
+    return temp;
+}
 
 
 let default_title = 'Addison County Fair and Field Days'
@@ -16,6 +42,7 @@ export default async function(eleventyConfig) {
     eleventyConfig.setInputDirectory("content");
     eleventyConfig.setOutputDirectory("built");
 
+    // make [[toc]] in md files work as expected
     eleventyConfig.amendLibrary("md", (mdLib) => mdLib.use(toc));
 
     // use pug plugin, 
@@ -23,6 +50,11 @@ export default async function(eleventyConfig) {
     
     eleventyConfig.addPlugin(pugPlugin, {
 		// debug: true,
+        filters: {
+            'remove_frontmattter': pug_remove_fm_filter,
+            'process_pug': pug_process_pug_filter,
+            'replace_config_variables': pug_replace_config_variables_filter,
+        }
         // filters: eleventyConfig.filters,
         // globals: ['eleventyNavigationPlugin']
         // {
@@ -31,6 +63,10 @@ export default async function(eleventyConfig) {
         //     },
         // }
 	});
+
+    // add render function to templates
+    eleventyConfig.addPlugin(EleventyRenderPlugin);
+    // see https://www.11ty.dev/docs/plugins/render/
 
     // set global layout
     eleventyConfig.addGlobalData("layout", "layouts/default.pug");

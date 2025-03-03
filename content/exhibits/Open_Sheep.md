@@ -76,7 +76,7 @@ educational purposes.
 5. Age ewe
 6. Yearling Ewe - 1 year of age, but under two years
 7. Pair of Yearling Ewe
-8. Senior Ewe Lamb-Born on or after September 1, {prev_year} and before January 1, {{config.year}}
+8. Senior Ewe Lamb-Born on or after September 1, {{config.prev_year}} and before January 1, {{config.year}}
 9. Junior Ewe Lamb-Born on or after January 1, {{config.year}}
 10. Pair of Ewe Lambs
 11. Daughter/Dam

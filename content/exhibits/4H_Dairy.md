@@ -93,11 +93,11 @@ All livestock must comply with the following health requirements. Livestock incl
 CONFORMATION CLASSES (Tuesday) $2.00/class
 
 1. Spring Calf — born between March 1 , {{config.year}},  and April 30 , {{config.year}} 
-2. Winter Calf — born between December 1, {prev_year} and February 28, {{config.year}}.
-3. Fall Calf — born between September 1, {prev_year} and November 30, {prev_year}.
-4. Summer Yearling Heifer— born between June 1, {prev_year} and August 31, {prev_year}.
-5. Spring Yearling Heifer — born between March 1, {prev_year} and May 31, {prev_year}.
-6. Winter Yearling Heifer — born between December 1, {prev_prev_year} and February 29, {prev_year}.
+2. Winter Calf — born between December 1, {{config.prev_year}} and February 28, {{config.year}}.
+3. Fall Calf — born between September 1, {{config.prev_year}} and November 30, {{config.prev_year}}.
+4. Summer Yearling Heifer— born between June 1, {{config.prev_year}} and August 31, {{config.prev_year}}.
+5. Spring Yearling Heifer — born between March 1, {{config.prev_year}} and May 31, {{config.prev_year}}.
+6. Winter Yearling Heifer — born between December 1, {prev_prev_year} and February 29, {{config.prev_year}}.
 7. Fall Yearling Heifer— born between September 1, {prev_prev_year} and November 30, {prev_prev_year}.
 8. Two Year Old Cow — milking — born between September 1, {prev_prev_year} and August 31, {prev_prev_year}.
 9. Three Year Old Cow — born between September 1, 2020 and August 31, 2021.

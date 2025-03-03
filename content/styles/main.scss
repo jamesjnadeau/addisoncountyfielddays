@@ -265,6 +265,8 @@ hr {
   
 }
 
+/* Accordian customizaton */
+
 .accordion-body, .accordion-header {
   border: 1px dotted;
 }
@@ -272,5 +274,20 @@ hr {
 h2.accordion-header button {
   font-size: 1.5rem;
 }
+
+/* Print/pdf output */
+
+.print-keep-together {
+  page-break-inside: avoid;
+}
+
+.print-break-before {
+  page-break-before: always;
+}
+
+.print-break-after {
+  page-break-after: always;
+}
+
 
 

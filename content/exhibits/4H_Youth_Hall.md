@@ -3,19 +3,22 @@ title: CLASSES FOR 4-H AND OTHER YOUTH
 description: Exhibit information and entry rules
 ---
 
-
-
 # CLASSES FOR 4-H AND OTHER YOUTH
 
 [[toc]]
 
 ## THE 4-H PLEDGE
 
-> I pledge<br>
-> My HEAD to clearer thinking,<br>
-> my HEART to greater loyalty,<br>
-> my HANDS to larger service, and<br>
-> my HEALTH to better living,<br>
+> I pledge
+> 
+> My HEAD to clearer thinking,
+> 
+> my HEART to greater loyalty,
+> 
+> my HANDS to larger service, and
+> 
+> my HEALTH to better living,
+> 
 > for my club, my community, my country and my world.
 
 ## THE 4-H BUILDINGS AT FIELD DAYS GROUNDS

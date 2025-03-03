@@ -95,8 +95,8 @@ CONFORMATION CLASSES YOUTH and OPEN SHOW
 * Conformation Classes will be separated if there is 10 or more of a specific registered breed. *Some breed associations allow up to 50% cross breeding.
   CALF Class:
   Class E - Spring Heifer Calf (March 1, {{config.year}} to June 30, {{config.year}}) 
-  Class F-  Winter Heifer Calf (December 1, {prev_year} to February 28, {{config.year}}) 
-  Class G – Fall Heifer Calf (September 1, {prev_year} to November 30, {prev_year}) 
+  Class F-  Winter Heifer Calf (December 1, {{config.prev_year}} to February 28, {{config.year}}) 
+  Class G – Fall Heifer Calf (September 1, {{config.prev_year}} to November 30, {{config.prev_year}}) 
   		Open - Grand & Reserve Calf Champion (1st and 2nd place from Classes E-G)
   		Youth - Grand & Reserve Calf Champion (1st and 2nd place from Classes E-G)
 
@@ -104,9 +104,9 @@ CONFORMATION CLASSES YOUTH and OPEN SHOW
   Yearling Class:
   ```
 
-  Class H - Summer Yearling Heifer (July 1, {prev_year} to August 31, {prev_year}) 
-  Class I - Spring Yearling Heifer (April 1, {prev_year} to June 30, {prev_year}) 
-  Class J - Winter Yearling Heifer (January 1, {prev_year} to March 31, {prev_year}) 
+  Class H - Summer Yearling Heifer (July 1, {{config.prev_year}} to August 31, {{config.prev_year}}) 
+  Class I - Spring Yearling Heifer (April 1, {{config.prev_year}} to June 30, {{config.prev_year}}) 
+  Class J - Winter Yearling Heifer (January 1, {{config.prev_year}} to March 31, {{config.prev_year}}) 
   Class K - Fall Yearling Heifer (September 30, {prev_prev_year} to December 31, {prev_prev_year}) 
   Open - Grand & Reserve Yearling Champion (1st and 2nd place from Classes H-K)
   Youth - Grand & Reserve Yearling Champion (1st and 2nd place from Classes H-K)

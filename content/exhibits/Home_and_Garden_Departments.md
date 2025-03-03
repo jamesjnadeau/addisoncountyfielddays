@@ -346,7 +346,7 @@ THIS ART EXHIBITION IS FOR AMATEURS. (A professional artist is one who creates w
 
 1. Age groups for entries are: Youth 4-12, Teen 13-18, Adult 19 and older.
 2. The superintendent will refuse work that is deemed to be craftwork, i.e. paint by number and predesigned kits. All work must be the artist’s original and rendered by hand. No air brushed, computer generated or mechanically enhanced works will be accepted. No work that is graphic design or lettering will be accepted.
-3. Work entered must have been completed since the date of the last fair, August {prev_year}, and should not have been previously exhibited.
+3. Work entered must have been completed since the date of the last fair, August {{config.prev_year}}, and should not have been previously exhibited.
 4. Size restrictions. The maximum size for each piece, including the frame, is 20”x30” or a total frame perimeter of 100”.
 5. Entries must consist of a single image. No multiple images or sets are allowed.
 6. Framing instructions. All work must be suitably framed. However, unframed, “gallery wrapped” canvases, with a depth of 1½” or greater and with the edges painted are acceptable. Glass and plexiglass are acceptable and encouraged, but not required. Judges take matting and framing into account when evaluating all work.
