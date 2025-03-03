@@ -1,0 +1,279 @@
+@use './animate.css';
+
+$gray-base:              #000;
+$font-family-sans-serif:  'Noto Sans', serif;
+$font-size-root:        1.25em;
+$red:                   #ba3030;
+$blue:                  #2489ce;
+$beige:                 #e8e8e8;
+
+$gray-base:              #000;
+$gray-darker:            lighten($gray-base, 13.5%); // #222
+$gray-dark:              lighten($gray-base, 20%);   // #333
+//@gray:                   lighten(@gray-base, 33.5%); // #555
+$gray:                   #d5d5d5; // #555
+$gray-light:             lighten($gray-base, 46.7%); // #777
+$gray-lighter:           lighten($gray-base, 93.5%); // #eee
+$brand-primary:         $red;
+$brand-secondary:       $blue;
+$brand-dark:            #005624; //#007a33; // @blac,
+$brand-success:         #060706;
+$brand-info:            $beige;
+$brand-warning:         #f0ad4e;
+$brand-danger:          $red;
+$body-bg:               #fff;
+$font-family-sans-serif:  $font-family-sans-serif;
+$font-family-serif:       'Noto Serif';
+//** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
+$font-family-base:        $font-family-sans-serif;
+$screen-md:                  992px;
+
+$accordion-btn-padding-y: 1rem;
+$accordion-body-padding-x: 1rem;
+$accordion-body-padding-y: 1rem;
+
+@import "bootstrap/scss/bootstrap";
+// @use "bootstrap/scss/bootstrap" with (
+//   $black:                 #181818,
+//   $blue:                  $blue,
+//   $blue-dark:             #2A3F53, // Dark Blue in header/buttons
+//   $blue-light:            #54738b, // Dark Blue in header/buttons
+//   $red:                   #ba3030,
+//   $beige:                 #e8e8e8,
+//   $gray-base:              #000,
+//   $gray-darker:            color.scale($gray-base, $lightness: 13.5%)l, // #222
+//   $gray-dark:              color.scale($gray-base, $lightness: 20%),   // #333
+//   //@gray:                   lighten(@gray-base, 33.5%); // #555
+//   $gray:                   #d5d5d5, // #555
+//   $gray-light:             color.scale($gray-base, $lightness: 46.7%), // #777
+//   $gray-lighter:           color.scale($gray-base, $lightness: 93.5%), // #eee
+//   $brand-primary:         $red,
+//   $brand-secondary:       $blue,
+//   $brand-dark:            #007a33, // @blac,
+//   $brand-success:         #5cb85c,
+//   $brand-info:            $beige,
+//   $brand-warning:         #f0ad4e,
+//   $brand-danger:          $red,
+//   $body-bg:               #fff,
+//   $font-family-sans-serif:  $font-family-sans-serif,
+//   $font-family-serif:       'Noto Serif',
+//   //** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
+//   $font-family-base:        $font-family-sans-serif
+// );
+
+@import url('https://fonts.googleapis.com/css2?family=Rye&display=swap');
+
+// @import url('https://fonts.googleapis.com/css2?family=New+Rocker&display=swap');
+$highlight-font:        "Rye", serif;
+
+body {
+  // font-size: 1.5em;
+}
+
+.text-fancy {
+  font-family: $highlight-font, cursive;
+}
+
+#header.navbar img {
+  max-width: 3.5rem;
+  // @include media-breakpoint-up(sm) {
+  //   max-width: rem;
+  // }
+  // @include media-breakpoint-up(md) { 
+  //   max-width: 3.5rem;
+  // }
+  // @include media-breakpoint-up(lg) { 
+  //   max-width: 3.5rem;
+  // }
+}
+#header a.navbar-brand {
+  color: #FFF;
+  font-family: $highlight-font, cursive;
+  font-size: .65rem;
+  // font-stretch: 100%;
+  padding-left: 10px;
+  box-sizing: content-box;
+  @include media-breakpoint-up(sm) {
+    font-size: .85rem;
+  }
+  @include media-breakpoint-up(md) { 
+    font-size: 1rem;
+  }
+  @include media-breakpoint-up(lg) { 
+    font-size: 1.5rem;
+  }
+
+}
+#header.navbar {
+  font-family: $highlight-font, cursive;
+  font-size: 25px;
+  z-index: 10;
+}
+#header.navbar.navbar-dark{
+  border-color: #fff;
+  color: #fff !important;
+  margin-right: 15px;
+  margin-top: 15px;
+  margin-bottom: 0px;
+  background-color: #005624;
+}
+
+#navbarSupportedContent {
+  a {
+    text-decoration: none;
+    color: #fff;
+    display: inline-block;
+    position: relative;
+  }  
+
+  a:hover::after {
+    transform: scaleX(1);
+    transform-origin: bottom center;
+  }
+
+  a::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: #ffffff;
+    transition: transform 0.25s ease-out;
+  }
+
+  font-size: 1rem;
+  @include media-breakpoint-up(md) { 
+    font-size: .85rem;
+  }
+  @include media-breakpoint-up(lg) { 
+    font-size: 1.5rem;
+  }
+} 
+
+#wrap-content {
+  min-height: 100vh;
+}
+
+.jumbotron {
+  font-family: $highlight-font, cursive;
+  padding: 0;
+  margin: auto;
+  img {
+    max-width: 100%;
+  }
+}
+
+#container.container {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+h1 {
+  margin-bottom: 22px;
+  font-family: $highlight-font, cursive;
+}
+
+p {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.fixed-width {
+  max-width: 1000px;
+  margin: auto;
+  img {
+    max-width: 100%;
+  }
+}
+
+.pointer-hand {
+  cursor: pointer;
+}
+
+.footer {
+  font-size: 12px;
+}
+
+.btn {
+  font-family: $highlight-font, cursive;
+  white-space: break-spaces;
+}
+
+hr {
+  border-width: thick 0 0 0;
+  border-style: dotted;
+  border-color: $brand-dark;
+}
+
+.markdown-content {
+  h1 {
+    text-align: center;
+    text-transform: capitalize;
+  }
+  h2 {
+    margin-top: 3em;
+    border-bottom: $brand-dark .1em dashed;
+  }
+  h3 {
+    text-decoration: $brand-dark .05em dashed underline;
+    text-underline-position: under;
+  }
+
+  h2, h3, h4:not(.panel-title), h5, h6 {
+    text-transform: capitalize;
+    margin-top: 2em;
+  }
+
+  h4.panel-title {
+    font-size: 1.2em;
+  }
+
+  // ensure proper scroll to position on anchor
+  // see https://stackoverflow.com/a/24298427/1978759
+  [id]::before {
+    content: '';
+    display: block;
+    height:      85px;
+    margin-top: -85px;
+    visibility: hidden;
+  }
+}
+
+.form-control {
+  height: 100%;
+}
+
+@media (max-width: $screen-md) {
+  body {
+    font-size: 1.5em;
+  }
+  #header.navbar {
+    margin-right: 1.5em;
+  }
+  a.navbar-brand {
+    font-size: 1.5em;
+    padding-top: 1em;
+    max-width: 70%;
+  }
+  #container.container {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .btn-group-lg>.btn, .btn-lg {
+    padding: 4px;
+    font-size: 1.5em;
+  }
+  
+}
+
+.accordion-body, .accordion-header {
+  border: 1px dotted;
+}
+
+h2.accordion-header button {
+  font-size: 1.5rem;
+}
+
+
