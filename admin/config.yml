@@ -14,23 +14,26 @@ display_url: https://www.addisoncountyfielddays.com/
 
 
 collections:
-
   - name: "md" # Used in routes, e.g., /admin/collections/blog
     label: "Markdown Pages - Easy" # Used in the UI
+    label_singular: 'Markdown Page'
     folder: "content/" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
-    slug: "{{slug}}" # Filename template, e.g., title.md
-    preview_path: "{{slug}}"
+    # slug: "{{slug}}" # Filename template, e.g., title.md
+    preview_path: "{{dirname}}/{{filename}}"
+    summary: "{{Title}} > /{{dirname}}/{{filename}}.{{extension}}"
     format: frontmatter
     extension: md
+    identifier_field: "Title"
     nested:
-      depth: 3
-      summary: '{{slug}} - {{title}}' # optional summary for a tree node, defaults to the inferred title field
-    meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
+      depth: 5
+      # summary: '{{Title}} > {{slug}}' # optional summary for a tree node, defaults to the inferred title field
+    meta: { path: { widget: hidden, label: 'Path', index_file: 'index' } }
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+
   - name: pug
     label: Pug Pages - Hard
     label_singular: 'Pug Page'
@@ -40,14 +43,14 @@ collections:
     extension: pug
     identifier_field: "Title"
     preview_path: "{{dirname}}/{{filename}}"
-    summary: "{{dirname}}/{{filename}}.{{extension}}" #  - {{Title}}
+    summary: "{{Title}} > /{{dirname}}/{{filename}}.{{extension}}" #  
     # adding a nested object will show the collection folder structure
     nested:
-      depth: 3 # max depth to show in the collection tree
-      summary: '{{slug}} - {{title}}' # optional summary for a tree node, defaults to the inferred title field
+      depth: 5 # max depth to show in the collection tree
+      # summary: '{{slug}} - {{Title}}' # optional summary for a tree node, defaults to the inferred title field
     # adding a meta object with a path property allows editing the path of entries
     # moving an existing entry will move the entire sub tree of the entry to the new location
-    meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
+    meta: { path: { widget: hidden, label: 'Path', index_file: 'index' } }
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "Description", widget: "text"}

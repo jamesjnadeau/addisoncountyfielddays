@@ -66,10 +66,6 @@ $accordion-body-padding-y: 1rem;
 // @import url('https://fonts.googleapis.com/css2?family=New+Rocker&display=swap');
 $highlight-font:        "Rye", serif;
 
-body {
-  // font-size: 1.5em;
-}
-
 .text-fancy {
   font-family: $highlight-font, cursive;
 }
@@ -245,9 +241,6 @@ hr {
 }
 
 @media (max-width: $screen-md) {
-  body {
-    font-size: 1.5em;
-  }
   #header.navbar {
     margin-right: 1.5em;
   }
