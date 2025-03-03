@@ -1,6 +1,6 @@
 {
   "name": "addisoncountyfielddays",
-  "version": "1.00",
+  "version": "1.0.0",
   "description": "A static website for Addison County Fair and Field Days.",
   "type": "module",
   "engines": {
