@@ -5,7 +5,7 @@ Description: Exibit information and entry rules
 
 # Sheep Shows and Exhibits
 
-[[TOC]]
+[[toc]]
 
 # SHEEP EXHIBIT
 

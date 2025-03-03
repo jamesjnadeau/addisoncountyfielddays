@@ -4,7 +4,7 @@ Description: Exibit information and entry rules
 ---
 # Horse Shows
 
-\[[TOC]]
+\[[toc]]
 
 # OPEN HORSE SHOW
 

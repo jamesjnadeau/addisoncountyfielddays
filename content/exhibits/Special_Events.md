@@ -4,7 +4,7 @@ Description: Exibit information and entry rules
 ---
 # SPECIAL EVENTS
 
-[[TOC]]
+[[toc]]
 
 ## RACK ‘N REEL’S SLING SHOT COMPETITION
 

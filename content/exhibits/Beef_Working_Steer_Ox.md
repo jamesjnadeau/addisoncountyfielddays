@@ -4,7 +4,7 @@ Description: Exhibit information and entry rules
 ---
 # COMBINED YOUTH AND OPEN BEEF SHOW
 
-[[TOC]]
+[[toc]]
 
 ## YOUTH AND OPEN WORKING STEER AND OX SHOW
 

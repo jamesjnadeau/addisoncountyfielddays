@@ -12,7 +12,7 @@ SUPERINTENDENT: Benj Deppman (802)734-1381
 JUDGE: Dave Stearns
 
 
-[[TOC]]
+[[toc]]
 
 ## Ox
 

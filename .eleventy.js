@@ -2,6 +2,9 @@
 import pugPlugin from "@11ty/eleventy-plugin-pug";
 import * as sass from "sass";
 import path from 'node:path';
+import markdownIt from "markdown-it";
+import toc from 'markdown-it-table-of-contents';
+
 
 let default_title = 'Addison County Fair and Field Days'
 let default_description = ''
@@ -11,6 +14,8 @@ export default async function(eleventyConfig) {
     // set input/ouput directories
     eleventyConfig.setInputDirectory("content");
     eleventyConfig.setOutputDirectory("built");
+
+    eleventyConfig.amendLibrary("md", (mdLib) => mdLib.use(toc));
 
     // use pug plugin, 
     // global.eleventyNavigationPlugin = eleventyNavigationPlugin.navigation; // see https://github.com/11ty/eleventy-plugin-template-languages/issues/1#issuecomment-2221156643

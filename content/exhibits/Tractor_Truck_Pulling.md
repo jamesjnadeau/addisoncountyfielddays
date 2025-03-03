@@ -4,7 +4,7 @@ Description: Exibit information and entry rules
 ---
 
 # Tractor & Truck Pulling
-[[TOC]]
+[[toc]]
 
 
 ## Tractor Pulling

@@ -6,7 +6,7 @@ Description: Exibit information and entry rules
 
 # CHILDREN’S BARNYARD
 
-[[TOC]]
+[[toc]]
 
 DIRECTOR: Tricia Foster, 233-2821
 Pam Gevry, 373-8069

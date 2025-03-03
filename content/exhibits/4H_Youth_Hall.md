@@ -7,7 +7,7 @@ Description: Exhibit information and entry rules
 
 # CLASSES FOR 4-H AND OTHER YOUTH
 
-[[TOC]]
+[[toc]]
 
 ## THE 4-H PLEDGE
 

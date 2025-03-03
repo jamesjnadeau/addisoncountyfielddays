@@ -23,31 +23,31 @@ html(lang='en')
     nav#header.navbar.navbar-expand-lg.navbar-dark.m-0
       //- .d-flex.justify-content-between
       .container-fluid
-        img.pull-left.brand.hidden-xs.hidden-sm(src="/files/logo.jpg")
+        img.pull-left.brand(src="/files/logo.png")
         a.navbar-brand.brand(href='/') Addison County Fair
           br
           | & Field Days
         button.navbar-toggler(type='button', data-bs-toggle='collapse', data-bs-target='#navbarSupportedContent', aria-controls='navbarSupportedContent', aria-expanded='false', aria-label='Toggle navigation')
           span.navbar-toggler-icon
-        #navbarSupportedContent.navbar-collapse
+        #navbarSupportedContent.navbar-collapse.collapse
           ul.navbar-nav.d-flex.justify-content-around.align-items-center.w-100
-                li
+                li.p-1
                   a(href='/information/') General Information
-                li
+                li.p-1
                   a(href='/schedule/') Schedule
-                li
+                li.p-1
                   a(href='/exhibits/') Exhibits
-                li
+                li.p-1
                     a(href='/forms/') Forms
     #wrap-content(data-barba="wrapper")  
-      #container.container.animate__animated.animate__zoomIn(data-barba="container" data-barba-namespace=page.url)
+      #container.container.mx-auto.animate__animated.animate__zoomIn(data-barba="container" data-barba-namespace=page.url)
         block content
           div !{content}
 
     footer.footer
       .container
         - var year = new Date().getFullYear();
-        p.text-center &copy; Copyright ##{year}
+        p.text-center &copy; #{year}
         p.text-muted.text-center
           | This site was crafted by&nbsp;
           a(href="https://jamesjnadeau.com") James Nadeau
@@ -60,15 +60,11 @@ html(lang='en')
     script.
       // Style tables in markdown content
       $('.markdown-content table').addClass('table table-striped table-hover');
-
-      $('.toggle-all-panels').on('click', function () {
-        $('.panel-collapse').collapse('show');
-      });
     
     script.
     
       var inAnimationClass = 'animate__zoomIn';
-      var outAnimationClass = 'animate__zoomOutUp';
+      var outAnimationClass = 'animate__rotateOutDownRight';
       barba.init({
         transitions: [{
           name: 'default-transition',

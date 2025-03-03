@@ -61,43 +61,51 @@ $accordion-body-padding-y: 1rem;
 //   $font-family-base:        $font-family-sans-serif
 // );
 
-// @import url('https://fonts.googleapis.com/css?family=Rye&display=swap');
-/* latin-ext */
-@font-face {
-  font-family: 'Rye';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/rye/v15/r05XGLJT86YzH57tbOo.woff2) format('woff2');
-  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
-}
-/* latin */
-@font-face {
-  font-family: 'Rye';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/rye/v15/r05XGLJT86YzEZ7t.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
+@import url('https://fonts.googleapis.com/css2?family=Rye&display=swap');
+
+// @import url('https://fonts.googleapis.com/css2?family=New+Rocker&display=swap');
+$highlight-font:        "Rye", serif;
 
 body {
   // font-size: 1.5em;
 }
 
-#header.navbar img {
-  max-width: 3.5em;
+.text-fancy {
+  font-family: $highlight-font, cursive;
 }
-a.navbar-brand {
+
+#header.navbar img {
+  max-width: 3.5rem;
+  // @include media-breakpoint-up(sm) {
+  //   max-width: rem;
+  // }
+  // @include media-breakpoint-up(md) { 
+  //   max-width: 3.5rem;
+  // }
+  // @include media-breakpoint-up(lg) { 
+  //   max-width: 3.5rem;
+  // }
+}
+#header a.navbar-brand {
   color: #FFF;
-  font-family: 'Rye', cursive;
-  font-size: 1em;
+  font-family: $highlight-font, cursive;
+  font-size: .65rem;
   // font-stretch: 100%;
   padding-left: 10px;
   box-sizing: content-box;
+  @include media-breakpoint-up(sm) {
+    font-size: .85rem;
+  }
+  @include media-breakpoint-up(md) { 
+    font-size: 1rem;
+  }
+  @include media-breakpoint-up(lg) { 
+    font-size: 1.5rem;
+  }
+
 }
 #header.navbar {
-  font-family: 'Rye', cursive;
+  font-family: $highlight-font, cursive;
   font-size: 25px;
   z-index: 10;
 }
@@ -134,6 +142,14 @@ a.navbar-brand {
     background-color: #ffffff;
     transition: transform 0.25s ease-out;
   }
+
+  font-size: 1rem;
+  @include media-breakpoint-up(md) { 
+    font-size: .85rem;
+  }
+  @include media-breakpoint-up(lg) { 
+    font-size: 1.5rem;
+  }
 } 
 
 #wrap-content {
@@ -141,7 +157,7 @@ a.navbar-brand {
 }
 
 .jumbotron {
-  font-family: 'Rye', cursive;
+  font-family: $highlight-font, cursive;
   padding: 0;
   margin: auto;
   img {
@@ -156,7 +172,7 @@ a.navbar-brand {
 
 h1 {
   margin-bottom: 22px;
-  font-family: 'Rye', cursive;
+  font-family: $highlight-font, cursive;
 }
 
 p {
@@ -164,7 +180,7 @@ p {
 }
 
 .fixed-width {
-  max-width: 800px;
+  max-width: 1000px;
   margin: auto;
   img {
     max-width: 100%;
@@ -180,7 +196,7 @@ p {
 }
 
 .btn {
-  font-family: 'Rye', cursive;
+  font-family: $highlight-font, cursive;
   white-space: break-spaces;
 }
 
