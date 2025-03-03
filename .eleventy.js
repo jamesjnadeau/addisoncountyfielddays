@@ -26,7 +26,6 @@ let pug_replace_config_variables_filter = function(text, options) {
     let temp = text;
     for(var key in config) {
         let value = config[key]
-        console.log(`${key} ${value}`)
         temp = temp.replaceAll(`{{config.${key}}}`, value)
     }
     return temp;
