@@ -8,7 +8,7 @@ description: Exibit information and entry rules
 
 # OPEN HORSE SHOW
 
-Thursday, August #{thursday}, {{year}} 8:00 am. — Rain or Shine 
+Thursday, August #{config.thursday}, {{config.year}} 8:00 am. — Rain or Shine 
 
 JUDGE: Elizabeth Pope; 
 
@@ -19,7 +19,7 @@ CO-MANAGERS:
 * Jessica Stuart, Essex Junction, VT, 802-233-3013; 
 * Bailee Layn, Bristol, VT, 802-922-1653,
 
-Entries close by postmark of July 31, {{year}}.
+Entries close by postmark of July 31, {{config.year}}.
 Day stabling only: First come, frst served basis @$15.00(box). 
 $5.00 refunded if left clean and checked by show management.
 
@@ -59,7 +59,7 @@ PARKING THEM & NO DOGSALLOWED.**
     TO YOUR ENTRY –IT WILL NOT BE RETURNED. HORSES CANNOT BE UNLOADED WITHOUT
     PROOF OF SHOTS. THIS IS A VERMONT STATE FAIRS MANDATE. NAME OF HORSE SHOULD
     BE THE SAME ON ENTRY BLANK AND RABIES CERTIFICATE.
-13. All ages are as of 1/1/{{year}}.
+13. All ages are as of 1/1/{{config.year}}.
 14. Lunch break to be announced.
 15. Health certifcate & negative Coggins required for all out-of-state horses.
 16. NO ONE SHALL APPROACH A JUDGE WITH REGARD TO A DECISION UNLESS
@@ -80,7 +80,7 @@ Subject to Change
 4. Very Small Equines (44 inches) In-Hand *
 5. Hunter Model
 6. Open in Hand *
-7. Weanling Class ({{year}} foals) (Mares not allowed in ring
+7. Weanling Class ({{config.year}} foals) (Mares not allowed in ring
 8. Yearling Class ({prev_year} foals)
 9. Two Year Olds ({prev_prev_year} foals) 
 

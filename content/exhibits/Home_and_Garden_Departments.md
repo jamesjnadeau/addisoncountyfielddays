@@ -30,7 +30,7 @@ DIRECTOR: Megan Sutton, 802-545-2475
 
 ## GENERAL GUIDLINES
 
-1. All entries will be accepted on Monday, August {{monday}}, from 9:00 a.m. to 12:30 p.m. Entries in the Handicrafts, Foods, Garden Products, Art & Photography departments will also be accepted on Sunday, August {{sunday}}, from 1:00 p.m. to 4:00 p.m. Note that all items will be judged on Monday afternoon.
+1. All entries will be accepted on Monday, August {{config.monday}}, from 9:00 a.m. to 12:30 p.m. Entries in the Handicrafts, Foods, Garden Products, Art & Photography departments will also be accepted on Sunday, August {{config.sunday}}, from 1:00 p.m. to 4:00 p.m. Note that all items will be judged on Monday afternoon.
 2. Exhibitors of all ages are welcome and do not need to be residents of Addison County. With the exception of the Commercial contests in the Flower Show and Garden Products departments, these contests are for amateurs: those who do not regularly sell their products, nor are paid for teaching their skills.
 3. A completed entry form must accompany all items to be displayed - one for each department. Each item should be listed, with no more than one item entered for an exhibitor in a class. A receipt will be given for each item.
 4. Items will be judged according to the Danish System: ranked by points as excellent, good, or fair, and awarded ribbons for merit. Perfect scores will receive a $5.00 premium. Our generous sponsors provide us with special prizes, which are listed in each department. The Awards Ceremony will be held Saturday at 5:00 p.m. in the Home and Garden Building. Winners will be notified and are encouraged to attend.
@@ -340,7 +340,7 @@ SUPERINTENDENT: Bart Healy (802)759-2347
 
 ## RULES
 
-These Rules apply along with and in addition to the General Rules for the Home 8: Garden Department, and the General Rules of Addison County Fair & Field Days. Entries will be accepted at the HOME & GARDEN CENTER BUILDING on Monday, August {{monday}} between 9:00 am. & 12:30 pm. Entries forthis department will, also, be accepted on Sunday, August {{sunday}} between 1-4 pm.
+These Rules apply along with and in addition to the General Rules for the Home 8: Garden Department, and the General Rules of Addison County Fair & Field Days. Entries will be accepted at the HOME & GARDEN CENTER BUILDING on Monday, August {{config.monday}} between 9:00 am. & 12:30 pm. Entries forthis department will, also, be accepted on Sunday, August {{config.sunday}} between 1-4 pm.
 
 THIS ART EXHIBITION IS FOR AMATEURS. (A professional artist is one who creates with intent to sell; exhibits at a recognized gallery, or who derives their living from their art work.)
 
@@ -454,7 +454,7 @@ SUPERINTENDENTS: Lynn Clohessy, 989-2752
 
 ### RULES
 
-Please read carefully. These Rules apply along with and in addition to the General Rules for the Home & Garden Department and the General Rules of Addison County Fair & Field Days. Entries will be accepted at the HOME 8: GARDEN CENTER BUILDING on Monday, August {{monday}} between 9:00 am. & 12:30 pm. Floral entries are discouraged from being entered during Sunday acceptance hours to ensure freshness. Plant classes are welcome both days.
+Please read carefully. These Rules apply along with and in addition to the General Rules for the Home & Garden Department and the General Rules of Addison County Fair & Field Days. Entries will be accepted at the HOME 8: GARDEN CENTER BUILDING on Monday, August {{config.monday}} between 9:00 am. & 12:30 pm. Floral entries are discouraged from being entered during Sunday acceptance hours to ensure freshness. Plant classes are welcome both days.
 
 1. Exhibitors must bring their own containers.
 2. All floral arrangements will bejudged on horticultural perfection as well as artistic arrangement.
@@ -600,7 +600,7 @@ Please read carefully.
 
 These Rules apply along with and in addition to the General Rules for the Home & Garden Department, and the General Rules of Addison County Fair 8: Field Days.
 
-Entries will be accepted at the HOME & GARDEN CENTER BUILDING on Sunday, Aug {{sunday}} from 1-4pm and Monday, Aug {{monday}} from 9:30-12:30pm
+Entries will be accepted at the HOME & GARDEN CENTER BUILDING on Sunday, Aug {{config.sunday}} from 1-4pm and Monday, Aug {{config.monday}} from 9:30-12:30pm
 
 Judging takes place Monday afternoon. Items entered on Sunday will not be as fresh as those entered on Monday.
 
@@ -872,7 +872,7 @@ Special Rules: **NEW** Only one jar needed for each entry. Entries will be judge
 
 # ANNUAL LEONA THOMPSON BOWL AWARD
 
-Carrying on a tradition started in 1974 by the Addison County Extension Homemakers Council, The Leona Thompson Bowl Award will be presented to the best all-around participant in the {{year}} Field Days Foods and Handicrafts Departments.
+Carrying on a tradition started in 1974 by the Addison County Extension Homemakers Council, The Leona Thompson Bowl Award will be presented to the best all-around participant in the {{config.year}} Field Days Foods and Handicrafts Departments.
 
 The pewter bowl trophy, displayed at Middlebury Sew-N-Vac in Middlebury, bears the names of proud winners of this coveted trophy honoring Leona Thompson, former Addison County Extension Service Agent. Previous winners are:
 

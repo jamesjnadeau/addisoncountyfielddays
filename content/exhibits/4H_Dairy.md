@@ -92,8 +92,8 @@ All livestock must comply with the following health requirements. Livestock incl
 
 CONFORMATION CLASSES (Tuesday) $2.00/class
 
-1. Spring Calf — born between March 1 , {{year}},  and April 30 , {{year}} 
-2. Winter Calf — born between December 1, {prev_year} and February 28, {{year}}.
+1. Spring Calf — born between March 1 , {{config.year}},  and April 30 , {{config.year}} 
+2. Winter Calf — born between December 1, {prev_year} and February 28, {{config.year}}.
 3. Fall Calf — born between September 1, {prev_year} and November 30, {prev_year}.
 4. Summer Yearling Heifer— born between June 1, {prev_year} and August 31, {prev_year}.
 5. Spring Yearling Heifer — born between March 1, {prev_year} and May 31, {prev_year}.
@@ -116,17 +116,17 @@ $2.00/class
 
 A﻿LL CLASSES ARE ON AGE OF YOUTH AS OF January 1st of the current year.
 
-* Novice Class Division A: Member 8 years of age (as of January 1, {{year}}) who has never
+* Novice Class Division A: Member 8 years of age (as of January 1, {{config.year}}) who has never
   shown before.
-* Novice Class Division B: Member 9-11 years of age (as of January 1, {{year}}) and under
+* Novice Class Division B: Member 9-11 years of age (as of January 1, {{config.year}}) and under
   who have not shown an animal before. NOTE: Superintendents reserve the right to
   divide classes according to size.
-* Junior Division : 11 years of age and under as of January 1, {{year}}
+* Junior Division : 11 years of age and under as of January 1, {{config.year}}
   Junior Champion Showman-All First Place showmen compete from Junior Division
   Showmanship classes.
-* Intermediate Division: 12 to 14 years of age as of Jan 1, {{year}}.
+* Intermediate Division: 12 to 14 years of age as of Jan 1, {{config.year}}.
 * Intermediate Champion Showman & All First Place Winners from Intermediate classes.
-* Senior Division: Age 15 to 18 years as of January 1, {{year}}.
+* Senior Division: Age 15 to 18 years as of January 1, {{config.year}}.
 * Senior Champion Showman--All First Place winners from Senior Showmanship division
   classes. (In the event that the First Place winner in this class is a previous winner, then
   the first eligible winner will compete}.

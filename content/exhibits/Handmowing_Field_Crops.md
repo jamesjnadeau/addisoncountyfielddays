@@ -5,11 +5,12 @@ description: Exibit information and entry rules for Field Crops & Handmowing at 
 
 [[toc]]
 
-
 # FIELD CROPS
-## NEW CROPS SUPERINTENDENT: Abigail Augraten-abigail.augraten@uvm.edu
 
-ENTRY DEADLINE: Monday, August 7, 2024-All Products in by 12:00 noon
+##### SUPERINTENDENT: Abigail Augraten-abigail.augraten@uvm.edu
+
+**ENTRY DEADLINE:** Monday, August {{config.monday}}, {{config.year}}-All Products in by 12:00 noon
+
 
 ## Rules
 1. Limit one (1) entry in each class. All entries must be produced on the exhibitor’s farm.

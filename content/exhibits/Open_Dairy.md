@@ -105,8 +105,8 @@ bedding or will be able to buy shavings at the fair.
 
 Limit of one group per exhibitor in each group classes.
 
-1. Spring Heifer March -May 10, {{year}}
-2. Winter Heifer December {prev_year}-February 28, {{year}}
+1. Spring Heifer March -May 10, {{config.year}}
+2. Winter Heifer December {prev_year}-February 28, {{config.year}}
 3. Fall Heifer September -November {prev_year}
 4. Summer Yearling June-August {prev_year}
 5. Spring Yearling March-May {prev_year}

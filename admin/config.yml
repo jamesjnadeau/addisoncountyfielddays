@@ -55,3 +55,21 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "pug", output_code_only: true, default_language: "pug", allow_language_selection: false}
+
+  - label: "Config"
+    name: "config"
+    files:
+      - label: "Date/Year Config"
+        name: "config"
+        file: "content/_data/config.yaml"
+        fields:
+          - {label: Year, name: year, widget: string}
+          - {label: "Previous Year", name: prev_year, widget: string}
+          - {label: "Sunday Date", name: sunday, widget: string}
+          - {label: "Monday Date", name: monday, widget: string}
+          - {label: "Tuesday Date", name: tuesday, widget: string}
+          - {label: "Wednesday Date", name: wednesday, widget: string}
+          - {label: "Thursday Date", name: thursday, widget: string}
+          - {label: "Friday Date", name: friday, widget: string}
+          - {label: "Saturday Date", name: saturday, widget: string}
+          

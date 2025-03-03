@@ -47,7 +47,7 @@ html(lang='en')
     footer.footer
       .container
         - var year = new Date().getFullYear();
-        p.text-center &copy; #{year}
+        p.text-center &copy; #{config.year}
         p.text-muted.text-center
           | This site was crafted by&nbsp;
           a(href="https://jamesjnadeau.com") James Nadeau
@@ -62,7 +62,7 @@ html(lang='en')
       $('.markdown-content table').addClass('table table-striped table-hover');
     
     script.
-    
+      //- var $body = $('body');
       var inAnimationClass = 'animate__zoomIn';
       var outAnimationClass = 'animate__rotateOutDownRight';
       barba.init({
@@ -75,11 +75,24 @@ html(lang='en')
             var promise = new Promise(function(resolve, reject) {
               target.addEventListener('animationend', function(event) {
                 target.style.display = 'none'; // hide leaving page after animation is complete
+                //- $body.animate({ scrollTop: 0 });
+                //- $('body').scrollTop(0);
+                //- console.log('scrolling');
                 resolve();
               },{once: true}); // remove event after run once
             });
             return promise;
           },
+          //- beforeEnter() {
+          //-   var promise = new Promise(function(resolve, reject) {
+          //-     $('body').stop().animate({scrollTop:0}, 500, 'swing', function() { 
+          //-       resolve()
+          //-     });
+          //-   });
+          //-   //- $body.animate({ scrollTop: 0 });
+          //-   //- console.log('scrolling');
+          //-   return promise;
+          //- },
           enter(data) {
             target = data.next.container
             target.classList.remove('animate__animated');

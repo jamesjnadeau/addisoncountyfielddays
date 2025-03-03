@@ -4,6 +4,7 @@ import * as sass from "sass";
 import path from 'node:path';
 import markdownIt from "markdown-it";
 import toc from 'markdown-it-table-of-contents';
+import yaml from "js-yaml";
 
 
 let default_title = 'Addison County Fair and Field Days'
@@ -38,16 +39,9 @@ export default async function(eleventyConfig) {
     eleventyConfig.addGlobalData("title", default_title);
     eleventyConfig.addGlobalData("description", default_description);
 
-    // settings used for dates in templates
-    eleventyConfig.addGlobalData("year", "2025");
-    eleventyConfig.addGlobalData("prev_year", "2024");
-    eleventyConfig.addGlobalData("sunday", "27th");
-    eleventyConfig.addGlobalData("monday", "28th");
-    eleventyConfig.addGlobalData("tuesday", "29th");
-    eleventyConfig.addGlobalData("wednesday", "30th");
-    eleventyConfig.addGlobalData("thursday", "31st");
-    eleventyConfig.addGlobalData("friday", "1st");
-    eleventyConfig.addGlobalData("saturday", "2nd");
+    // support yaml data files
+    eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));
+    // this is used to load the config file
 
     // Directory Passthroughs
     // Copy `files/` to `/`

@@ -5,7 +5,7 @@ description: Exibit information and entry rules
 
 # CASH BACK GYMKHANA
 
-TUESDAY, AUGUST {{tuesday}}, {{year}} @ 5:00 PM* 1790 FIELD DAYS RD, NEW HAVEN VT, 05491
+TUESDAY, AUGUST {{config.tuesday}}, {{config.year}} @ 5:00 PM* 1790 FIELD DAYS RD, NEW HAVEN VT, 05491
 
 *Cash back will be awarded to the Top 5 riders in each event* Cost: $35; pre-registration required by July 30th for free gate passes!
 
