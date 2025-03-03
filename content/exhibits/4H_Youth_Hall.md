@@ -1,6 +1,6 @@
 ---
 title: CLASSES FOR 4-H AND OTHER YOUTH
-Description: Exhibit information and entry rules
+description: Exhibit information and entry rules
 ---
 
 

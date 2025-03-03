@@ -1,6 +1,6 @@
 ---
 title: GOAT SHOW
-Description: |
+description: |
   Exibit information and entry rules
 ---
 # GOAT SHOW

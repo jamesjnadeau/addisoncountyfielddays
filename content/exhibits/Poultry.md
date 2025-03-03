@@ -1,7 +1,7 @@
 ---
 title: OPEN POULTRY SHOW
 
-Description: Exibit information and entry rules
+description: Exibit information and entry rules
 ---
 
 # OPEN POULTRY SHOW

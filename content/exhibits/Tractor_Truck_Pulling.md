@@ -1,6 +1,6 @@
 ---
 title: Tractor & Truck Pulling
-Description: Exibit information and entry rules
+description: Exibit information and entry rules
 ---
 
 # Tractor & Truck Pulling

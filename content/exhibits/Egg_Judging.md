@@ -1,6 +1,6 @@
 ---
 title: EGG JUDGING
-Description: Exibit information and entry rules
+description: Exibit information and entry rules
 ---
 
 # EGG JUDGING

@@ -1,6 +1,6 @@
 ---
 title: 2024 Dedication
-Description: We are dedicating this year’s fair to you
+description: We are dedicating this year’s fair to you
 ---
 # Dedication
 

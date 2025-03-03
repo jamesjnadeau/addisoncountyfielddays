@@ -1,6 +1,6 @@
 ---
 title: SPECIAL EVENTS
-Description: Exibit information and entry rules
+description: Exibit information and entry rules
 ---
 # SPECIAL EVENTS
 

@@ -1,6 +1,6 @@
 ---
 title: GYMKHANA
-Description: Exibit information and entry rules
+description: Exibit information and entry rules
 ---
 
 # CASH BACK GYMKHANA

@@ -1,6 +1,6 @@
 ---
 title: DEMOLITION DERBY
-Description: "*Exibit information and entry rules for the Addison County Fair
+description: "*Exibit information and entry rules for the Addison County Fair
   And Field Days Demolition Derby*"
 ---
 # DEMOLITION DERBY

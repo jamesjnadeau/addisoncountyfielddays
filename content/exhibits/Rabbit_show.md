@@ -1,6 +1,6 @@
 ---
 title: RABBIT SHOWMANSHIP
-Description: Exibit information and entry rules
+description: Exibit information and entry rules
 ---
 
 # 4-H & OTHER YOUTH RABBIT SHOWMANSHIP

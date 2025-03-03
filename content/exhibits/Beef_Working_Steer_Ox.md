@@ -1,6 +1,6 @@
 ---
 title: COMBINED YOUTH AND OPEN BEEF SHOW
-Description: Exhibit information and entry rules
+description: Exhibit information and entry rules
 ---
 # COMBINED YOUTH AND OPEN BEEF SHOW
 

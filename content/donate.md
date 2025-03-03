@@ -1,6 +1,6 @@
 ---
 title: Donate to the Fair
-Description: Plese help us with our Capital Campaign
+description: Plese help us with our Capital Campaign
 ---
 
 # Capital Campaign

@@ -1,6 +1,6 @@
 ---
 title: OPEN HORSE SHOW
-Description: Exibit information and entry rules
+description: Exibit information and entry rules
 ---
 # Horse Shows
 

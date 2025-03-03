@@ -1,6 +1,6 @@
 ---
 title: CHILDREN’S BARNYARD
-Description: Exibit information and entry rules
+description: Exibit information and entry rules
 ---
 
 

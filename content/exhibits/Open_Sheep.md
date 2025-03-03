@@ -1,6 +1,6 @@
 ---
 title: OPEN SHEEP SHOW
-Description: Exibit information and entry rules
+description: Exibit information and entry rules
 ---
 
 # Sheep Shows and Exhibits

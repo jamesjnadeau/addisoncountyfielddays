@@ -1,6 +1,6 @@
 ---
 title: 4-H Horse and Pony Exhibit
-Description: Exibit information and entry rules
+description: Exibit information and entry rules
 ---
 
 # 4-H AND OTHER YOUTH HORSE & PONY SHOWS

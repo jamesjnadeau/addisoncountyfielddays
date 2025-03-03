@@ -1,6 +1,6 @@
 ---
 title: Rules and Regulations
-Description: The Rules and Regulations applying to all who attend the fair
+description: The Rules and Regulations applying to all who attend the fair
 ---
 # Addison County Fair & Field Days, Inc.
 

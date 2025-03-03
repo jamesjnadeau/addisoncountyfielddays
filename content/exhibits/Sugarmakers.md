@@ -1,6 +1,6 @@
 ---
 title: Sugarmakers
-Description: Exibit information and entry rules
+description: Exibit information and entry rules
 ---
 
 # ADDISON COUNTY MAPLE SUGARMAKERS’ ASSOCIATION SUGARHOIISE
