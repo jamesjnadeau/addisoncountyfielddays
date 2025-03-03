@@ -1,5 +1,5 @@
 ---
-Title: GOAT SHOW
+title: GOAT SHOW
 Description: |
   Exibit information and entry rules
 ---

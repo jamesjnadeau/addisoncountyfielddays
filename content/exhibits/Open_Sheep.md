@@ -1,5 +1,5 @@
 ---
-Title: OPEN SHEEP SHOW
+title: OPEN SHEEP SHOW
 Description: Exibit information and entry rules
 ---
 

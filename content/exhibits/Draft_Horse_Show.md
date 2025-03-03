@@ -1,5 +1,5 @@
 ---
-Title: DRAFT HORSE SHOW
+title: DRAFT HORSE SHOW
 Description: Exibit information and entry rules for the Draft Horse Show
 ---
 Addison County Fair & Field Days Draft Horse Show

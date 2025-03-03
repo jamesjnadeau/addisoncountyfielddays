@@ -1,5 +1,5 @@
 ---
-Title: OPEN HORSE SHOW
+title: OPEN HORSE SHOW
 Description: Exibit information and entry rules
 ---
 # Horse Shows

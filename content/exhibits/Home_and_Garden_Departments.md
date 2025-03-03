@@ -1,5 +1,5 @@
 ---
-Title: HOME & GARDEN DEPARTMENTS, CONTESTS, & EXHIBITS
+title: HOME & GARDEN DEPARTMENTS, CONTESTS, & EXHIBITS
 Description: Exibit information and entry rules
 ---
 # HOME & GARDEN DEPARTMENTS, CONTESTS, & EXHIBITS

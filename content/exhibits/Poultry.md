@@ -1,5 +1,5 @@
 ---
-Title: OPEN POULTRY SHOW
+title: OPEN POULTRY SHOW
 
 Description: Exibit information and entry rules
 ---

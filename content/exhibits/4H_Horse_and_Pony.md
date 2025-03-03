@@ -1,5 +1,5 @@
 ---
-Title: 4-H Horse and Pony Exhibit
+title: 4-H Horse and Pony Exhibit
 Description: Exibit information and entry rules
 ---
 

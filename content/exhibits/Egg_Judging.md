@@ -1,5 +1,5 @@
 ---
-Title: EGG JUDGING
+title: EGG JUDGING
 Description: Exibit information and entry rules
 ---
 

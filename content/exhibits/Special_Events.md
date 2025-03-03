@@ -1,5 +1,5 @@
 ---
-Title: SPECIAL EVENTS
+title: SPECIAL EVENTS
 Description: Exibit information and entry rules
 ---
 # SPECIAL EVENTS

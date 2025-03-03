@@ -1,5 +1,5 @@
 ---
-Title: OPEN DAIRY CATTLE SHOW
+title: OPEN DAIRY CATTLE SHOW
 Description: Exibit information and entry rules
 ---
 # OPEN DAIRY CATTLE SHOW

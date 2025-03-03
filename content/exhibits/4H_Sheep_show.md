@@ -1,5 +1,5 @@
 ---
-Title: 4-H AND OTHER YOUTH SHEEP SHOW
+title: 4-H AND OTHER YOUTH SHEEP SHOW
 Description: Exibit information and entry rules
 ---
 # 4-H AND OTHER YOUTH SHEEP SHOW

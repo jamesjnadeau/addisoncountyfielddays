@@ -1,5 +1,5 @@
 ---
-Title: RABBIT SHOWMANSHIP
+title: RABBIT SHOWMANSHIP
 Description: Exibit information and entry rules
 ---
 

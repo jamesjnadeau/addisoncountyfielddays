@@ -1,5 +1,5 @@
 ---
-Title: Donate to the Fair
+title: Donate to the Fair
 Description: Plese help us with our Capital Campaign
 ---
 

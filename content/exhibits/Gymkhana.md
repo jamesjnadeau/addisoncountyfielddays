@@ -1,5 +1,5 @@
 ---
-Title: GYMKHANA
+title: GYMKHANA
 Description: Exibit information and entry rules
 ---
 

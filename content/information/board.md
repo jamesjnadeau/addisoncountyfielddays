@@ -1,5 +1,5 @@
 ---
-Title: Board of Directors
+title: Board of Directors
 Description: The folks who work behind the scenes to make the fair happen.
   Thanks so much for all you do!
 ---

@@ -1,5 +1,5 @@
 ---
-Title: PEEWEE DAIRY SHOWMANSHIP
+title: PEEWEE DAIRY SHOWMANSHIP
 Description: Exibit information and entry rules
 ---
 

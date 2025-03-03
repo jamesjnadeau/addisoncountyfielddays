@@ -1,5 +1,5 @@
 ---
-Title: 2024 Dedication
+title: 2024 Dedication
 Description: We are dedicating this year’s fair to you
 ---
 # Dedication

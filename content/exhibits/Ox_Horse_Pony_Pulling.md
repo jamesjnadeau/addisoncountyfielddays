@@ -1,5 +1,5 @@
 ---
-Title: Ox, Horse, and Pony Pulling
+title: Ox, Horse, and Pony Pulling
 Description: Exibit information and entry rules
 ---
 

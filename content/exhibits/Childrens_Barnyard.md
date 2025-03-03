@@ -1,5 +1,5 @@
 ---
-Title: CHILDREN’S BARNYARD
+title: CHILDREN’S BARNYARD
 Description: Exibit information and entry rules
 ---
 

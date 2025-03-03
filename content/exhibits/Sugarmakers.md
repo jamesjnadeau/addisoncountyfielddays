@@ -1,5 +1,5 @@
 ---
-Title: Sugarmakers
+title: Sugarmakers
 Description: Exibit information and entry rules
 ---
 

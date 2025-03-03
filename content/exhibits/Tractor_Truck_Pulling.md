@@ -1,5 +1,5 @@
 ---
-Title: Tractor & Truck Pulling
+title: Tractor & Truck Pulling
 Description: Exibit information and entry rules
 ---
 

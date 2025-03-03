@@ -1,5 +1,5 @@
 ---
-Title: Weddings
+title: Weddings
 Description: Have your wedding at the fair and field days grounds.
 ---
 

@@ -1,5 +1,5 @@
 ---
-Title: COMBINED YOUTH AND OPEN BEEF SHOW
+title: COMBINED YOUTH AND OPEN BEEF SHOW
 Description: Exhibit information and entry rules
 ---
 # COMBINED YOUTH AND OPEN BEEF SHOW
