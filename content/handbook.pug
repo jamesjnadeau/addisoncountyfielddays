@@ -41,7 +41,7 @@ description: Handbook preview based on site contents
         li Ribbons for the top three winning entries
 
 .sheet.padding-10mm
-    include schedule/_schedule.pug
+    include:process_pug:remove_frontmattter schedule/index.pug
 
 .sheet.padding-10mm
     include:replace_config_variables:markdown-it(plugins=['markdown-it-table-of-contents']):remove_frontmattter ./exhibits/4H_Youth_Hall.md
