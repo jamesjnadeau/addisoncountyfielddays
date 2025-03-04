@@ -1,6 +1,6 @@
 $gray-base:              #000;
 $font-family-sans-serif:  'Noto Sans', serif;
-$font-size-root:        1.25em;
+$font-size-root:        .75rem;
 $red:                   #ba3030;
 $blue:                  #2489ce;
 $beige:                 #e8e8e8;
@@ -232,39 +232,19 @@ hr {
   // border-color: $brand-dark;
 }
 
-.markdown-content {
-  h1 {
-    text-align: center;
-    text-transform: capitalize;
-  }
-  h2 {
-    margin-top: 3em;
-    // border-bottom: $brand-dark .1em dashed;
-  }
-  h3 {
-    // text-decoration: $brand-dark .05em dashed underline;
-    // text-underline-position: under;
-  }
-
-  h2, h3, h4:not(.panel-title), h5, h6 {
-    text-transform: capitalize;
-    margin-top: 2em;
-  }
-
-  h4.panel-title {
-    font-size: 1.2em;
-  }
-
-  // ensure proper scroll to position on anchor
-  // see https://stackoverflow.com/a/24298427/1978759
-  [id]::before {
-    content: '';
-    display: block;
-    height:      85px;
-    margin-top: -85px;
-    visibility: hidden;
-  }
+h1, h2, h3, h4, h5, h6, p {
+  margin-top: .5rem;
+  margin-bottom: .5rem;
 }
+
+h1 {
+  text-align: center;
+}
+
+.table {
+  font-size: $font-size-root;
+}
+
 
 .form-control {
   height: 100%;

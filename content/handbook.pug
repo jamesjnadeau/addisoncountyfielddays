@@ -8,6 +8,7 @@ description: Handbook preview based on site contents
     .d-flex.justify-content-center
         img.img-fluid.mx-auto(src="/files/logo.png")
     include information/welcome.pug
+    hr
     include:process_pug:remove_frontmattter information/board.pug
     h4.text-center See our website for entire contents of the Exhibitor Handbook.
     h4.text-center https://www.addisoncountyfielddays.com/
@@ -16,8 +17,11 @@ description: Handbook preview based on site contents
     
 .sheet.padding-10mm
     include:process_pug:remove_frontmattter information/admission.pug
+
+.sheet.padding-10mm
+    h1 Map
     .fixed-width
-        a(href="/files/2018-map.jpg" target="_blank")
+        a(href="/files/2018-map.jpg" target="_blank" style="max-height: 175mm")
             img.img-responsive#full-map(src="/files/2018-map.jpg")
 
 .sheet.padding-10mm
