@@ -2,9 +2,8 @@
 title: DRAFT HORSE SHOW
 description: Exibit information and entry rules for the Draft Horse Show
 ---
-Addison County Fair & Field Days Draft Horse Show
 
-# DRAFT HORSE SHOW
+# Draft Horse Show
 
 [[toc]]
 

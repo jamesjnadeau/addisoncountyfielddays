@@ -22,6 +22,10 @@ let pug_process_pug_filter = function(text, options) {
     return pug.render(text)
 }
 
+let pug_remove_toc_filter = function(text, options) {
+    return text.replaceAll('[[toc]]', '');
+}
+
 let pug_replace_config_variables_filter = function(text, options) {
     let temp = text;
     for(var key in config) {
@@ -46,12 +50,13 @@ export default async function(eleventyConfig) {
 
     // use pug plugin, 
     // global.eleventyNavigationPlugin = eleventyNavigationPlugin.navigation; // see https://github.com/11ty/eleventy-plugin-template-languages/issues/1#issuecomment-2221156643
-    
+    // include:replace_config_variables:markdown-it(plugins=['markdown-it-table-of-contents']):remove_frontmattter ./exhibits/4H_Youth_Hall.md
     eleventyConfig.addPlugin(pugPlugin, {
 		// debug: true,
         filters: {
             'remove_frontmattter': pug_remove_fm_filter,
             'process_pug': pug_process_pug_filter,
+            'remove_toc': pug_remove_toc_filter,
             'replace_config_variables': pug_replace_config_variables_filter,
         }
         // filters: eleventyConfig.filters,
