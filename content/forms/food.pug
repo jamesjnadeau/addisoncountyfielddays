@@ -8,7 +8,7 @@ description: "Food Vendor forms."
   p Please fill out the form below to contact us and we'll get back to you with a form as soon as possible.
 .fixed-width 
   form(name='2020_food_vendor', method='POST', data-netlify='true', netlify-honeypot="bot-field" action="/success")
-    p.hidden
+    p.hidden.d-none
         label
         | Don’t fill this out if you're human: 
         input(name='bot-field')
