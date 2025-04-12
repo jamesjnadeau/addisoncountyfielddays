@@ -1,16 +1,15 @@
----
-title: Field Crops & Hand Mowing
-description: Exibit information and entry rules for Field Crops & Handmowing at the Addison County Fair and Field Days.
----
+/*
+Title: Field Crops 
+Description: Exibit information and entry rules for Field Crops & Handmowing at the Addison County Fair and Field Days.
+*/
 
-[[toc]]
+[[TOC]]
+
 
 # FIELD CROPS
+## NEW CROPS SUPERINTENDENT: Abigail Augraten-abigail.augraten@uvm.edu
 
-##### SUPERINTENDENT: Abigail Augraten-abigail.augraten@uvm.edu
-
-**ENTRY DEADLINE:** Monday, August {{config.monday}}, {{config.year}}-All Products in by 12:00 noon
-
+ENTRY DEADLINE: Monday, August 7, 2023-All Products in by 12:00 noon
 
 ## Rules
 1. Limit one (1) entry in each class. All entries must be produced on the exhibitor’s farm.
@@ -81,4 +80,5 @@ all safety precautions.
 1. 25-foot strip – SENIOR MEN, ages 60-79
 1. 15-foot strip – ROGER SHATTUCK MEMORIAL (Ages 80+)
 7. 25-foot strip – OPEN TO ALL
+
 
