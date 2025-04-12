@@ -21,6 +21,11 @@ Ringmaster:
 
 SECRETARY: Kathy Kennett,  Phone 759-2015, Cell 349-5671
 
+Balanced Rhythms — Matt Rose will be our on-call emergency veterinarian, You can page him by  calling (802) 951-4581. Payment is expected at time of service.
+• Balanced Rhythms — Matt Rose will be our on-call emergency veterinarian, You can page him by  calling (802) 951-4581. Payment is expected at time of service.
+  calling (802) 951-4581. Payment is expected at time of service.
+
+
 <!-- 
 We are very excited to be in our 21st year as a North American Classic Six qualifying show.
 -->
@@ -112,6 +117,8 @@ classes are combined the premiums from the higher staked class will be awarded.
 6. ### Junior Champion Mare
 
    (No fee)
+
+   All breeds combined
 
    The all breeds combined winner will receive the Bernard Moeykins Award sponsored by Bob and Nancy Lennox.    (1st & 2nd place winners from classes, 3-5 are eligible.) All breeds combined.
 7. ### Lactating Mares,
@@ -500,7 +507,10 @@ classes are combined the premiums from the higher staked class will be awarded.
    had devoted many years to breeding and raising quality Belgian Draft Horses. He
    especially appreciated a high caliber filly.
 7. ### THE RUSSEL C. Caprenter Award
-    Started in 2020.
+
+   Started in 2020, this award is given to the winner of the Men's Cart Show Division. Russell was a businessman, friend to
+all, selfless pu-bti. servant, family man and draft horse enthusiast with his family as Donnell Belgians'.
+
 8. ### THE MATHEW DEERING MEMORIAL AWARD
 
    Started in 2023, this award is given to the winner of the Two Horse Hitch Show Division Class. Matt was a draft horse
