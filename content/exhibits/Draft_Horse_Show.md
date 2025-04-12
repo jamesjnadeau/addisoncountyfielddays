@@ -22,9 +22,7 @@ Ringmaster:
 SECRETARY: Kathy Kennett,  Phone 759-2015, Cell 349-5671
 
 Balanced Rhythms — Matt Rose will be our on-call emergency veterinarian, You can page him by  calling (802) 951-4581. Payment is expected at time of service.
-• Balanced Rhythms — Matt Rose will be our on-call emergency veterinarian, You can page him by  calling (802) 951-4581. Payment is expected at time of service.
-  calling (802) 951-4581. Payment is expected at time of service.
-
+
 
 <!-- 
 We are very excited to be in our 21st year as a North American Classic Six qualifying show.
@@ -526,7 +524,9 @@ all, selfless pu-bti. servant, family man and draft horse enthusiast with his fa
 Friday, August {{config.friday}}– Saturday, August {{config.saturday}} will allow us to fill all stalls. We have a total of
 156 stalls available.
 
-• We will welcome as our {{config.year}} judge: Malcolm Yeadon, Ontario, CA
+• We will welcome as our {{config.year}} judge: TBA
+
+• Balanced Rhythms — Matt Rose will be our on-call emergency veterinarian, You can page him by  calling (802) 951-4581. Payment is expected at time of service.
 
 • We will again be a North American Classic Six qualifying show. We offer classes for the
 Six Horse Hitch, Classic Cart and Youth Cart.
@@ -536,7 +536,7 @@ you leave. It sometimes takes 30 to 40 minutes with a bucket tractor to clean ea
 and finding folks to clean them for the refund is next to impossible and we have between
 20 to 40 stalls that we clean.
 
-**VERY IMPORTANT** - camping forms need to be in by the deadline of August 1. (Not mailed on August 1 but in our hands by August 1) 
+**VERY IMPORTANT** - camping forms need to be in by the **deadline of July 12th.** (Not mailed on July 12th but in our hands by July 12th) 
 This is to help us make sure there is enough room on the camping bars. It is
 sometimes a very tight squeeze with last minute camping space needed. 
 Length of camper is important as not all sites are the same length. Again, we will keep a waiting list if spaces fill up.
