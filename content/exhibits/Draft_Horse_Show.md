@@ -4,7 +4,7 @@ description: Exibit information and entry rules for the Draft Horse Show
 ---
 # Draft Horse Show
 
-\[[toc]]
+[[toc]]
 
 Friday, August {{config.friday}}, {{config.year}} 9:30 am. — Saturday, August {{config.saturday}}, {{config.year}} 9:30 am.
 
@@ -121,18 +121,16 @@ classes are combined the premiums from the higher staked class will be awarded.
    All breeds combined.
 
    Prizes: $50, $40, $25, $20, $10, $5
-8. ### Dry Mares,
+8. ### Dry Mares, 3 and over.
 
    Entry Fee: $5.00
 
-   3 and over. All breeds combined.
+   All breeds combined.
 
    Prizes: $50, $40, $25, $20, $10, $5
-9. ### Mares, 3 and over
+9. ### Mares, Haflinger and Pony Drafts - All Ages
 
    Entry Fee: $5.00
-
-   Haflinger and Pony Drafts. All ages
 
    Prizes: $50, $40, $25, $20, $10, $5
 10. ### Senior Champion Mare. All breeds combined.
@@ -167,8 +165,7 @@ classes are combined the premiums from the higher staked class will be awarded.
 
     Entry Fee: $5.00
 
-    All breeds combined. Ladies to drive. The highest placing
-    Belgian to receive the Ruth Wright Memorial Award. Sponsored by Stanley & Penny
+    All breeds combined. Ladies to drive. The winner to receive the Ruth Wright Memorial Award. Sponsored by Stanley & Penny
     Wright. 
 
     Prizes: $50, $40, $25, $20, $10, $5
