@@ -211,6 +211,8 @@ classes are combined the premiums from the higher staked class will be awarded.
 
     All breeds combined.
 
+    Winner to receive the Russel C. Carpenter Memorial Reward
+
     Prizes: $50, $40, $25, $20, $10, $5
 22. ### Tandem Hitch Haflinger and Pony Drafts.
 
@@ -323,8 +325,10 @@ classes are combined the premiums from the higher staked class will be awarded.
 
     No entry fee. 
 
-    1st & 2nd place winners of 2 previous stallion classes are eligible
+    1st & 2nd place winners of classes 36 and 37
 39. ### Stallions, 3 years & over.
+
+    Senior Champion
 
     Entry Fee: $5.00
 
@@ -340,7 +344,7 @@ classes are combined the premiums from the higher staked class will be awarded.
 
     No entry fee. 
 
-    1st & 2nd place winners of classes previous 3 stallion classes are eligible
+    1st & 2nd place winners of classes 38-40
 42. ### Get of Sire – 2 or more animals, any age or sex.
 
     Entry Fee: $5.00
@@ -491,16 +495,18 @@ classes are combined the premiums from the higher staked class will be awarded.
    for many years to come.
 6. ### THE BERNARD MOEYKENS JUNIOR CHAMPION BELGIAN MARE AWARD
 
-   This award is given by the family of Bernard Moeykens from Tari-Wey Stables in Shoreham,
+   Started in 2009, this award is given by the family of Bernard Moeykens from Tari-Wey Stables in Shoreham,
    VT. This award is given in recognition of Bernard, a life long Vermont Horseman, who
    had devoted many years to breeding and raising quality Belgian Draft Horses. He
    especially appreciated a high caliber filly.
-7. ### THE MATHEW DEERING MEMORIAL AWARD
+7. ### THE RUSSEL C. Caprenter Award
+    Started in 2020.
+8. ### THE MATHEW DEERING MEMORIAL AWARD
 
-   This award is given to the winner of the Two Horse Hitch Show Division Class. Matt was a draft horse
+   Started in 2023, this award is given to the winner of the Two Horse Hitch Show Division Class. Matt was a draft horse
    enthusiast and teamster for Donnell Belgians since 2006. Matt was a friend to all and proudly showed at
    Addison County Fair and Field Days for 16 years.
-8. ### OUTSTANDING BELGIAN/PERCHERON/CLYDE/SHIRE & FARM YOUTH
+9. ### OUTSTANDING BELGIAN/PERCHERON/CLYDE/SHIRE & FARM YOUTH
 
    Awarded to the high point youth in each age group.
 
@@ -541,8 +547,7 @@ if different. Look for the class numbers as to what is needed for information.
 When making your travel plans, we recommend that you do
 not use Route 125 between Route 100 in Hancock and Route 7 in
 East Middlebury to travel to the show. This section of Route 125 is
-
- not recommended for trailer trucks.”
+not recommended for trailer trucks.
 
  Kathy Nisun, Director
 
