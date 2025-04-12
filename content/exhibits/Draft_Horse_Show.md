@@ -2,14 +2,13 @@
 title: DRAFT HORSE SHOW
 description: Exibit information and entry rules for the Draft Horse Show
 ---
-
 # Draft Horse Show
 
-[[toc]]
+\[[toc]]
 
 Friday, August {{config.friday}}, {{config.year}} 9:30 am. — Saturday, August {{config.saturday}}, {{config.year}} 9:30 am.
 
-JUDGE: Malcolm Yeadon, Ontario, CA
+JUDGE: TBA
 
 Director: Kathy Nisun, 349-8971
 
@@ -32,12 +31,14 @@ year.
 Classes will proceed in numerical order beginning at 9:30 a.m. on Friday and 9:30
 a.m. on Saturday. 
 Six ribbons will be awarded in each class. 
+
+
 Stalls will be available after 7 p.m. Thursday. 
 
 Stalls are limited (156) so we cannot offer tack stalls. Stalls will be reserved based on date entries received by the Secretary. A $25.00 per stall deposit is required. $15.00 will be refunded per stall when cleaned and checked. Please call if unable to attend as we do have a limited number of stalls. If stalls fill we will keep a waiting list. Sawdust may or may not be available (depending if it is all gone). Shavings will be available to purchase ahead of time at $6.00 per bag; they will be in the horse area to be picked up by the exhibitor.
 
 Entry Fees are $5.00 per class except as noted. Post entries are double entry fees. No refunds
-without a vet certificate. Pre-entries due by August 1, {{config.year}}.
+without a vet certificate. Pre-entries due by July 23rd, {{config.year}}.
 
 Send entries to: Kathy Kennett, 1716 VT Route 22A, Panton, VT 05491
 Email: kkennett@together.net Phone: 759-2015. During Fair Cell Phone: 349-5671
@@ -49,6 +50,8 @@ Email: kkennett@together.net Phone: 759-2015. During Fair Cell Phone: 349-5671
    of showing with a maximum of 4 horses. Exhibitors will receive a maximum of 4 vehicle
    passes. Gate admissions will not be refunded by the Show Secretary.
 
+### Show Rules
+
 The show committee reserves the right to divide, cancel or combine classes depending on entries. If
 classes are combined the premiums from the higher staked class will be awarded.
 
@@ -57,7 +60,7 @@ classes are combined the premiums from the higher staked class will be awarded.
    * Have the option of decorating the mane and tail
    * Be shown without scotch bottom shoes
    * Be shown without scotch collars when hitched
-2. No horse may be shown in both divisions. Classes 31 & 32 Friday afternoon are open to all.
+2. No horse may be shown in both divisions. 
 3. “Junior Exhibitor” classes are open to farm and show horses, as the decision of the Judge
    is based on the performance of the exhibitor, not that of the horse
 4. Junior drivers (18 & under) must be accompanied by an adult.
@@ -67,8 +70,7 @@ classes are combined the premiums from the higher staked class will be awarded.
    and trot, including driver’s ability to present the team in a collected manner. Horse’s
    conformation and way of going will be considered.
 7. Classes 3-11 and 33-45 are for show animals.
-8. Haflingers & Pony Drafts may enter the youth classes as well as their own titled classes
-   and classes 31 and 32.
+8. Haflingers & Pony Drafts may enter the youth classes as well as their own titled classes.
 
 ## Schedule
 
@@ -111,8 +113,8 @@ classes are combined the premiums from the higher staked class will be awarded.
 
    (No fee)
 
-   The highest placing Belgian will receive the Bernard Moeykins Award sponsored by Bob and Nancy Lennox.    (1st & 2nd place winners from classes, 3, 4, & 5 are eligible.) All breeds combined.
-7. ### Lactating Mare
+   The all breeds combined winner will receive the Bernard Moeykins Award sponsored by Bob and Nancy Lennox.    (1st & 2nd place winners from classes, 3-5 are eligible.) All breeds combined.
+7. ### Lactating Mares,
 
    Entry Fee: $5.00
 
@@ -126,7 +128,7 @@ classes are combined the premiums from the higher staked class will be awarded.
    3 and over. All breeds combined.
 
    Prizes: $50, $40, $25, $20, $10, $5
-9. ### Mares,
+9. ### Mares, 3 and over
 
    Entry Fee: $5.00
 
