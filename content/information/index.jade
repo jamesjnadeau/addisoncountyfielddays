@@ -1,0 +1,45 @@
+extends ../../templates/default
+
+block vars
+  -var title = 'General Information'
+  -var description = 'General information about the fair, including a fairgrounds map.'
+
+block content
+  .text-center
+    h1 General Information
+    hr
+    //- a.btn.btn-primary(href="/files/Field-Days-2019_booklet.pdf") Download Handbook
+    p Use the buttons below to get more information
+  .fixed-width
+    .btn-group.btn-group-lg.btn-group-justified(role="group")
+      a.btn.btn-default(href="admission") Admissions Fee
+      //- this seems to be ok as a pdf
+      a.btn.btn-default(href="/files/Rules-Regulations.pdf" target="blank") Rules and Regulations
+    hr
+    .btn-group-lg.btn-group-justified(role="group")
+      a.btn.btn-default(href="map") Map
+      a.btn.btn-default(href="board") Board of Directors
+      
+    hr
+
+    
+  .fixed-width
+    h2 Welcome
+
+    p. 
+      The Addison County Fair & Field Days Board extends a cordial invitation to you, and your friends and family
+      to exhibit at this year’s Addison County Fair & Field Days. 
+    p. 
+      It is our pleasure to
+      present the opportunity for area citizens to showcase the quality products which they have produced. 
+    p. 
+      The guidelines and rules linked to above are for anyone wishing to enter something in the competitive exhibit
+      departments.
+    h4.
+      We extend our sincere appreciation to all who have exhibited in the past, and look forward to working with
+      new, as well as past exhibitors, during our Fair.
+    br
+    
+    
+  
+    
