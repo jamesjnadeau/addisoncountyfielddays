@@ -1,20 +1,16 @@
----
-title: 4-H Horse and Pony Exhibit
-description: Exibit information and entry rules
----
+/*
+Title: 4-H Horse and Pony Exhibit
+Description: Exibit information and entry rules
+*/
 
 # 4-H AND OTHER YOUTH HORSE & PONY SHOWS
-Director: Kathy Nisun Superintendents: Jessica Stuart 802-233-3013, Bailee layn-Gordon 802-922-1653
-**Monday, August {{config.monday}}, Tuesday, August {{config.tuesday}}, and Wednesday, August {{config.wednesday}}, {{config.year}}**
-Rain or Shine
-Please: **ALL CAMPERS AND HORSE TRAILERS MUST CHECK IN BEFORE PARKING THEM**
 
 
-[[toc]]
+[[TOC]]
 
 ## RULES & REGULATIONS
 
-1. Age: 18 and under as of January 1, {{config.year}}.
+1. Age: 18 and under as of January 1, 2021.
 2. ENTRY FEE: $2.00 per class. $2.00 per number ($1.00 refunded at end of show).
 Number goes to each rider. If you scratch a class and enter a new one, you must pay
 another $2.00. No refunds, no exceptions. All classes must be paid for before receiving
@@ -109,27 +105,26 @@ entry blank, a site will be assigned to you, if none are available you will be n
 management. $35/night $150 a week.
 33.**** Do not arrive before 3:00 p.m. on Sunday with your horse/pony and/or camper.****
 34. Make all checks payable to Addison County Fair & Field Days.
-35. Entries close with the postmark of July 31, {{config.year}}.
+35. Entries close with the postmark of July 30, 2021.
 36. No hay allowed in front of stalls during Field Days.
 37. NO ONE SHALL APPROACH A JUDGE WITH REGARD TO A DECISION UNLESS
 HE FIRST OBTAINS PERMISSION FROM THE SHOW COMMITTEE, WHO SHALL
 ARRANGE AN APPOINTMENT WITH THE JUDGE AT A PROPER TIME AND PLACE.
 
-###### ENGLISH ONLY 
-BEGINNER & ADVANCED BEGINNER SHOW
-Monday, August {{config.monday}}, {{config.year}} - 8:30 am RAIN OR SHINE
-**JUDGE: BETHANY WHITE   TRAIL JUDGE: KAREN MALZAC** 
+ENGLISH ONLY BEGINNER & ADVANCED BEGINNER SHOW
 CLASSES
+1. 
 
-1. 4-H Beginner Fitting, Grooming & Showmanship 
-2. Open Beginner Fitting, Grooming & Showmanship 
-3. Lead Line Fitting, Grooming & Showmanship (ages 4-8 years, assisted by someone 14 or over)
+
+1. 4-H Beginner Fitting, Grooming & Showmanship Pony
+2. Open Beginner Fitting, Grooming & Showmanship Pony
+3. Lead Line Fitting, Grooming & Showmanship (ages 5-8 years, assisted by someone 14 or over)
          Championship Fitting, Grooming, & Showmanship BEGINNERS (1st & 2nd place winners from classes 1, 2, 3, & 4)
-4. 4-H Advanced Beginner Fitting, Grooming & Showmanship 
-5. Open Advanced Beginner Fitting, Grooming & Showmanship 
+4. 4-H Advanced Beginner Fitting, Grooming & Showmanship Pony
+5. Open Advanced Beginner Fitting, Grooming & Showmanship Pony
 6. Adult Walk/Trot Fitting 18 yrs and older (Must not be showing in a cantering class at anytime during field days)
          Championship Fitting, Grooming, & Showmanship ADVANCED BEGINNERS (1st & 2nd place winners from classes 6, 7, 8, & 9)
-7. Leadline, (English and Western), ages 4-8 years, assisted by someone 14 yrs or older.
+7. Leadline, (English and Western), ages 5-8 years, assisted by someone 14 yrs or older.
 8. Beginner Equitation
 9. Advanced Beginner Equitation
 10. Adult Walk/Trot Equitation
@@ -177,14 +172,13 @@ CHAMPIONSHIPS: All divisions. Classes to count are Fitting, Project Up, Equitati
 Trail.
 
 
-Tuesday, August {{config.tuesday}}, {{config.year}}- 8:30am RAIN OR SHINE
-**JUDGE: MICHAEL DUNN     TRAIL JUDGE KAREN MALZAC**
+## WESTERN ONLY 4-H AND OPEN YOUTH HORSE SHOW CLASSES
 
 1. 4-H Beginner Fitting, Grooming & Showmanship
 2. 4-H Advanced Beginner Fitting, Grooming &
 Showmanship
 3. Lead Line Fitting, Grooming & Showmanship (ages
-4-8 years, assisted by someone 14 or over)
+5-8 years, assisted by someone 14 or over)
 4. Open Beginner Fitting, Grooming, & Showmanship
 5. Open Advanced Beginner Fitting, Grooming, & Showmanship
 6. AdultWalk/Trot Fitting, Grooming & Showmanship 18 years
@@ -198,7 +192,7 @@ Beginners and Advanced Beginners
 10. Open Senior Fitting, Grooming & Showmanship
 11. Adult Fitting, Grooming & Showmanship
 Championship Fitting, Grooming, & Showmanship (1st & 2nd place winners of classes 7, 8, 9 & 10)
-12. Lead Line - English & Western (Ages 4-8 yrs old - assisted by someone 14 or older)
+12. Lead Line - English & Western (Ages 5-8 yrs old - assisted by someone 14 or older)
 13. Beginner Equitation
 14. Advanced Beginner Equitation
 15. Junior Equitation
@@ -247,10 +241,6 @@ All divisions, Classes to count are Fitting, Project Up, Equitation, Pleasure, &
 
 
 ## ENGLISH ONLY 4-H AND OPEN YOUTH HORSE SHOW
-
-Wednesday, August {{config.wednesday}}, {{config.year}} - 8:30am RAIN OR SHINE
-\*\*JUDGE: Tammy Johnson  TRAIL JUDGE Karen Malzac
-
 ### CLASSES
 
 
