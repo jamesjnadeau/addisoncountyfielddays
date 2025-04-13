@@ -1,15 +1,16 @@
----
-title: CHILDREN’S BARNYARD
-description: Exibit information and entry rules
----
+/*
+Title: CHILDREN’S BARNYARD
+Description: Exibit information and entry rules
+*/
 
 
 # CHILDREN’S BARNYARD
 
-[[toc]]
+[[TOC]]
 
 DIRECTOR: Tricia Foster, 233-2821
-Pam Gevry, 373-8069
+Pam Gevry, 759-2238, Cell: 373
+-8069
 
 
 A wonderful place for children of all ages, 9 days to 99 years. See young animals of the
@@ -23,16 +24,15 @@ this year.
 If you have an animal or bird you think might be of interest, please contact Pam before
 August 1st.
 
-All animals eligible for the rabies vaccine MUST have their RABIES immunization at least 30 days
-before the fair and shots must be current. All out of state equine must have a
+All animals eligible for the rabies vaccine MUST have their RABIES immunization before July
+1st of the year to be entered and shots must be current. In addition, all equine must have a
 negative coggin test. 
 
-Poultry must be state pullorum-typhoid tested(Which will be done at the
-fairgrounds upon arrival by the state veterinarian). Sheep and goats must have scrapie tags or
-be microchipped.  All other livestock must have a state approved 840 or metal ID tag which can
-be acquired thru the state.  
+Poultry must be state pollorum-typhoid tested. (Which will be done at the
+fairgrounds upon arrival by the state veterinarian). Animals must show proof to the barnyard
+staff at the time of the fair, before animals can be allowed to remain in the Children’s Barnyard.
 
-Please Note: copies of negative coggin and pullorum-typhoid test results and current rabies
+Please Note: copies of negative coggin and pollorum-typhoid test results and current rabies
 shots need to be on file at the barn during the fair.
 
 Any animal which, in the judgment of the Field Days veterinarian OR the Barnyard Director
@@ -64,13 +64,21 @@ Exhibits will be judged on the following criteria:
 5. Interest in animal & exhibit
 
 Entries may be entered in the following:
-
 1.Children’s Division (under 8): must be attended ½ hour or more each day.
 2.Youth Division (ages 9-13): must be attended 1 hour or more each day.
 3.Young Adult (ages 14-17): must be attended 1 hour or more each day.
 4.Adult Division (over 18): must be attended 2 hours or more each day.
 5.Group Division(Under 18) must be attended 2 hours or more a day by a group of at least
 one adult and 2 children.
+
+### Judging Judging
+
+Exhibits will be judged 0n the following criteria:
+1. Clean & neat appearance ofhandler & overall health ofanimal
+2. Educational content/informational posters
+3. Interaction with the public
+4. Knowledge ofanimal
+5. Interest in animal & exhibit
 
 
 ### Premiums
@@ -99,12 +107,3 @@ the required time each day will not receive full Premium money. Exhibits must be
 8:00 p.m. Monday and remain in place until 9:00 p.m. on Saturday. Please register early, as
 space will be allotted as entries come in according to the needs of each exhibit. Late exhibits
 will not be judged!
-
-
-## FREE YOUTH ACTIVITIES
-DIRECTOR: Tricia Foster, 233-2821
-
-SUPERINTENDENT: Pam Gevry, 373-8069
-
-Various free youth activities will be held in the tent by the Childrens Barnyard every day (see schedule for times). Some examples of games are face painting, try your luck games, bubble making
-and many more! No entry fee or presign up is necessary.

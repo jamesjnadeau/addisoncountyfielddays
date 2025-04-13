@@ -4,7 +4,7 @@ description: Exibit information and entry rules for the Draft Horse Show
 ---
 # Draft Horse Show
 
-[[toc]]
+\[[toc]]
 
 Friday, August {{config.friday}}, {{config.year}} 9:30 am. — Saturday, August {{config.saturday}}, {{config.year}} 9:30 am.
 
@@ -21,12 +21,7 @@ Ringmaster:
 
 SECRETARY: Kathy Kennett,  Phone 759-2015, Cell 349-5671
 
-Balanced Rhythms — Matt Rose will be our on-call emergency veterinarian, You can page him by  calling (802) 951-4581. Payment is expected at time of service.
-
-
-<!-- 
-We are very excited to be in our 21st year as a North American Classic Six qualifying show.
--->
+Emergency Veterinarian: Balanced Rhythms — Matt Rose -you can page him by  calling (802) 951-4581. Payment is expected at time of service.
 
 All draft horses and draft ponies are welcome. We will have Haflinger Classes again this
 year. 
@@ -34,7 +29,6 @@ year.
 Classes will proceed in numerical order beginning at 9:30 a.m. on Friday and 9:30
 a.m. on Saturday. 
 Six ribbons will be awarded in each class. 
-
 
 Stalls will be available after 7 p.m. Thursday. 
 
@@ -504,12 +498,10 @@ classes are combined the premiums from the higher staked class will be awarded.
    VT. This award is given in recognition of Bernard, a life long Vermont Horseman, who
    had devoted many years to breeding and raising quality Belgian Draft Horses. He
    especially appreciated a high caliber filly.
-7. ### THE RUSSEL C. Caprenter Award
+7. ### THE RUSSEL C. CARPENTER AWARD -Started in 2020
 
-   Started in 2020, this award is given to the winner of the Men's Cart Show Division. Russell was a businessman, friend to
-all, selfless pu-bti. servant, family man and draft horse enthusiast with his family as Donnell Belgians'.
-
-8. ### THE MATHEW DEERING MEMORIAL AWARD
+   Started in 2020, this award is given to the winner of the Men's Cart Show Division. Russell was a businessman, friend to all, selfless public servant, family man and draft horse enthusiast with his family as Donnell Belgians'.
+8. ### THE MATHEW DEERING MEMORIAL AWARD - Started in 2023
 
    Started in 2023, this award is given to the winner of the Two Horse Hitch Show Division Class. Matt was a draft horse
    enthusiast and teamster for Donnell Belgians since 2006. Matt was a friend to all and proudly showed at
@@ -554,10 +546,7 @@ a halter horse or single horse hitch class they go in the top part, if a team hi
 class, they go in the bottom part with the names of each driver for the class
 if different. Look for the class numbers as to what is needed for information.
 
-When making your travel plans, we recommend that you do
-not use Route 125 between Route 100 in Hancock and Route 7 in
-East Middlebury to travel to the show. This section of Route 125 is
-not recommended for trailer trucks.
+When making your travel plans, we recommend that you do not use Route 125 between Route 100 in Hancock and Route 7 in East Middlebury to travel to the show. This section of Route 125 is not recommended for trailer trucks.
 
  Kathy Nisun, Director
 
