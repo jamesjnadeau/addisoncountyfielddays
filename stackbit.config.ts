@@ -49,4 +49,3 @@ export default defineStackbitConfig({
      // Specific option to prevent Visual Editor from interfering with Eleventy's page reload mechanism
     customContentReload: true
 });
-

@@ -10,7 +10,7 @@
     "start": "npx @11ty/eleventy --config .eleventy.js --serve --port=8081",
     "dev": "NODE_ENV=development npm run start",
     "build": "npx @11ty/eleventy --config .eleventy.js",
-    "stackbit": "npx @stackbit/cli dev --port 8083"
+    "stackbit": " npx @stackbit/cli dev"
   },
   "dependencies": {
     "@11ty/eleventy": "^3.0.0",
