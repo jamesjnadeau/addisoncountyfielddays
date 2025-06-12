@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../../stackbit.config.ts"],
-  "sourcesContent": ["export default {\n  stackbitVersion: \"~0.6.0\",\n  ssgName: \"eleventy\",\n  nodeVersion: \"22\",\n\n  // Eleventy to run inside Visual Editor container\n  devCommand: \"npx @11ty/eleventy  --config .eleventy.js --serve --port=3000\",\n\n  // Eleventy-specific configuration\n  experimental: {\n    ssg: {\n      proxyWebsockets: true,\n      logPatterns: {\n        up: [\"Server at\"],\n      }\n    }\n  },\n\n  // Specific option to prevent Visual Editor from interfering with Eleventy's page reload mechanism\n  customContentReload: true\n};\n"],
-  "mappings": ";;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA,IAAO,0BAAQ;AAAA,EACb,iBAAiB;AAAA,EACjB,SAAS;AAAA,EACT,aAAa;AAAA;AAAA,EAGb,YAAY;AAAA;AAAA,EAGZ,cAAc;AAAA,IACZ,KAAK;AAAA,MACH,iBAAiB;AAAA,MACjB,aAAa;AAAA,QACX,IAAI,CAAC,WAAW;AAAA,MAClB;AAAA,IACF;AAAA,EACF;AAAA;AAAA,EAGA,qBAAqB;AACvB;",
-  "names": []
-}
