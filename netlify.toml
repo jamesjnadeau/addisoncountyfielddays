@@ -12,5 +12,7 @@
 
 [dev]
   command = "npm run dev" # Command to start your dev server
-  port = 3000 # Port that the dev server will be listening on
+  port = 3001 # Port that the netlify dev server will be listening on
   publish = "built"
+  targetPort = 8081
+  framework= "#custom"
