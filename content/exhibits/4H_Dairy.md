@@ -1,6 +1,7 @@
 ---
 title: 4-H DAIRY CATTLE EXHIBIT
 description: Exibit information and entry rules
+type: Exhibits
 ---
 # 4-H DAIRY CATTLE EXHIBIT
 

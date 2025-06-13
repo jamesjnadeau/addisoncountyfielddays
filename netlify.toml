@@ -11,8 +11,8 @@
   # functions = "functions"
 
 [dev]
-  command = "npm run dev" # Command to start your dev server
-  port = 3001 # Port that the netlify dev server will be listening on
+  command = "npx @11ty/eleventy --config .eleventy.js --serve --port=8081" # Command to start your dev server
+  # port = 3000 # Port that the netlify dev server will be listening on
   publish = "built"
   targetPort = 8081
   framework= "#custom"
