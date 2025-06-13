@@ -4,7 +4,7 @@ import { defineStackbitConfig } from '@stackbit/types';
 export default defineStackbitConfig({
     "stackbitVersion": "~0.6.0",
     "nodeVersion": "22",
-    "devCommand": "npx @11ty/eleventy  --config .eleventy.js --serve --port=3000",
+    "devCommand": "npx @11ty/eleventy --config .eleventy.js --serve --port=3000",
     "ssgName": "eleventy",
     "contentSources": [
       new GitContentSource({
@@ -26,7 +26,7 @@ export default defineStackbitConfig({
           name: "Forms",
           // Define the model as a page model
           type: "page",
-          urlPath: "/forms/{slug}",
+          urlPath: "/forms/{slug}/",
           filePath: "content/forms/{slug}.pug",
           fields: [
             { name: "title", type: "string", required: true },
